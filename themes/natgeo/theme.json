@@ -1,0 +1,163 @@
+{
+  "schema": "ppt-master-themes/theme-v1",
+  "id": "natgeo",
+  "name": "National Geographic Editorial",
+  "name_zh": "国家地理大片",
+  "summary": "Editorial storytelling combining purposeful photography, measured reading grids and evidence-led information graphics; clean white fields, trim-edge images and continuous facing-page panoramas adapt to the content.",
+  "tested_with_ppt_master": [
+    "6.7.2",
+    "6.3.2"
+  ],
+  "style_workspace": "workspace",
+  "style_spec": "workspace/templates/design_spec.style.natgeo-editorial.md",
+  "recipes": "recipes.md",
+  "examples": "examples",
+  "stage2_seeds": {
+    "mode": "custom",
+    "mode_references": [
+      "showcase"
+    ],
+    "mode_behavior": "Showcase pacing: photo-led cover and chapter pages alternate with reading or data pages; build a clear narrative for the audience, preserving source order only when the task requires it.",
+    "visual_style": "custom",
+    "visual_style_references": [
+      "photo-editorial"
+    ],
+    "visual_style_behavior": "Photo-led editorial storytelling: expansive photography and clear focal hierarchy on image-led pages; clean white space for reading, evidence and data. Coordinate serif titles, condensed kickers, captions and restrained rules with native relationships, charts or tables where useful. Adapt image scale, contrast treatment and page rhythm to the communication task and the resolved identity. Photographs normally fill the canvas or bleed to trim edges; use one continuously cropped panoramic source for a requested facing-page spread, with focal subjects kept clear of the gutter. For reading-led documents, resolve physical type size and prose measure before the grid. Select timelines, processes, comparisons, spatial guides or quantitative graphics from the information relationship; an information-led page may use white space without photography. Keep labels, relationship geometry and supported data objects editable under the active workflow. Survey the whole narrative for visual opportunities and retained photo/prose/lookup roles; prioritise reader benefit rather than a diagram quota. Exact-lookup tables default to the open horizontal-rule treatment.",
+    "image_rendering": "corporate-photo"
+  },
+  "colors": {
+    "background": "#FFFFFF",
+    "secondary_bg": "#151B2E",
+    "primary": "#22306E",
+    "accent": "#F2C14E",
+    "secondary_accent": "#8A6A12",
+    "body_text": "#151B2E",
+    "secondary_text": "#3E4458",
+    "divider": "#C9C3B6"
+  },
+  "contextual_paint": {
+    "scrim": "#0B1410",
+    "paper": "#FFFFFF",
+    "on_photo_text": "#FFFFFF"
+  },
+  "typography": {
+    "font_family": "Arial, Helvetica, sans-serif",
+    "title_family": "\"Playfair Display\", Georgia, serif",
+    "body_family": "Arial, Helvetica, sans-serif",
+    "kicker_family": "Oswald, \"Arial Narrow\", Arial, sans-serif",
+    "svg_stacks": {
+      "title": "'Playfair Display', Georgia, serif",
+      "kicker": "Oswald, 'Arial Narrow', Arial",
+      "body": "Arial"
+    },
+    "ladders": {
+      "a4": {
+        "annotation": 20,
+        "body": 26,
+        "lead": 31,
+        "subtitle": 36,
+        "heading_sm": 42,
+        "title": 64,
+        "display": 84,
+        "hero": 160
+      },
+      "ppt169": {
+        "annotation": 16,
+        "body": 22,
+        "lead": 27,
+        "subtitle": 30,
+        "heading_sm": 35,
+        "title": 50,
+        "display": 68,
+        "hero": 130
+      }
+    },
+    "tracking_em": {
+      "kicker": 0.26,
+      "running_header": 0.28,
+      "display": 0.005
+    },
+    "leading": {
+      "body": 1.55,
+      "display": 1.12
+    },
+    "ladder_note": "Example authoring-unit ladder, not final print point sizes or a confirmed project hierarchy. Resolve language, physical output size, reading distance, prose measure and sustained-reading versus feature-copy roles before adopting anchors; calibrate the selected faces through ppt-master."
+  },
+  "fonts": [
+    {
+      "family": "Playfair Display",
+      "role": "title",
+      "license": "OFL-1.1",
+      "license_file": "fonts/OFL-PlayfairDisplay.txt",
+      "url": "https://fonts.google.com/specimen/Playfair+Display",
+      "embed": {
+        "regular": {
+          "source": "fonts/PlayfairDisplay[wght].ttf",
+          "wght": 400
+        },
+        "bold": {
+          "source": "fonts/PlayfairDisplay[wght].ttf",
+          "wght": 900
+        },
+        "italic": {
+          "source": "fonts/PlayfairDisplay-Italic[wght].ttf",
+          "wght": 400
+        },
+        "boldItalic": {
+          "source": "fonts/PlayfairDisplay-Italic[wght].ttf",
+          "wght": 700
+        }
+      },
+      "fallback": "Georgia",
+      "pitch_family": 18
+    },
+    {
+      "family": "Oswald",
+      "role": "kicker",
+      "license": "OFL-1.1",
+      "license_file": "fonts/OFL-Oswald.txt",
+      "url": "https://fonts.google.com/specimen/Oswald",
+      "embed": {
+        "regular": {
+          "source": "fonts/Oswald[wght].ttf",
+          "wght": 400
+        },
+        "bold": {
+          "source": "fonts/Oswald[wght].ttf",
+          "wght": 600
+        }
+      },
+      "fallback": "Arial Narrow",
+      "pitch_family": 34
+    }
+  ],
+  "postexport": {
+    "embed_fonts": false,
+    "render_check": "on request or when validating an optional font variant"
+  },
+  "mirror": {
+    "html_font_map": {
+      "PF": "title",
+      "PFI": "title_italic",
+      "Playfair Display": "title",
+      "Oswald": "kicker",
+      "Noto Serif CJK SC": "title",
+      "Noto Sans CJK SC": "body",
+      "Arial": "body"
+    },
+    "html_css_overrides": "@font-face{font-family:\"Noto Sans CJK SC\";src:local(\"Arial\");font-weight:400}@font-face{font-family:\"Noto Sans CJK SC\";src:local(\"Arial Bold\");font-weight:600 900}@font-face{font-family:\"Noto Serif CJK SC\";src:url(fonts/PlayfairDisplay[wght].ttf);font-weight:100 900}"
+  },
+  "design_defaults": [
+    "摄影承载环境与情绪，文字、图注和细线建立信息层级；需要解释关系或数据时使用合适的原生表达。",
+    "以出血摄影、纯白阅读底、清晰衬线标题与凝练小标形成杂志节奏；手册可用一张全景贯穿真实左右跨页，避免白框缩略图与无任务的装饰。",
+    "图文区域优先通过留白、对比与渐变协调；采用何种具体载体由页面任务和已确认要求决定。",
+    "阅读排版先定实际成品字号、行长与行距，再定栏宽；A4 手册可用六栏网格组合双栏、主文侧栏与短模块，按内容和语言调整。",
+    "从时间、流程、比较、关系、空间、数量和观察细节中识别信息任务，选择相应的可编辑信息图；白底信息图可独立成为主视觉，与出血摄影共同形成叙事节奏。",
+    "表格默认白底开放式横线编排：主色粗体表头、轻重横线和列对齐建立结构；原生单元格边框与可见样式同步，具体处理仍服从项目需求。",
+    "纵观全篇识别最有读者收益的可视化机会，同时保留摄影情境、正文论述与精确查阅表格；以结构、流程、成果转化、协作、旅程和行动路径为常见切入，不设图解数量或占比。",
+    "需要背景气氛时考虑局部弥散色团、大片白底和淡几何线索；粒子或细颗粒随内容选择，实际导出保持局部范围，避免整页均匀染色。"
+  ],
+  "compatibility_reviewed_with": [
+    "6.3.2"
+  ]
+}

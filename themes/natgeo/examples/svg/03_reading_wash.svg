@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" font-family="Arial" data-pptx-page-role="content">
+<defs>
+<linearGradient id="scrimTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1410" stop-opacity="0.78" /><stop offset="0.55" stop-color="#0B1410" stop-opacity="0.5" /><stop offset="1" stop-color="#0B1410" stop-opacity="0" /></linearGradient>
+<linearGradient id="scrimBottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1410" stop-opacity="0" /><stop offset="0.45" stop-color="#0B1410" stop-opacity="0.45" /><stop offset="1" stop-color="#0B1410" stop-opacity="0.9" /></linearGradient>
+<linearGradient id="washDown" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4F1EA" stop-opacity="0" /><stop offset="0.3" stop-color="#F4F1EA" stop-opacity="0.75" /><stop offset="0.45" stop-color="#F4F1EA" stop-opacity="0.94" /><stop offset="1" stop-color="#F4F1EA" stop-opacity="0.97" /></linearGradient>
+<linearGradient id="washSide" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F4F1EA" stop-opacity="0.97" /><stop offset="0.62" stop-color="#F4F1EA" stop-opacity="0.94" /><stop offset="0.85" stop-color="#F4F1EA" stop-opacity="0.45" /><stop offset="1" stop-color="#F4F1EA" stop-opacity="0" /></linearGradient>
+<linearGradient id="washUp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4F1EA" stop-opacity="0.97" /><stop offset="0.78" stop-color="#F4F1EA" stop-opacity="0.94" /><stop offset="0.9" stop-color="#F4F1EA" stop-opacity="0.45" /><stop offset="1" stop-color="#F4F1EA" stop-opacity="0" /></linearGradient>
+</defs>
+<rect id="bg-fill" x="0" y="0" width="1240" height="1754" fill="#F4F1EA" />
+<image id="bg-photo" data-pptx-role="background" href="../images/ai_gate.jpg" x="0" y="0" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" />
+<rect id="wash" data-pptx-role="decoration" x="0" y="480" width="1240" height="1274" fill="url(#washDown)" />
+<rect id="scrim-top" data-pptx-role="decoration" x="0" y="0" width="1240" height="640" fill="url(#scrimTop)" />
+<g id="running-head" data-pptx-role="header" data-pptx-bounds="0 0 1240 110" font-family="Oswald, 'Arial Narrow', Arial" font-size="20" font-weight="bold" letter-spacing="5.6" fill="#FFFFFF">
+  <text x="88" y="74">CHAPTER ONE</text>
+  <text x="1152" y="74" text-anchor="end">WHY THE HILLS</text>
+</g>
+<g id="title" data-pptx-bounds="0 110 1240 400" fill="#FFFFFF" font-weight="bold">
+  <text x="88" y="230" font-family="Oswald, 'Arial Narrow', Arial" font-size="20" letter-spacing="5.2">SIX REASONS</text>
+  <text x="88" y="330" font-family="'Playfair Display', Georgia, serif" font-size="84">The Gate in the Wall</text>
+</g>
+<g id="reasons" data-pptx-bounds="0 1040 1240 620" fill="#151B2E">
+  <text x="88" y="1090" font-size="31" font-weight="bold"><tspan x="88" dy="0">Sample lead sentence that frames the page in one line, set on the warm</tspan><tspan x="88" dy="46">paper wash.</tspan></text>
+  <text x="88" y="1226" font-family="'Playfair Display', Georgia, serif" font-size="42" font-weight="bold" fill="#22306E">01</text>
+  <text x="184" y="1226" font-size="26"><tspan x="184" dy="0">Sample item copy taken verbatim from the source document, wrapping onto a</tspan><tspan x="184" dy="40">second line when it needs to.</tspan></text>
+  <text x="88" y="1346" font-family="'Playfair Display', Georgia, serif" font-size="42" font-weight="bold" fill="#22306E">02</text>
+  <text x="184" y="1346" font-size="26"><tspan x="184" dy="0">Second sample item; numerals are serif, never icons or bullets.</tspan></text>
+  <text x="88" y="1426" font-family="'Playfair Display', Georgia, serif" font-size="42" font-weight="bold" fill="#22306E">03</text>
+  <text x="184" y="1426" font-size="26"><tspan x="184" dy="0">Third sample item on one line.</tspan></text>
+</g><g id="footer" data-pptx-role="footer" data-pptx-bounds="0 1660 1240 94" font-family="Oswald, 'Arial Narrow', Arial" font-size="20" font-weight="bold" letter-spacing="5.6" fill="#3E4458">
+  <text x="88" y="1702">FIELD NOTES · NORTHERN HILLS</text>
+  <text x="1152" y="1702" text-anchor="end">03</text>
+</g>
+</svg>

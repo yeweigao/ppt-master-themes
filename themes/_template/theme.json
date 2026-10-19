@@ -1,0 +1,106 @@
+{
+  "schema": "theme-v1",
+  "id": "__ID__",
+  "name": "__NAME__",
+  "name_zh": "__中文名__",
+  "summary": "One sentence: what the look is.",
+  "tested_with_ppt_master": [],
+  "style_workspace": "workspace",
+  "style_spec": "workspace/templates/design_spec.style.__STYLE_ID__.md",
+  "recipes": "recipes.md",
+  "examples": "examples",
+  "stage2_seeds": {
+    "mode": "custom",
+    "mode_references": [
+      "showcase"
+    ],
+    "mode_behavior": "How pages are paced.",
+    "visual_style": "custom",
+    "visual_style_references": [
+      "<ppt-master visual-style catalog id, e.g. photo-editorial>"
+    ],
+    "visual_style_behavior": "One paragraph the executor can follow.",
+    "image_rendering": "<ppt-master image rendering id, e.g. corporate-photo>"
+  },
+  "colors": {
+    "background": "#FFFFFF",
+    "secondary_bg": "#F2F2F2",
+    "primary": "#111111",
+    "accent": "#C8102E",
+    "secondary_accent": "#666666",
+    "text": "#111111",
+    "secondary_text": "#555555",
+    "border": "#DDDDDD"
+  },
+  "contextual_paint": {},
+  "typography": {
+    "font_family": "Arial, Helvetica, sans-serif",
+    "title_family": "\"<Title font>\", Georgia, serif",
+    "body_family": "Arial, Helvetica, sans-serif",
+    "kicker_family": "Arial, Helvetica, sans-serif",
+    "svg_stacks": {
+      "title": "'<Title font>', Georgia, serif",
+      "kicker": "Arial",
+      "body": "Arial"
+    },
+    "ladders": {
+      "a4": {
+        "annotation": 16,
+        "body": 21,
+        "lead": 25,
+        "subtitle": 28,
+        "heading_sm": 33,
+        "title": 50,
+        "display": 64,
+        "hero": 133
+      },
+      "ppt169": {
+        "annotation": 13,
+        "body": 18,
+        "lead": 22,
+        "subtitle": 24,
+        "heading_sm": 28,
+        "title": 40,
+        "display": 56,
+        "hero": 110
+      }
+    },
+    "tracking_em": {
+      "kicker": 0.2
+    }
+  },
+  "fonts": [
+    {
+      "family": "<Title font>",
+      "role": "title",
+      "license": "OFL-1.1",
+      "license_file": "fonts/OFL-<Font>.txt",
+      "url": "https://fonts.google.com/specimen/<Font>",
+      "embed": {
+        "regular": {
+          "source": "fonts/<Font>[wght].ttf",
+          "wght": 400
+        },
+        "bold": {
+          "source": "fonts/<Font>[wght].ttf",
+          "wght": 700
+        }
+      },
+      "fallback": "Georgia",
+      "pitch_family": 18
+    }
+  ],
+  "postexport": {
+    "embed_fonts": false,
+    "render_check": "on request or when validating an optional font variant"
+  },
+  "mirror": {
+    "html_font_map": {
+      "<CSS family>": "title"
+    },
+    "html_css_overrides": ""
+  },
+  "design_defaults": [
+    "Describe a positive visual method and when it serves a page; these are Reference defaults, never user prohibitions or a closed capability list."
+  ]
+}

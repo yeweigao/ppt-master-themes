@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" font-family="Arial" data-pptx-page-role="content">
+<defs>
+<linearGradient id="scrimTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1410" stop-opacity="0.78"/><stop offset="0.55" stop-color="#0B1410" stop-opacity="0.5"/><stop offset="1" stop-color="#0B1410" stop-opacity="0"/></linearGradient>
+<linearGradient id="scrimBottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1410" stop-opacity="0"/><stop offset="0.45" stop-color="#0B1410" stop-opacity="0.45"/><stop offset="1" stop-color="#0B1410" stop-opacity="0.9"/></linearGradient>
+<linearGradient id="washDown" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4F1EA" stop-opacity="0"/><stop offset="0.3" stop-color="#F4F1EA" stop-opacity="0.75"/><stop offset="0.45" stop-color="#F4F1EA" stop-opacity="0.94"/><stop offset="1" stop-color="#F4F1EA" stop-opacity="0.97"/></linearGradient>
+<linearGradient id="washSide" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F4F1EA" stop-opacity="0.97"/><stop offset="0.62" stop-color="#F4F1EA" stop-opacity="0.94"/><stop offset="0.85" stop-color="#F4F1EA" stop-opacity="0.45"/><stop offset="1" stop-color="#F4F1EA" stop-opacity="0"/></linearGradient>
+<linearGradient id="washUp" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F4F1EA" stop-opacity="0.97"/><stop offset="0.78" stop-color="#F4F1EA" stop-opacity="0.94"/><stop offset="0.9" stop-color="#F4F1EA" stop-opacity="0.45"/><stop offset="1" stop-color="#F4F1EA" stop-opacity="0"/></linearGradient>
+</defs>
+<rect id="bg-fill" x="0" y="0" width="1240" height="1754" fill="#F4F1EA"/>
+<image id="bg-photo" data-pptx-role="background" href="../images/ai_lane.jpg" x="0" y="0" width="1240" height="1754" preserveAspectRatio="xMidYMid slice"/>
+<rect id="wash" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="url(#washSide)"/>
+<g id="running-head" data-pptx-role="header" data-pptx-bounds="0 0 1240 110" font-family="Oswald, 'Arial Narrow', Arial" font-size="20" font-weight="bold" letter-spacing="5.6" fill="#3E4458">
+  <text x="88" y="74">HIGHLIGHT 01</text>
+  <text x="740" y="74" text-anchor="end">EVENING PROGRAMME</text>
+</g>
+<g id="title" data-pptx-bounds="0 110 1240 340" fill="#22306E">
+  <text x="88" y="230" font-family="Oswald, 'Arial Narrow', Arial" font-size="20" font-weight="bold" letter-spacing="5.2">HIGHLIGHT 01 · CULTURAL NIGHT</text>
+  <text x="88" y="330" font-family="'Playfair Display', Georgia, serif" font-size="84" font-weight="bold" fill="#151B2E">Lantern Lane</text>
+  <text x="88" y="396" font-size="26" fill="#151B2E"><tspan x="88" dy="0">Sample one-line description of the highlight.</tspan></text>
+</g>
+<g id="photo" data-pptx-bounds="0 450 1240 540">
+  <image href="../images/ai_mist.jpg" x="88" y="470" width="652" height="430" preserveAspectRatio="xMidYMid slice"/>
+  <text x="88" y="940" font-size="20" fill="#3E4458">Sample caption in small sans, secondary text colour.</text>
+</g>
+<g id="programme" data-pptx-bounds="0 990 1240 670" fill="#151B2E">
+  <text x="88" y="1040" font-family="Oswald, 'Arial Narrow', Arial" font-size="20" font-weight="bold" letter-spacing="5.2" fill="#22306E">EVENING PROGRAMME</text>
+  <text x="88" y="1110" font-family="'Playfair Display', Georgia, serif" font-size="31" font-weight="bold" fill="#22306E">18:00</text>
+  <text x="230" y="1110" font-size="26">Sample programme item</text>
+  <text x="88" y="1172" font-family="'Playfair Display', Georgia, serif" font-size="31" font-weight="bold" fill="#22306E">18:30</text>
+  <text x="230" y="1172" font-size="26">Second sample programme item</text>
+  <text x="88" y="1234" font-family="'Playfair Display', Georgia, serif" font-size="31" font-weight="bold" fill="#22306E">19:30</text>
+  <text x="230" y="1234" font-size="26">Third sample programme item</text>
+  <text x="88" y="1346" font-family="'Playfair Display', Georgia, serif" font-size="36" font-weight="bold" fill="#22306E"><tspan x="88" dy="0">A sample pull line in serif, navy on</tspan><tspan x="88" dy="44">paper, closing the feature.</tspan></text>
+</g><g id="footer" data-pptx-role="footer" data-pptx-bounds="0 1660 1240 94" font-family="Oswald, 'Arial Narrow', Arial" font-size="20" font-weight="bold" letter-spacing="5.6" fill="#3E4458">
+  <text x="88" y="1702">FIELD NOTES · NORTHERN HILLS</text>
+  <text x="740" y="1702" text-anchor="end">04</text>
+</g>
+</svg>

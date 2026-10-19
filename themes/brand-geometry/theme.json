@@ -1,0 +1,56 @@
+{
+  "schema": "theme-v1",
+  "id": "brand-geometry",
+  "name": "Brand Geometry",
+  "name_zh": "品牌几何",
+  "summary": "从品牌实际几何提炼可复用的页面语言，结合清晰阅读层与可选渐变。",
+  "tested_with_ppt_master": [],
+  "compatibility_reviewed_with": [
+    "6.3.2"
+  ],
+  "style_workspace": "workspace",
+  "style_spec": "workspace/templates/design_spec.style.brand-geometry.md",
+  "recipes": "recipes.md",
+  "stage2_seeds": {
+    "mode": "custom",
+    "mode_references": [
+      "briefing"
+    ],
+    "mode_behavior": "Use the communication task to pace clear messages, supporting explanation and action.",
+    "visual_style": "custom",
+    "visual_style_behavior": "Derive coherent contours, angles, intervals and overlap from actual identity geometry; vary motif scale by page job around a calm reading layer. Soft identity-colored gradients are optional.",
+    "image_rendering": "corporate-photo"
+  },
+  "colors": {
+    "background": "#FFFFFF",
+    "secondary_bg": "#F1F5FA",
+    "primary": "#183A64",
+    "accent": "#876A21",
+    "secondary_accent": "#627187",
+    "text": "#202A38",
+    "secondary_text": "#5C6877",
+    "border": "#CED6DF"
+  },
+  "typography": {
+    "font_family": "Arial",
+    "title_family": "Georgia",
+    "body_family": "Arial",
+    "kicker_family": "Arial",
+    "svg_stacks": {
+      "title": "Georgia",
+      "body": "Arial",
+      "kicker": "Arial"
+    }
+  },
+  "fonts": [],
+  "postexport": {
+    "embed_fonts": false
+  },
+  "design_defaults": [
+    "提取当前品牌的实际轮廓、角度、线宽、间距与交叠关系；正式标识与衍生装饰分别保留。",
+    "用编辑网格、可读字号与清晰信息结构组织内容；装饰强度随页面任务变化。",
+    "纯色、低对比几何和柔和渐变可以形成同一风格的页面变体，具体色板服从当前身份与项目确认。",
+    "品牌衍生先验证连接、交叉、端点、比例与负空间；仅提取基本形状不足以建立识别度，未通过识别判断的装饰不作品牌案例。"
+  ],
+  "maturity": "experimental"
+}
