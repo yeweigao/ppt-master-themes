@@ -8,3 +8,5 @@ __pycache__/
 /website/artwork/exports/
 /.vercel/
 /node_modules/
+/.workbuddy
+/.github

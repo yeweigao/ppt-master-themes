@@ -1,6 +1,6 @@
 # Themes for PPT Master website
 
-可直接部署到 Vercel 的静态介绍网站。首页介绍 skill 的能力、Style／Layout／Brand 分工、主题、安装与使用方式；`/layouts/` 保留完整的 24 个 A4 版式实验室。
+零依赖的静态介绍网站，可同时部署到 Vercel 与 GitHub Pages。首页介绍 skill 的能力、Style／Layout／Brand 分工、主题、安装与使用方式；`/layouts/` 保留完整的 24 个 A4 版式实验室。
 
 ## 本地预览
 
@@ -28,6 +28,21 @@ npm run dev
 不需要环境变量、数据库、API key 或 Python。Vercel 仅发布构建输出目录。后续 Git 推送可沿用 Vercel 的 Git 集成更新站点。官方配置说明：[vercel.json](https://vercel.com/docs/project-configuration/vercel-json)。
 
 若使用 CLI，先从仓库根目录显式关联目标项目，确认 owner/project，再部署；不要在 `website/` 内误关联另一个项目。仓库不提交 `.vercel/`。
+
+## 部署到 GitHub Pages
+
+同一份构建产物也可以直接发布到 GitHub Pages，与 Vercel 并存，互不影响。仓库已包含 `.github/workflows/deploy-pages.yml`：
+
+1. 在仓库 **Settings → Pages → Build and deployment** 把 **Source** 设为 **GitHub Actions**（workflow 也会尝试自动开启）。
+2. 推送到 `main`，或在 **Actions** 里手动运行 **Deploy website to GitHub Pages**。
+3. 站点地址为 `https://yeweigao.github.io/ppt-master-themes/`。
+
+项目站点挂在子路径下，而站内链接与 `manifest.json` 都是 `/` 开头的根绝对路径（Vercel 与自定义域名下正确）。workflow 会把 `configure-pages` 解析出的 `base_path` 传给构建，`SITE_BASE` 非空时构建的最后一步会把 HTML／CSS／JS／JSON 里的根绝对路径统一加上前缀，`dist` 因此可直接部署到 `/ppt-master-themes/`。
+
+- 使用自定义域名，或部署到 `yeweigao.github.io` 这类根站点：根路径本来就正确，`base_path` 为空，构建不做任何改写。
+- 需要强制某种前缀时，在 **Settings → Secrets and variables → Actions → Variables** 新增 `SITE_BASE`（例如 `/ppt-master-themes`，或填 `/` 表示不改写）。
+- 前缀只在构建产物里出现，源文件始终保留根绝对路径；`npm run check` 校验的是改写前的产物，因此不受影响。
+- GitHub Pages 只托管静态文件，没有 Vercel 的 `cleanUrls`／自定义响应头；站内链接均带 `.html` 或目录尾斜杠，不依赖这两项。Pages 更新通常需要 1–10 分钟生效。
 
 ## 文件与更新
 
