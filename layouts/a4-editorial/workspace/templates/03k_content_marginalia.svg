@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-marginalia" data-pptx-layout-name="Reading with anchored marginalia">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <line id="note-rule-a" data-pptx-layer="layout" data-pptx-editable="false" x1="820" y1="595" x2="960" y2="595" stroke="#70777B" stroke-width="3"/>
+  <line id="note-rule-b" data-pptx-layer="layout" data-pptx-editable="false" x1="820" y1="1205" x2="960" y2="1205" stroke="#70777B" stroke-width="3"/>
+  <line id="end-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1575" x2="1140" y2="1575" stroke="#C8CCCF" stroke-width="1"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44"><text data-pptx-carrier="true" x="100" y="124" fill="#62696D" font-size="18" letter-spacing="2">{{SECTION_NAME}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 220 1040 200"><text data-pptx-carrier="true" x="100" y="296" fill="#20262A" font-size="76" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="body-top" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="100 510 680 340"><text data-pptx-carrier="true" x="100" y="538" fill="#20262A">{{CONTENT_LEFT}}</text></g>
+  <g id="note-top" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="820 630 320 220"><text data-pptx-carrier="true" x="820" y="654" fill="#62696D" font-size="22">{{NOTE_1}}</text></g>
+  <g id="takeaway" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="280 910 860 190"><text data-pptx-carrier="true" x="280" y="962" fill="#20262A" font-size="48">{{KEY_MESSAGE}}</text></g>
+  <g id="body-bottom" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1160 680 360"><text data-pptx-carrier="true" x="100" y="1188" fill="#20262A">{{CONTENT_RIGHT}}</text></g>
+  <g id="note-bottom" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="820 1240 320 280"><text data-pptx-carrier="true" x="820" y="1264" fill="#62696D" font-size="22">{{NOTE_2}}</text></g>
+  <g id="source" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="100 1620 850 70"><text data-pptx-carrier="true" x="100" y="1644" fill="#62696D" font-size="18">{{SOURCE}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="9" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#62696D" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>

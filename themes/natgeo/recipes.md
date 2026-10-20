@@ -26,6 +26,13 @@ cards are not intrinsically disallowed; use them deliberately when they communic
 the resolved icon identity and visual weight coherent. The user's literal prohibitions remain
 owned by the project plan.
 
+For richer pacing, use [Editorial rhythm](../../framework/EDITORIAL_RHYTHM.md): stable anchors
+with purposeful changes in span, scale, density and starting position; bounded multi-photo
+masonry; image/text overlap; geometric layers; and concise editorial furniture. These are
+content-led options, not a required decoration quota. The selected Layout owns exact frames
+and placeholder geometry; this recipe supplies Style treatment. Filled photos and copy remain
+project or demonstration material rather than installable Layout content.
+
 ## 1. Reference parameters
 
 The table below records the original A4 example system, not new project anchors. Use the
@@ -281,6 +288,29 @@ Sparse, clean particles and faint orbital/grid geometry can suggest inquiry, sys
 Choose cloud scale, position, intensity, fade, texture and geometric trace as one composition. Keep body contrast stable, leave reading space and preserve the palette's identity roles. Diagram lines and decorative traces stay visually distinct. Avoid a fixed particle count, obligatory motif, all-page wash, or repeated corner arrangement on every page.
 
 Use editable native gradients for soft fields when their exported appearance retains the intended footprint. Radial-gradient normalization can spread a local cloud into an all-page tint; inspect the actual PPTX/PDF rather than accepting the SVG preview alone. If exact grain or a pixel-dependent fade needs a prepared background, use the host's image generation/editing capability for that smallest layer. Keep the backdrop replaceable and authoritative text, faint geometry, labels and data as separate editable objects. Record the actual image work and prompt; do not call a raster texture a native editable gradient.
+
+## R16. Rhythm, multi-image stories and controlled overlap
+
+Use [Editorial Rhythm](../../framework/EDITORIAL_RHYTHM.md) for the source-informed method.
+Preserve selected grid axes and recurring text roles, then vary the span, vertical entry, scale,
+image height or quiet interval that helps the current page job. Evaluate the design in grayscale
+and at actual reading size. Stable lookup rows may stay regular; not every page needs disruption.
+
+For photos, distinguish an anchor with details, bounded masonry, a numbered staggered sequence
+and a contact sheet. Decide image relationships and caption order before packing frames. The
+image field may reach trim while deliberate white gaps keep neighbouring images distinct.
+A short headline can cross a photo edge on a verified quiet crop or a local contrast field;
+sustained prose retains a calm reading ground. A large geometric underlay can organize multiple
+images without becoming a fake brand mark or unsupported data encoding.
+
+Useful details include hanging labels, rules of different hierarchical strength, nearby marginal
+notes, attributed pull quotes, caption keys, running heads and end marks. Repeat their roles and
+vary their placement only for a reason. Keep glyphs, lines, pictures and contrast layers separate
+where supported, then verify the native export's actual layer order and crop.
+
+The independent [A4 Editorial Layout](../../layouts/a4-editorial/README.md) provides neutral
+prototypes for these structures. Its geometry is authoritative when selected; R12's coordinates
+are a free-design illustration, not a competing grid. The demo content is not a reusable policy.
 
 ## 5. Typography under the resolved project anchors
 

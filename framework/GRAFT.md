@@ -29,6 +29,34 @@ truth, or template assets. Read installed specs from `P/templates/`, not again f
 Resolve any material conflict under ppt-master's apply/Strategist rules, rather than silently
 averaging styles or changing the confirmed communication contract.
 
+## Independent A4 Editorial Layout
+
+[A4 Editorial](../layouts/a4-editorial/README.md) is this package's separate structure workspace
+at `ST/layouts/a4-editorial/workspace`, not a ppt-master built-in or a Style prototype roster.
+It contributes one Master and twelve Layout prototypes; an independently selected Style supplies
+method and a Brand supplies identity. Keep each contribution in its existing template kind.
+
+When the user explicitly selects this package's Layout, or Create Template hands off this exact
+root in the current conversation, pass it as an `explicit` root through the selected runtime.
+Do not resolve a bare name, claim library registration, or add another confirmation/type. A
+confirmed multi-root application can pass both `--root "$TH/workspace"` and
+`--root "$ST/layouts/a4-editorial/workspace"` to the same official apply call, plus a confirmed
+Brand root if present. Existing duplicate-kind and structural-precedence rules still apply.
+
+The Layout carries six-track geometry, reading zones, picture slots and paired panorama crops.
+Its flexible data area is an object slot: downstream content planning decides the actual rows,
+columns, chart or diagram and authors native objects through the appropriate module. The open
+horizontal-rule table treatment belongs to the chosen Style/project, including actual cell borders.
+Filled local examples under `projects/a4_editorial_preview_20261020/` are ignored demonstration
+artifacts, never installed template content or reusable scenario requirements.
+
+The canonical `a4` authoring canvas is `1240×1754`; verify the exported physical page size instead
+of assuming that format name means `210×297 mm`. With the current 96-dpi exporter, preserve its
+validated review PPTX and create a separate normalized A4 copy when physical A4 is required.
+Scale the complete Master/Layout/Slide geometry, typography and object metrics coherently, then
+check page size, placeholder alignment, readable type and rendered output. Merely changing
+`p:sldSz` is insufficient; normalization does not prove printer-ready bleed or PDF box settings.
+
 ## A worked editorial handoff
 
 For a field-trip proposal, first let ppt-master determine whether the audience needs a live

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-chronology" data-pptx-layout-name="Typographic chronology">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <line id="time-rule-1" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="470" x2="1140" y2="470" stroke="#20262A" stroke-width="3"/>
+  <line id="time-rule-2" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="830" x2="1140" y2="830" stroke="#C8CCCF" stroke-width="1"/>
+  <line id="time-rule-3" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1190" x2="1140" y2="1190" stroke="#C8CCCF" stroke-width="1"/>
+  <line id="time-rule-4" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1550" x2="1140" y2="1550" stroke="#20262A" stroke-width="3"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44"><text data-pptx-carrier="true" x="100" y="124" fill="#62696D" font-size="18" letter-spacing="2">{{SECTION_NAME}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 210 1040 200"><text data-pptx-carrier="true" x="100" y="286" fill="#20262A" font-size="72" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="time-1" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="100 530 320 240"><text data-pptx-carrier="true" x="100" y="650" fill="#20262A" font-size="40">{{TIME_1}}</text></g>
+  <g id="event-1" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="460 530 680 240"><text data-pptx-carrier="true" x="460" y="558" fill="#20262A">{{EVENT_1}}</text></g>
+  <g id="time-2" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 890 320 240"><text data-pptx-carrier="true" x="100" y="1010" fill="#20262A" font-size="40">{{TIME_2}}</text></g>
+  <g id="event-2" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="460 890 680 240"><text data-pptx-carrier="true" x="460" y="918" fill="#20262A">{{EVENT_2}}</text></g>
+  <g id="time-3" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="100 1250 320 240"><text data-pptx-carrier="true" x="100" y="1370" fill="#20262A" font-size="40">{{TIME_3}}</text></g>
+  <g id="event-3" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="460 1250 680 240"><text data-pptx-carrier="true" x="460" y="1278" fill="#20262A">{{EVENT_3}}</text></g>
+  <g id="source" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="100 1620 850 70"><text data-pptx-carrier="true" x="100" y="1644" fill="#62696D" font-size="18">{{SOURCE}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="10" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#62696D" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>

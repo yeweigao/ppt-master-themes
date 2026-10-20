@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-dual" data-pptx-layout-name="Two-column reading">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <line id="header-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="155" x2="1140" y2="155" stroke="#C8CCCF" stroke-width="1"/>
+  <line id="quote-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1370" x2="280" y2="1370" stroke="#70777B" stroke-width="3"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44"><text data-pptx-carrier="true" x="100" y="124" fill="#62696D" font-size="18" letter-spacing="2">{{SECTION_NAME}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 210 1040 200"><text data-pptx-carrier="true" x="100" y="286" fill="#20262A" font-size="76" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="100 435 1040 120"><text data-pptx-carrier="true" x="100" y="470" fill="#62696D" font-size="30">{{SUBTITLE}}</text></g>
+  <g id="body-left" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 620 500 680"><text data-pptx-carrier="true" x="100" y="648" fill="#20262A">{{CONTENT_LEFT}}</text></g>
+  <g id="body-right" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="640 620 500 680"><text data-pptx-carrier="true" x="640" y="648" fill="#20262A">{{CONTENT_RIGHT}}</text></g>
+  <g id="takeaway" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1410 1040 160"><text data-pptx-carrier="true" x="100" y="1458" fill="#20262A" font-size="40">{{KEY_MESSAGE}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#62696D" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>

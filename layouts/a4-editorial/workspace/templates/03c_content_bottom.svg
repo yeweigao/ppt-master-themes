@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-bottom" data-pptx-layout-name="Bottom-edge photograph">
+  <defs><linearGradient id="caption-shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.65"/></linearGradient></defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 1000 1240 754"><image data-pptx-carrier="true" x="0" y="1000" width="1240" height="754" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
+  <rect id="photo-shade" data-pptx-role="decoration" x="0" y="1490" width="1240" height="264" fill="url(#caption-shade)"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 1040 44"><text data-pptx-carrier="true" x="100" y="124" fill="#62696D" font-size="18" letter-spacing="2">{{SECTION_NAME}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 210 1040 200"><text data-pptx-carrier="true" x="100" y="286" fill="#20262A" font-size="76" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="100 430 1040 105"><text data-pptx-carrier="true" x="100" y="465" fill="#62696D" font-size="30">{{SUBTITLE}}</text></g>
+  <g id="body-left" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 620 500 300"><text data-pptx-carrier="true" x="100" y="648" fill="#20262A">{{CONTENT_LEFT}}</text></g>
+  <g id="body-right" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="640 620 500 300"><text data-pptx-carrier="true" x="640" y="648" fill="#20262A">{{CONTENT_RIGHT}}</text></g>
+  <g id="caption" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="100 1635 850 65"><text data-pptx-carrier="true" x="100" y="1663" fill="#FFFFFF" font-size="18">{{SOURCE}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="8" data-pptx-bounds="1040 1635 100 65"><text data-pptx-carrier="true" x="1040" y="1663" fill="#FFFFFF" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>

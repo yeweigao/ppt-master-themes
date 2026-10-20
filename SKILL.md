@@ -1,6 +1,6 @@
 ---
 name: ppt-master-themes
-description: 配合 ppt-master 为可编辑 PPTX 提供摄影杂志风等主题的摄影叙事、阅读排版与信息可视化方法；将主题融入其规划、资源和页面创作流程，支持添加可复用主题。适用于明确使用本主题包或设计主题化演示文稿的请求；需要独立的 ppt-master。
+description: 配合 ppt-master 为可编辑 PPTX 提供摄影叙事、阅读排版与信息可视化主题，以及独立的 A4 编辑版式工作区。适用于明确使用本主题包或设计主题化演示文稿的请求；需要独立的 ppt-master。
 ---
 
 # ppt-master-themes
@@ -40,6 +40,8 @@ Default 的 Stage 1 只使用用户请求、源事实和对话约束；主题内
 
 `theme.json` 的色板、字号阶梯和 `stage2_seeds` 是候选起点，`design_defaults` 是设计倾向。它们不改写已经确认的值，也不自动进入 `forbidden`。Brand 优先于 Deck 的身份层，Layout 优先于 Deck 的结构层，Style 提供方法与方向；Style 的字体色彩让位于最终身份和项目确认。
 
+本包另有 [A4 Editorial Layout](layouts/a4-editorial/README.md)：24 个原生结构原型，覆盖双栏、旁注节奏、出血与跨页、瀑布流与交错组图、图文叠加、几何场及证据区域。它与主题 Style 独立，可组合一个 Style 和一个 Brand；不固定品牌、内容顺序或最终字号，也不属于 ppt-master 内置库。用户明确选择本包版式，或 Create Template 在当前对话交付该根时，将 `ST/layouts/a4-editorial/workspace` 作为精确工作区传入现有 Layout 选择，不新增模板类型、不擅自注册。完整画廊只用于看效果；结构、导出与物理 A4 核查见该说明。
+
 Default 由 Strategist 从完整确认生成 `design_spec.md`，再生成一致的 `spec_lock.md`；不在 Gate 2 后套用主题脚本覆盖。Quick 将同样的设计判断保留在自己的上下文与必要资源清单。进入创作后，页面内容与关系、资源和身份锚点保持权威，构图与表现按 ppt-master 的 Reference 规则自由发挥。
 
 ## 文案与图片
@@ -54,6 +56,8 @@ Default 由 Strategist 从完整确认生成 `design_spec.md`，再生成一致�
 
 阅读排版是主题的可复用方法：先确定实际成品字号、行长与行距，再选栏宽和网格；不能把演示字号直接塞入双栏。NatGeo 的六栏对齐网格及 3＋3 / 4＋2 / 2＋2＋2 组合见 [recipes R12](themes/natgeo/recipes.md#r12-measure-first-reading-pages-and-a-six-column-grid)。把判断方法复用到下一项目，具体参数仍由语言、受众、阅读距离和画布决定。
 
+需要更丰富的节奏、多图或叠加时，读 [Editorial Rhythm](framework/EDITORIAL_RHYTHM.md)：在整本、页面、细节三个尺度建立重复与变化，用跨度、大小、疏密、起点和留白形成节拍；颜色只是辅助。稳定查阅页可保持平静，转折页才需要明显变奏。方法与参考来源归主题，通用结构归 Layout，具体照片与文案归演示或项目。
+
 信息可视化先识别读者要理解的关系，再选择表达：时间、流程、比较、层级/协作、空间、数量或照片中的观察细节。用图让顺序、差异、连接或规模更容易理解；普通说明仍可保留为清楚的正文。NatGeo 的选型和主题化方法见 [recipes R13](themes/natgeo/recipes.md#r13-editorial-information-graphics)。信息图可以独立成为白底主视觉，也可以与出血摄影组合，不要求每页配照片。
 
 在主题已接入的方案规划中，或用户要求纵观全篇时，主动识别哪些内容值得可视化：说明原有内容、拟表达的关系、读者收益和优先级，并指出哪些正文、摄影或查阅表格适合保留。按 [recipes R14](themes/natgeo/recipes.md#r14-whole-document-visual-opportunities) 平衡摄影建立情境、图解解释关系、正文展开论述、表格支持查阅；不设信息图数量或占比。改进落回 ppt-master 原有页面计划，具体制作沿用已有授权，不额外增加评审或审批。
@@ -64,7 +68,7 @@ Default 由 Strategist 从完整确认生成 `design_spec.md`，再生成一致�
 
 ## 执行与反馈
 
-工作区只提供方法；`TH/recipes.md` 与 `TH/examples/` 是包外参考，使用前核对是否适合已确认的项目。跟随 ppt-master 的校准、模块加载、逐页决策、检查节奏及导出顺序。图表、表格、公式、关系图、可编辑文字、图像分层或动画只要有沟通作用，均使用原有能力；主题负责其视觉协调，不禁止某类能力。
+Style 工作区提供方法，独立 Layout 工作区提供结构；`TH/recipes.md` 与 `TH/examples/` 是包外参考，使用前核对是否适合已确认的项目。跟随 ppt-master 的校准、模块加载、逐页决策、检查节奏及导出顺序。图表、表格、公式、关系图、可编辑文字、图像分层或动画只要有沟通作用，均使用原有能力；主题负责其视觉协调，不禁止某类能力。
 
 换行参考 [framework/COPY_FIT.md](framework/COPY_FIT.md)，检查器校准仍以 ppt-master 为准。所有可见设计在 `svg_output/` 中完成；不靠导出后放宽文本框掩盖溢出。
 

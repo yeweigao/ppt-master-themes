@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-side" data-pptx-layout-name="Full-height side photograph">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="640 0 600 1754"><image data-pptx-carrier="true" x="640" y="0" width="600" height="1754" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 440 70"><text data-pptx-carrier="true" x="100" y="124" fill="#62696D" font-size="18" letter-spacing="2">{{SECTION_NAME}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 260 440 320"><text data-pptx-carrier="true" x="100" y="326" fill="#20262A" font-size="64" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="100 640 440 150"><text data-pptx-carrier="true" x="100" y="676" fill="#62696D" font-size="30">{{SUBTITLE}}</text></g>
+  <g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 900 440 480"><text data-pptx-carrier="true" x="100" y="928" fill="#20262A">{{CONTENT_AREA}}</text></g>
+  <g id="caption" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1490 440 100"><text data-pptx-carrier="true" x="100" y="1514" fill="#62696D" font-size="18">{{SOURCE}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="100 1640 100 50"><text data-pptx-carrier="true" x="100" y="1665" fill="#62696D" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>
