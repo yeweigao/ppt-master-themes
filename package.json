@@ -1,0 +1,12 @@
+{
+  "name": "ppt-master-themes-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node website/scripts/build.mjs",
+    "check": "node website/scripts/check.mjs",
+    "dev": "node website/scripts/serve.mjs"
+  },
+  "engines": { "node": ">=22" }
+}

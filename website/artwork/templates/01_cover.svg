@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-cover" data-pptx-layout-name="Full-bleed cover">
+  <defs><linearGradient id="cover-shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.78"/></linearGradient></defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/dunes.jpg"/></g>
+  <rect id="photo-shade" data-pptx-role="decoration" x="0" y="700" width="1240" height="1054" fill="url(#cover-shade)"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 1040 70"><text data-pptx-carrier="true" x="100" y="128" fill="#FFFFFF" font-size="18" letter-spacing="2">PPT MASTER THEMES  /  LANDSCAPE STUDY</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1130 1040 280"><text data-pptx-carrier="true" x="100" y="1222" fill="#FFFFFF" font-size="96" font-weight="bold" font-family="Georgia">Beyond the<tspan x="100" dy="111.36">frame.</tspan></text></g>
+  <g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="100 1430 860 120"><text data-pptx-carrier="true" x="100" y="1464" fill="#FFFFFF" font-size="30">A field guide to light,<tspan x="100" dy="45">landscape and attention.</tspan></text></g>
+  <g id="edition" data-pptx-placeholder="date" data-pptx-idx="5" data-pptx-bounds="100 1630 1040 54"><text data-pptx-carrier="true" x="100" y="1655" fill="#FFFFFF" font-size="18">FIELD NOTES    /    AN EDITORIAL LAYOUT STUDY</text></g>
+</svg>

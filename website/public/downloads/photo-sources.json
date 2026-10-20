@@ -1,0 +1,367 @@
+{
+  "collection": "Public landscape demonstration assets",
+  "photographs": [
+    {
+      "id": "lake",
+      "title": "山湖",
+      "original_title": "Lake Mountain Landscape.jpg",
+      "author": "Bonnie Moreland",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lake_Mountain_Landscape.jpg",
+      "source_revision": "1038228483",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Lake_Mountain_Landscape.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-20",
+      "verification": "Exact file-description license field verified as CC0 1.0; source image and rendered crop visually reviewed.",
+      "original_sha256": "32c63883fbedbd2da1590245b1ccaa55bdb26ffa63bf3328456202356ed307d6",
+      "original_size_px": [
+        5184,
+        3456
+      ],
+      "file": "artwork/images/lake.jpg",
+      "sha256": "fd5b0519b950ce56215c17843afd4f0cb542edd63f35949ec3666ba0b1de0357",
+      "size_px": [
+        2800,
+        1867
+      ],
+      "processing": "Orientation normalised, resized, JPEG encoded; EXIF omitted. No semantic image editing.",
+      "visual_review": {
+        "reviewed_on": "2026-10-20",
+        "result": "Natural scenery; no visible people or portraits.",
+        "reviewer": "Codex visual inspection"
+      }
+    },
+    {
+      "id": "autumn",
+      "title": "秋林",
+      "original_title": "Lateautumnforest.jpg",
+      "author": "Archbob",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lateautumnforest.jpg",
+      "source_revision": "934357403",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Lateautumnforest.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-20",
+      "verification": "Exact file-description license field verified as CC0 1.0; source image and rendered crop visually reviewed.",
+      "original_sha256": "5a2a5f8fb14223fc361378d0bc9da18c03fd8755161d73adf51d67e18fdd6237",
+      "original_size_px": [
+        2376,
+        1782
+      ],
+      "file": "artwork/images/autumn.jpg",
+      "sha256": "823be4dbc79d6b882fe101c7c2d9deaab5e01cfeafd2fb692198f6c824e45718",
+      "size_px": [
+        2376,
+        1782
+      ],
+      "processing": "Orientation normalised, resized, JPEG encoded; EXIF omitted. No semantic image editing.",
+      "visual_review": {
+        "reviewed_on": "2026-10-20",
+        "result": "Natural scenery; no visible people or portraits.",
+        "reviewer": "Codex visual inspection"
+      }
+    },
+    {
+      "id": "waterfall",
+      "title": "林间瀑布",
+      "original_title": "Waterfall in forest.jpg",
+      "author": "Martin Eklund",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Waterfall_in_forest.jpg",
+      "source_revision": "949526119",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Waterfall_in_forest.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-20",
+      "verification": "Exact file-description license field verified as CC0 1.0; source image and rendered crop visually reviewed.",
+      "original_sha256": "ebc8d2e3ec65a83031a909e22cebfda50fcdaa3085f36a5d90190c2029f2ebff",
+      "original_size_px": [
+        3801,
+        2455
+      ],
+      "file": "artwork/images/waterfall.jpg",
+      "sha256": "021bca3c8135b9d48b7ef69cf5e54893dae5d8a0d12393afde95989badb3d05a",
+      "size_px": [
+        2800,
+        1808
+      ],
+      "processing": "Orientation normalised, resized, JPEG encoded; EXIF omitted. No semantic image editing.",
+      "visual_review": {
+        "reviewed_on": "2026-10-20",
+        "result": "Natural scenery; no visible people or portraits.",
+        "reviewer": "Codex visual inspection"
+      }
+    },
+    {
+      "id": "dunes",
+      "title": "日落沙丘",
+      "original_title": "Sand Dunes at Sunset - 50134723536.jpg",
+      "author": "Alabama Extension / Bruce Dupree",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sand_Dunes_at_Sunset_-_50134723536.jpg",
+      "source_revision": "918956013",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Sand_Dunes_at_Sunset_-_50134723536.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-20",
+      "verification": "Exact file-description license field verified as CC0 1.0; source image and rendered crop visually reviewed.",
+      "original_sha256": "00d00e6085e8c37a09981bacb26b1935f744259b52c5c947630f9318c0a97326",
+      "original_size_px": [
+        1504,
+        2256
+      ],
+      "file": "artwork/images/dunes.jpg",
+      "sha256": "90106ec732c0ba3d6e410471907dac3ae1b4a688e02396738adf76c90158a81f",
+      "size_px": [
+        1504,
+        2256
+      ],
+      "processing": "Orientation normalised, resized, JPEG encoded; EXIF omitted. No semantic image editing.",
+      "visual_review": {
+        "reviewed_on": "2026-10-20",
+        "result": "Natural scenery; no visible people or portraits.",
+        "reviewer": "Codex visual inspection"
+      }
+    },
+    {
+      "id": "woodland",
+      "title": "林地光影",
+      "original_title": "Landscape of a wild forest.jpg",
+      "author": "SpessiG",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Landscape_of_a_wild_forest.jpg",
+      "source_revision": "1142609642",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Landscape_of_a_wild_forest.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-20",
+      "verification": "Exact file-description license field verified as CC0 1.0; source image and rendered crop visually reviewed.",
+      "original_sha256": "2f9f01326230bf9166eec430eb6d14cac69412d6cf6e2ecc7a25970683e4ddea",
+      "original_size_px": [
+        3136,
+        2091
+      ],
+      "file": "artwork/images/woodland.jpg",
+      "sha256": "abc8ba3272ab641dff6bc2af4a1bca434b6e7f9567210e65037fccc4de3d6e8c",
+      "size_px": [
+        2800,
+        1867
+      ],
+      "processing": "Orientation normalised, resized, JPEG encoded; EXIF omitted. No semantic image editing.",
+      "visual_review": {
+        "reviewed_on": "2026-10-20",
+        "result": "Natural scenery; no visible people or portraits.",
+        "reviewer": "Codex visual inspection"
+      }
+    },
+    {
+      "id": "ocean",
+      "title": "大西洋海浪",
+      "original_title": "Meereswellen.Atlantik.P1180785.jpg",
+      "author": "Bautsch",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Meereswellen.Atlantik.P1180785.jpg",
+      "source_revision": "1184629664",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Meereswellen.Atlantik.P1180785.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-20",
+      "verification": "Exact file-description license field verified as CC0 1.0; source image and rendered crop visually reviewed.",
+      "original_sha256": "68e37e2f73656880b1927c26444f77042ea60566d47637f40dca9133cda3280e",
+      "original_size_px": [
+        5184,
+        1728
+      ],
+      "file": "artwork/images/ocean.jpg",
+      "sha256": "73e42126b41b2627c795a909128959a8a66299430130b397931b6bdc380a4c05",
+      "size_px": [
+        2800,
+        933
+      ],
+      "processing": "Orientation normalised, resized, JPEG encoded; EXIF omitted. No semantic image editing.",
+      "visual_review": {
+        "reviewed_on": "2026-10-20",
+        "result": "Natural scenery; no visible people or portraits.",
+        "reviewer": "Codex visual inspection"
+      }
+    },
+    {
+      "id": "horizon",
+      "title": "海上日出",
+      "original_title": "Sunrise Over the Ocean.jpg",
+      "author": "Hommie09",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sunrise_Over_the_Ocean.jpg",
+      "source_revision": "1244226699",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sunrise_Over_the_Ocean.jpg",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_on": "2026-10-20",
+      "verification": "Exact file-description license field verified as CC0 1.0; source image and rendered crop visually reviewed.",
+      "original_sha256": "c5dffbd473dc4f523dfeeaecc365a43dc0dc4429eb6a4d3feabe2ee7506b7c46",
+      "original_size_px": [
+        4000,
+        3000
+      ],
+      "file": "artwork/images/horizon.jpg",
+      "sha256": "8a643629b3d8f7d220bc93ede2fb0b1695d82841af0893fb0f7f09025caf4c51",
+      "size_px": [
+        2800,
+        2100
+      ],
+      "processing": "Orientation normalised, resized, JPEG encoded; EXIF omitted. No semantic image editing.",
+      "visual_review": {
+        "reviewed_on": "2026-10-20",
+        "result": "Natural scenery; no visible people or portraits.",
+        "reviewer": "Codex visual inspection"
+      }
+    }
+  ],
+  "uses": [
+    {
+      "layout": "01_cover",
+      "slot": "hero",
+      "photo": "dunes"
+    },
+    {
+      "layout": "02_chapter",
+      "slot": "hero",
+      "photo": "lake"
+    },
+    {
+      "layout": "03c_content_bottom",
+      "slot": "hero",
+      "photo": "autumn"
+    },
+    {
+      "layout": "03d_content_side",
+      "slot": "hero",
+      "photo": "waterfall"
+    },
+    {
+      "layout": "03e_content_spread_left",
+      "slot": "panorama",
+      "photo": "lake"
+    },
+    {
+      "layout": "03f_content_spread_right",
+      "slot": "panorama",
+      "photo": "lake"
+    },
+    {
+      "layout": "03i_content_gallery",
+      "slot": "photo-wide",
+      "photo": "lake"
+    },
+    {
+      "layout": "03i_content_gallery",
+      "slot": "photo-left",
+      "photo": "horizon"
+    },
+    {
+      "layout": "03i_content_gallery",
+      "slot": "photo-right",
+      "photo": "waterfall"
+    },
+    {
+      "layout": "03l_content_index",
+      "slot": "photo",
+      "photo": "waterfall"
+    },
+    {
+      "layout": "03m_content_masonry",
+      "slot": "photo-1",
+      "photo": "lake"
+    },
+    {
+      "layout": "03m_content_masonry",
+      "slot": "photo-2",
+      "photo": "autumn"
+    },
+    {
+      "layout": "03m_content_masonry",
+      "slot": "photo-3",
+      "photo": "waterfall"
+    },
+    {
+      "layout": "03m_content_masonry",
+      "slot": "photo-4",
+      "photo": "horizon"
+    },
+    {
+      "layout": "03m_content_masonry",
+      "slot": "photo-5",
+      "photo": "ocean"
+    },
+    {
+      "layout": "03m_content_masonry",
+      "slot": "photo-6",
+      "photo": "dunes"
+    },
+    {
+      "layout": "03n_content_stagger",
+      "slot": "photo-1",
+      "photo": "lake"
+    },
+    {
+      "layout": "03n_content_stagger",
+      "slot": "photo-2",
+      "photo": "waterfall"
+    },
+    {
+      "layout": "03n_content_stagger",
+      "slot": "photo-3",
+      "photo": "horizon"
+    },
+    {
+      "layout": "03o_content_contact",
+      "slot": "hero",
+      "photo": "lake"
+    },
+    {
+      "layout": "03o_content_contact",
+      "slot": "photo-1",
+      "photo": "dunes"
+    },
+    {
+      "layout": "03o_content_contact",
+      "slot": "photo-2",
+      "photo": "waterfall"
+    },
+    {
+      "layout": "03o_content_contact",
+      "slot": "photo-3",
+      "photo": "autumn"
+    },
+    {
+      "layout": "03o_content_contact",
+      "slot": "photo-4",
+      "photo": "ocean"
+    },
+    {
+      "layout": "03o_content_contact",
+      "slot": "photo-5",
+      "photo": "woodland"
+    },
+    {
+      "layout": "03o_content_contact",
+      "slot": "photo-6",
+      "photo": "horizon"
+    },
+    {
+      "layout": "03p_content_overlay",
+      "slot": "hero",
+      "photo": "lake"
+    },
+    {
+      "layout": "03q_content_geometry",
+      "slot": "photo-main",
+      "photo": "waterfall"
+    },
+    {
+      "layout": "03q_content_geometry",
+      "slot": "photo-detail",
+      "photo": "woodland"
+    },
+    {
+      "layout": "04_ending",
+      "slot": "hero",
+      "photo": "autumn"
+    }
+  ]
+}

@@ -3,3 +3,8 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+/website/dist/
+/website/qa/
+/website/artwork/exports/
+/.vercel/
+/node_modules/

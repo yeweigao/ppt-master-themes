@@ -1,0 +1,152 @@
+[
+  {
+    "layout": "01_cover",
+    "slot": "hero",
+    "photo": "dunes"
+  },
+  {
+    "layout": "02_chapter",
+    "slot": "hero",
+    "photo": "lake"
+  },
+  {
+    "layout": "03c_content_bottom",
+    "slot": "hero",
+    "photo": "autumn"
+  },
+  {
+    "layout": "03d_content_side",
+    "slot": "hero",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03e_content_spread_left",
+    "slot": "panorama",
+    "photo": "lake"
+  },
+  {
+    "layout": "03f_content_spread_right",
+    "slot": "panorama",
+    "photo": "lake"
+  },
+  {
+    "layout": "03i_content_gallery",
+    "slot": "photo-wide",
+    "photo": "lake"
+  },
+  {
+    "layout": "03i_content_gallery",
+    "slot": "photo-left",
+    "photo": "horizon"
+  },
+  {
+    "layout": "03i_content_gallery",
+    "slot": "photo-right",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03l_content_index",
+    "slot": "photo",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03m_content_masonry",
+    "slot": "photo-1",
+    "photo": "lake"
+  },
+  {
+    "layout": "03m_content_masonry",
+    "slot": "photo-2",
+    "photo": "autumn"
+  },
+  {
+    "layout": "03m_content_masonry",
+    "slot": "photo-3",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03m_content_masonry",
+    "slot": "photo-4",
+    "photo": "horizon"
+  },
+  {
+    "layout": "03m_content_masonry",
+    "slot": "photo-5",
+    "photo": "ocean"
+  },
+  {
+    "layout": "03m_content_masonry",
+    "slot": "photo-6",
+    "photo": "dunes"
+  },
+  {
+    "layout": "03n_content_stagger",
+    "slot": "photo-1",
+    "photo": "lake"
+  },
+  {
+    "layout": "03n_content_stagger",
+    "slot": "photo-2",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03n_content_stagger",
+    "slot": "photo-3",
+    "photo": "horizon"
+  },
+  {
+    "layout": "03o_content_contact",
+    "slot": "hero",
+    "photo": "lake"
+  },
+  {
+    "layout": "03o_content_contact",
+    "slot": "photo-1",
+    "photo": "dunes"
+  },
+  {
+    "layout": "03o_content_contact",
+    "slot": "photo-2",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03o_content_contact",
+    "slot": "photo-3",
+    "photo": "autumn"
+  },
+  {
+    "layout": "03o_content_contact",
+    "slot": "photo-4",
+    "photo": "ocean"
+  },
+  {
+    "layout": "03o_content_contact",
+    "slot": "photo-5",
+    "photo": "woodland"
+  },
+  {
+    "layout": "03o_content_contact",
+    "slot": "photo-6",
+    "photo": "horizon"
+  },
+  {
+    "layout": "03p_content_overlay",
+    "slot": "hero",
+    "photo": "lake"
+  },
+  {
+    "layout": "03q_content_geometry",
+    "slot": "photo-main",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03q_content_geometry",
+    "slot": "photo-detail",
+    "photo": "woodland"
+  },
+  {
+    "layout": "04_ending",
+    "slot": "hero",
+    "photo": "autumn"
+  }
+]

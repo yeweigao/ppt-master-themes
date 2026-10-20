@@ -1,0 +1,272 @@
+{
+  "items": [
+    {
+      "id": "01_cover",
+      "title": "全幅封面",
+      "name": "Full-bleed cover",
+      "family": "photography",
+      "edition": 1,
+      "description": "用一张有纵深的照片建立整本画册的气场；大标题压低，给风景留出完整的呼吸。",
+      "grammar": "满版图片＋下部标题安全区；2–3 行主标题。",
+      "image": "/layouts/rendered/01_cover.jpg",
+      "structure": "/layouts/structure/01_cover.jpg"
+    },
+    {
+      "id": "02_chapter",
+      "title": "摄影章节",
+      "name": "Photographic chapter",
+      "family": "photography",
+      "edition": 1,
+      "description": "章节数字与低位标题形成上下张力，让内容转场有停顿，也有方向。",
+      "grammar": "满版摄影＋章节编号＋短标题；主体裁切随素材调整。",
+      "image": "/layouts/rendered/02_chapter.jpg",
+      "structure": "/layouts/structure/02_chapter.jpg"
+    },
+    {
+      "id": "03a_content_dual",
+      "title": "双栏长文",
+      "name": "Two-column reading",
+      "family": "reading",
+      "edition": 1,
+      "description": "把通栏长文拆成舒适的两条阅读路径；末尾的一句摘录收束观点。",
+      "grammar": "六栏网格 3＋3；每栏宽 500，沟槽 40；正文示例约 11.5 pt。",
+      "image": "/layouts/rendered/03a_content_dual.jpg",
+      "structure": "/layouts/structure/03a_content_dual.jpg"
+    },
+    {
+      "id": "03b_content_sidebar",
+      "title": "正文与旁注",
+      "name": "Main text + side note",
+      "family": "reading",
+      "edition": 1,
+      "description": "正文讲清楚，侧栏提供观察方法或补充信息；主次靠宽度和留白区分。",
+      "grammar": "六栏网格 4＋2；主文 680、旁注 320；独立阅读顺序。",
+      "image": "/layouts/rendered/03b_content_sidebar.jpg",
+      "structure": "/layouts/structure/03b_content_sidebar.jpg"
+    },
+    {
+      "id": "03c_content_bottom",
+      "title": "底部照片出血",
+      "name": "Bottom-edge photograph",
+      "family": "photography",
+      "edition": 1,
+      "description": "阅读在上，情境在下。横幅照片贴住三边，保留主体与环境的关系。",
+      "grammar": "上部双栏短文；下部 754 高图片，左／右／底三边出血。",
+      "image": "/layouts/rendered/03c_content_bottom.jpg",
+      "structure": "/layouts/structure/03c_content_bottom.jpg"
+    },
+    {
+      "id": "03d_content_side",
+      "title": "侧边照片出血",
+      "name": "Full-height side photograph",
+      "family": "photography",
+      "edition": 1,
+      "description": "一边是短文章，一边是贯穿全高的细节摄影；窄文本与纵向照片形成鲜明对照。",
+      "grammar": "左侧短阅读；右侧 600 宽贯穿全高；功能性内容完整呈现。",
+      "image": "/layouts/rendered/03d_content_side.jpg",
+      "structure": "/layouts/structure/03d_content_side.jpg"
+    },
+    {
+      "id": "03e_content_spread_left",
+      "title": "跨页 · 左",
+      "name": "Panorama / left page",
+      "family": "photography",
+      "edition": 1,
+      "description": "连续全景的左半页。标题落在白色下栏，风景完整地跨过书脊。",
+      "grammar": "共享 2480×1240 图像场；成册放在偶数页，与右页成对。",
+      "image": "/layouts/rendered/03e_content_spread_left.jpg",
+      "structure": "/layouts/structure/03e_content_spread_left.jpg"
+    },
+    {
+      "id": "03f_content_spread_right",
+      "title": "跨页 · 右",
+      "name": "Panorama / right page",
+      "family": "photography",
+      "edition": 1,
+      "description": "接住同一张照片的右半页；文字退到下方，让图像先完成一次展开。",
+      "grammar": "同源、同缩放、同垂直裁切；成册放在相邻奇数页。",
+      "image": "/layouts/rendered/03f_content_spread_right.jpg",
+      "structure": "/layouts/structure/03f_content_spread_right.jpg"
+    },
+    {
+      "id": "03g_content_steps",
+      "title": "四步阅读路径",
+      "name": "Four-stage reading path",
+      "family": "information",
+      "edition": 1,
+      "description": "一个连续的细线把步骤串起来；读者可以迅速找到顺序，也能逐段深入。",
+      "grammar": "四个可编辑复合区域＋顺序连接线；标题与说明保持原生文字。",
+      "image": "/layouts/rendered/03g_content_steps.jpg",
+      "structure": "/layouts/structure/03g_content_steps.jpg"
+    },
+    {
+      "id": "03h_content_table",
+      "title": "开放式横线表",
+      "name": "Open table region",
+      "family": "information",
+      "edition": 1,
+      "description": "只有横线，用字重与对齐形成层级；开放的边缘让信息页也有画册的轻盈感。",
+      "grammar": "整幅数据区＋说明＋摘录；实际项目根据数据生成原生表格。",
+      "image": "/layouts/rendered/03h_content_table.jpg",
+      "structure": "/layouts/structure/03h_content_table.jpg"
+    },
+    {
+      "id": "03i_content_gallery",
+      "title": "三图照片叙事",
+      "name": "Three-photo essay",
+      "family": "photography",
+      "edition": 1,
+      "description": "远景、中景、细节组合在一页：照片建立关系，而不是堆砌装饰。",
+      "grammar": "一大两小；图片贴裁切边，白色间隙隔开视线；底部统一图注。",
+      "image": "/layouts/rendered/03i_content_gallery.jpg",
+      "structure": "/layouts/structure/03i_content_gallery.jpg"
+    },
+    {
+      "id": "03j_content_rhythm",
+      "title": "无图节奏编排",
+      "name": "Asymmetric reading rhythm",
+      "family": "reading",
+      "edition": 2,
+      "description": "大字建立重拍，错位段落改变速度；保留共同轴线，让白底也有张力。",
+      "grammar": "2＋4 起笔、跨栏摘句、错位 3＋3 收束；字重、疏密和留白先于色彩。",
+      "image": "/layouts/rendered/03j_content_rhythm.jpg",
+      "structure": "/layouts/structure/03j_content_rhythm.jpg"
+    },
+    {
+      "id": "03k_content_marginalia",
+      "title": "锚定旁注与摘句",
+      "name": "Anchored marginalia",
+      "family": "reading",
+      "edition": 2,
+      "description": "旁注与相应段落对齐，跨栏摘句制造停顿，再回到熟悉的正文宽度。",
+      "grammar": "4＋2 主次；正文分两段，5 轨摘句在语义转折处插入。",
+      "image": "/layouts/rendered/03k_content_marginalia.jpg",
+      "structure": "/layouts/structure/03k_content_marginalia.jpg"
+    },
+    {
+      "id": "03l_content_index",
+      "title": "摄影索引导航",
+      "name": "Editorial index",
+      "family": "information",
+      "edition": 2,
+      "description": "照片提供气氛，重复条目提供方向；栏目、术语或章节都能放入同一导航结构。",
+      "grammar": "出血窄图＋三行索引；2＋4 下栏补充说明，条目没有固定项目语义。",
+      "image": "/layouts/rendered/03l_content_index.jpg",
+      "structure": "/layouts/structure/03l_content_index.jpg"
+    },
+    {
+      "id": "03m_content_masonry",
+      "title": "六图瀑布流",
+      "name": "Bounded photo masonry",
+      "family": "photography",
+      "edition": 2,
+      "description": "保持列边界与沟槽，改变图片高度。相邻远景、地貌和细节形成跳跃，而底线重新收拢节奏。",
+      "grammar": "2＋2＋2 轨，外列延伸至裁切边；错缝但有共同终止带，按列设置图注阅读顺序。",
+      "image": "/layouts/rendered/03m_content_masonry.jpg",
+      "structure": "/layouts/structure/03m_content_masonry.jpg"
+    },
+    {
+      "id": "03n_content_stagger",
+      "title": "交错多图叙事",
+      "name": "Staggered photo narrative",
+      "family": "photography",
+      "edition": 2,
+      "description": "远景、水流、地貌错开起点，文字进入预先设计的空隙。编号给视线一个可选择的顺序。",
+      "grammar": "4 轨主图与两侧伴图；三张照片触达页面外边缘，主体互不遮挡。",
+      "image": "/layouts/rendered/03n_content_stagger.jpg",
+      "structure": "/layouts/structure/03n_content_stagger.jpg"
+    },
+    {
+      "id": "03o_content_contact",
+      "title": "全景＋接触印样",
+      "name": "Panorama and contact sheet",
+      "family": "photography",
+      "edition": 2,
+      "description": "上方全景建立语境，下方重复小图便于并置观察。通过景别变化产生节奏，无需每格换一种设计。",
+      "grammar": "一幅横景＋两行六图；相同图注系统，共同沟槽，信息按行读取。",
+      "image": "/layouts/rendered/03o_content_contact.jpg",
+      "structure": "/layouts/structure/03o_content_contact.jpg"
+    },
+    {
+      "id": "03p_content_overlay",
+      "title": "图文跨界叠加",
+      "name": "Type across the frame",
+      "family": "photography",
+      "edition": 2,
+      "description": "标题跨过白边与影像边界，局部阅读底保证整句话保持清楚。照片、底板、文字分别可编辑。",
+      "grammar": "竖幅主图＋短标题跨界；叠加只用于短标题，正文回到稳定白底。",
+      "image": "/layouts/rendered/03p_content_overlay.jpg",
+      "structure": "/layouts/structure/03p_content_overlay.jpg"
+    },
+    {
+      "id": "03q_content_geometry",
+      "title": "摄影与几何场",
+      "name": "Photo and geometric field",
+      "family": "photography",
+      "edition": 2,
+      "description": "一个大几何场与两张独立照片形成前后关系；用面积与位置配重，避免零碎装饰。",
+      "grammar": "大圆场在图后，主图与细节图错位；形状属于编辑构图，不冒充品牌标识。",
+      "image": "/layouts/rendered/03q_content_geometry.jpg",
+      "structure": "/layouts/structure/03q_content_geometry.jpg"
+    },
+    {
+      "id": "03r_content_evidence",
+      "title": "结论与证据旁注",
+      "name": "Statement and evidence",
+      "family": "information",
+      "edition": 2,
+      "description": "标题先给出可支持的结论，主图呈现证据，旁注帮助解释；来源、范围与限定留在同一页。",
+      "grammar": "4 轨证据区＋2 轨解释；示例统计本目录实际分类数量，正式版只保留通用对象槽。",
+      "image": "/layouts/rendered/03r_content_evidence.jpg",
+      "structure": "/layouts/structure/03r_content_evidence.jpg"
+    },
+    {
+      "id": "03s_content_comparison",
+      "title": "平行对照阅读",
+      "name": "Aligned qualitative comparison",
+      "family": "information",
+      "edition": 2,
+      "description": "同一问题在两边对齐，读者沿行比较、沿列深入。重复位置比换颜色更有用。",
+      "grammar": "3＋3 双列，三对内容共享基线；开放横线，无封闭表格外框。",
+      "image": "/layouts/rendered/03s_content_comparison.jpg",
+      "structure": "/layouts/structure/03s_content_comparison.jpg"
+    },
+    {
+      "id": "03t_content_chronology",
+      "title": "大字时间编排",
+      "name": "Typographic chronology",
+      "family": "information",
+      "edition": 2,
+      "description": "重复大编号与细节列形成稳定节拍，适合阶段、年表或短日程，横线让查阅有秩序。",
+      "grammar": "2＋4 轨、三个阶段；行高表达顺序而非时间长短，真实日期由项目填写。",
+      "image": "/layouts/rendered/03t_content_chronology.jpg",
+      "structure": "/layouts/structure/03t_content_chronology.jpg"
+    },
+    {
+      "id": "03u_content_typographic",
+      "title": "文字主视觉与停顿",
+      "name": "Typographic pause",
+      "family": "reading",
+      "edition": 2,
+      "description": "让文字本身成为主视觉。大标题、偏置小注和下方两种声音形成反差，白底保留力度。",
+      "grammar": "短标题大尺度，3＋3 底栏对话；适合转折与观点页，不承载长篇说明。",
+      "image": "/layouts/rendered/03u_content_typographic.jpg",
+      "structure": "/layouts/structure/03u_content_typographic.jpg"
+    },
+    {
+      "id": "04_ending",
+      "title": "摄影收束",
+      "name": "Photographic close",
+      "family": "photography",
+      "edition": 1,
+      "description": "用熟悉的画面收束，再用一句简洁的文字留下行动方向。",
+      "grammar": "上部 900 高图片；下部主句＋两组短文字；无多余边框。",
+      "image": "/layouts/rendered/04_ending.jpg",
+      "structure": "/layouts/structure/04_ending.jpg"
+    }
+  ],
+  "notice": "Publication edition: seven CC0 1.0 landscape photographs, individually verified and credited. No user-brochure photography or portrait examples. Illustrative copy; no programme, venue or endorsement is asserted.",
+  "style": "NatGeo editorial method / independent blue-and-gold demonstration",
+  "layout": "a4-editorial",
+  "credits": "/image-credits.html"
+}
