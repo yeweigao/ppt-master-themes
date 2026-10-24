@@ -1,4 +1,25 @@
 {
+  "canvas": "a4",
+  "themes": [
+    {
+      "id": "fashion",
+      "label": "Fashion",
+      "name": "时尚先锋",
+      "license": "unsplash"
+    },
+    {
+      "id": "brand-geometry",
+      "label": "Brand",
+      "name": "品牌几何",
+      "license": "cc0"
+    },
+    {
+      "id": "boardroom",
+      "label": "Boardroom",
+      "name": "董事会编辑",
+      "license": "cc0"
+    }
+  ],
   "items": [
     {
       "id": "01_cover",
@@ -9,7 +30,12 @@
       "description": "用一张有纵深的照片建立整本画册的气场；大标题压低，给风景留出完整的呼吸。",
       "grammar": "满版图片＋下部标题安全区；2–3 行主标题。",
       "image": "/layouts/rendered/01_cover.jpg",
-      "structure": "/layouts/structure/01_cover.jpg"
+      "structure": "/layouts/structure/01_cover.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/01_cover.jpg",
+        "brand-geometry": "/layouts/themes/brand-geometry/01_cover.jpg",
+        "boardroom": "/layouts/themes/boardroom/01_cover.jpg"
+      }
     },
     {
       "id": "02_chapter",
@@ -20,7 +46,12 @@
       "description": "章节数字与低位标题形成上下张力，让内容转场有停顿，也有方向。",
       "grammar": "满版摄影＋章节编号＋短标题；主体裁切随素材调整。",
       "image": "/layouts/rendered/02_chapter.jpg",
-      "structure": "/layouts/structure/02_chapter.jpg"
+      "structure": "/layouts/structure/02_chapter.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/02_chapter.jpg",
+        "brand-geometry": "/layouts/themes/brand-geometry/02_chapter.jpg",
+        "boardroom": "/layouts/themes/boardroom/02_chapter.jpg"
+      }
     },
     {
       "id": "03a_content_dual",
@@ -31,7 +62,10 @@
       "description": "把通栏长文拆成舒适的两条阅读路径；末尾的一句摘录收束观点。",
       "grammar": "六栏网格 3＋3；每栏宽 500，沟槽 40；正文示例约 11.5 pt。",
       "image": "/layouts/rendered/03a_content_dual.jpg",
-      "structure": "/layouts/structure/03a_content_dual.jpg"
+      "structure": "/layouts/structure/03a_content_dual.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/themes/brand-geometry/03a_content_dual.jpg"
+      }
     },
     {
       "id": "03b_content_sidebar",
@@ -108,7 +142,10 @@
       "description": "只有横线，用字重与对齐形成层级；开放的边缘让信息页也有画册的轻盈感。",
       "grammar": "整幅数据区＋说明＋摘录；实际项目根据数据生成原生表格。",
       "image": "/layouts/rendered/03h_content_table.jpg",
-      "structure": "/layouts/structure/03h_content_table.jpg"
+      "structure": "/layouts/structure/03h_content_table.jpg",
+      "themes": {
+        "boardroom": "/layouts/themes/boardroom/03h_content_table.jpg"
+      }
     },
     {
       "id": "03i_content_gallery",
@@ -119,7 +156,10 @@
       "description": "远景、中景、细节组合在一页：照片建立关系，而不是堆砌装饰。",
       "grammar": "一大两小；图片贴裁切边，白色间隙隔开视线；底部统一图注。",
       "image": "/layouts/rendered/03i_content_gallery.jpg",
-      "structure": "/layouts/structure/03i_content_gallery.jpg"
+      "structure": "/layouts/structure/03i_content_gallery.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/themes/brand-geometry/03i_content_gallery.jpg"
+      }
     },
     {
       "id": "03j_content_rhythm",
@@ -196,7 +236,10 @@
       "description": "满版影像之上悬浮上下带半圆冲孔缺口（Die-cut notch）的档案卡，四角辅以半透明玻璃层交错叠透。",
       "grammar": "满版底图＋半透明冲孔铭牌（0.92）＋交错边角半透明层（0.28–0.38）；照片、底板与文字分别可编辑。",
       "image": "/layouts/rendered/03p_content_overlay.jpg",
-      "structure": "/layouts/structure/03p_content_overlay.jpg"
+      "structure": "/layouts/structure/03p_content_overlay.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/03p_content_overlay.jpg"
+      }
     },
     {
       "id": "03q_content_geometry",
@@ -207,7 +250,10 @@
       "description": "阶梯色块、圆形配重与两张黑框照片前后交叠，在交错接缝处以多级透明度叠加出空间层次。",
       "grammar": "半透明阶梯场（0.72）＋圆场（0.55）＋跨界叠透块（0.38–0.46）＋粗黑实线画框。",
       "image": "/layouts/rendered/03q_content_geometry.jpg",
-      "structure": "/layouts/structure/03q_content_geometry.jpg"
+      "structure": "/layouts/structure/03q_content_geometry.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/themes/brand-geometry/03q_content_geometry.jpg"
+      }
     },
     {
       "id": "03r_content_evidence",
@@ -218,7 +264,10 @@
       "description": "标题先给出可支持的结论，主图呈现证据，旁注帮助解释；来源、范围与限定留在同一页。",
       "grammar": "4 轨证据区＋2 轨解释；示例统计本目录实际分类数量，正式版只保留通用对象槽。",
       "image": "/layouts/rendered/03r_content_evidence.jpg",
-      "structure": "/layouts/structure/03r_content_evidence.jpg"
+      "structure": "/layouts/structure/03r_content_evidence.jpg",
+      "themes": {
+        "boardroom": "/layouts/themes/boardroom/03r_content_evidence.jpg"
+      }
     },
     {
       "id": "03s_content_comparison",
@@ -229,7 +278,10 @@
       "description": "同一问题在两边对齐，读者沿行比较、沿列深入。重复位置比换颜色更有用。",
       "grammar": "3＋3 双列，三对内容共享基线；开放横线，无封闭表格外框。",
       "image": "/layouts/rendered/03s_content_comparison.jpg",
-      "structure": "/layouts/structure/03s_content_comparison.jpg"
+      "structure": "/layouts/structure/03s_content_comparison.jpg",
+      "themes": {
+        "boardroom": "/layouts/themes/boardroom/03s_content_comparison.jpg"
+      }
     },
     {
       "id": "03t_content_chronology",
@@ -240,7 +292,10 @@
       "description": "重复大编号与细节列形成稳定节拍，适合阶段、年表或短日程，横线让查阅有秩序。",
       "grammar": "2＋4 轨、三个阶段；行高表达顺序而非时间长短，真实日期由项目填写。",
       "image": "/layouts/rendered/03t_content_chronology.jpg",
-      "structure": "/layouts/structure/03t_content_chronology.jpg"
+      "structure": "/layouts/structure/03t_content_chronology.jpg",
+      "themes": {
+        "boardroom": "/layouts/themes/boardroom/03t_content_chronology.jpg"
+      }
     },
     {
       "id": "03u_content_typographic",
@@ -251,7 +306,10 @@
       "description": "顶部四点刻度标尺建立瑞士样本册秩序，超大标题、偏置导语与下方双声部在白底上形成冷峻张力。",
       "grammar": "顶部刻度轴＋超大主标题＋偏置导语＋3＋3 底栏对话；适合宣言与转折页。",
       "image": "/layouts/rendered/03u_content_typographic.jpg",
-      "structure": "/layouts/structure/03u_content_typographic.jpg"
+      "structure": "/layouts/structure/03u_content_typographic.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/03u_content_typographic.jpg"
+      }
     },
     {
       "id": "03v_content_matrix",
@@ -262,7 +320,10 @@
       "description": "顶栏字重刻度轴统领通栏巨幅刊头，下方四列交替排布黑框影像与带渐变条纹、暗纹圆环的纯色信息卡。",
       "grammar": "四模块网格（4×230）；黑框竖图与纯色卡交替，跨列衔接处配半透明交错色片（0.36–0.42）。",
       "image": "/layouts/rendered/03v_content_matrix.jpg",
-      "structure": "/layouts/structure/03v_content_matrix.jpg"
+      "structure": "/layouts/structure/03v_content_matrix.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/03v_content_matrix.jpg"
+      }
     },
     {
       "id": "03w_content_metrics_masonry",
@@ -273,7 +334,10 @@
       "description": "上部四列微字配巨幅指标数字，下部八图四列瀑布流以微倾斜切线破格，并在斜切边与列间交点叠加半透明过渡带。",
       "grammar": "上部四列大字指标＋下部八图瀑布流＋微倾斜切楔形与半透明叠透带（0.24–0.36）。",
       "image": "/layouts/rendered/03w_content_metrics_masonry.jpg",
-      "structure": "/layouts/structure/03w_content_metrics_masonry.jpg"
+      "structure": "/layouts/structure/03w_content_metrics_masonry.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/themes/brand-geometry/03w_content_metrics_masonry.jpg"
+      }
     },
     {
       "id": "03x_content_deconstruct",
@@ -284,7 +348,10 @@
       "description": "满版影像之上叠加三级透明度（1.0 实色锚点／0.58 中度交错／0.34 薄纱叠透）的阶梯棋盘格蒙版，留出中央对角线视觉走廊。",
       "grammar": "全幅出血图片＋三级透明度阶梯色块交错叠印＋矢量方向导引（↗ 与 < >）。",
       "image": "/layouts/rendered/03x_content_deconstruct.jpg",
-      "structure": "/layouts/structure/03x_content_deconstruct.jpg"
+      "structure": "/layouts/structure/03x_content_deconstruct.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/03x_content_deconstruct.jpg"
+      }
     },
     {
       "id": "03y_content_atelier",
@@ -295,7 +362,10 @@
       "description": "上部大留白配偏置宣言与右上微字索引；下部左侧粗黑框影像对撞右侧水平切片柱群与多层半透明正负形剪影。",
       "grammar": "上部偏置宣言＋下部左侧 8px 粗黑框图片＋右侧水平切片柱群与交错半透明正负形块（0.38 / 0.86）。",
       "image": "/layouts/rendered/03y_content_atelier.jpg",
-      "structure": "/layouts/structure/03y_content_atelier.jpg"
+      "structure": "/layouts/structure/03y_content_atelier.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/03y_content_atelier.jpg"
+      }
     },
     {
       "id": "03z_content_pillars",
@@ -306,7 +376,10 @@
       "description": "深色满版底场之上错落升起四根不等高白柱，白柱右下边缘裁切巨型衬线数字 1–4，柱间以半透明残影块交错衔接。",
       "grammar": "深色反转底场＋四根错落白柱（clipPath 边缘裁切大数字 1–4）＋柱间半透明交错回响块（0.10–0.16）。",
       "image": "/layouts/rendered/03z_content_pillars.jpg",
-      "structure": "/layouts/structure/03z_content_pillars.jpg"
+      "structure": "/layouts/structure/03z_content_pillars.jpg",
+      "themes": {
+        "boardroom": "/layouts/themes/boardroom/03z_content_pillars.jpg"
+      }
     },
     {
       "id": "03aa_content_immersion_left",
@@ -350,7 +423,10 @@
       "description": "照片保持全高，右侧实体读栏接管阅读；蓝色书脊线把证据与气氛分开，图内摘句保留情绪。",
       "grammar": "全高照片 · 右侧实体读栏 · 书脊分割线 · 图内摘句与边注。",
       "image": "/layouts/rendered/03ad_content_feature_panel.jpg",
-      "structure": "/layouts/structure/03ad_content_feature_panel.jpg"
+      "structure": "/layouts/structure/03ad_content_feature_panel.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/themes/brand-geometry/03ad_content_feature_panel.jpg"
+      }
     },
     {
       "id": "04_ending",
@@ -361,7 +437,12 @@
       "description": "用熟悉的画面收束，再用一句简洁的文字留下行动方向。",
       "grammar": "上部 900 高图片；下部主句＋两组短文字；无多余边框。",
       "image": "/layouts/rendered/04_ending.jpg",
-      "structure": "/layouts/structure/04_ending.jpg"
+      "structure": "/layouts/structure/04_ending.jpg",
+      "themes": {
+        "fashion": "/layouts/themes/fashion/04_ending.jpg",
+        "brand-geometry": "/layouts/themes/brand-geometry/04_ending.jpg",
+        "boardroom": "/layouts/themes/boardroom/04_ending.jpg"
+      }
     }
   ],
   "notice": "Publication edition: seven CC0 1.0 landscape photographs, individually verified and credited. No user-brochure photography or portrait examples. Illustrative copy; no programme, venue or endorsement is asserted.",

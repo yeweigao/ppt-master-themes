@@ -1,0 +1,261 @@
+{
+  "canvas": "ppt169",
+  "themes": [
+    {
+      "id": "natgeo",
+      "label": "NatGeo",
+      "name": "国家地理纪实",
+      "license": "cc0"
+    },
+    {
+      "id": "fashion",
+      "label": "Fashion",
+      "name": "时尚先锋",
+      "license": "unsplash"
+    },
+    {
+      "id": "brand-geometry",
+      "label": "Brand",
+      "name": "品牌几何",
+      "license": "cc0"
+    },
+    {
+      "id": "boardroom",
+      "label": "Boardroom",
+      "name": "董事会编辑",
+      "license": "cc0"
+    }
+  ],
+  "items": [
+    {
+      "id": "01_cover",
+      "title": "全幅封面",
+      "name": "Full-bleed cover",
+      "family": "photography",
+      "description": "一张照片铺满整屏，下方渐变托住标题；身份行在上，版次在下。",
+      "grammar": "满版图片＋下部渐变；标题落在第 1 轨，两行以内。",
+      "image": "/layouts/169/themes/natgeo/01_cover.jpg",
+      "structure": "/layouts/169/structure/01_cover.jpg",
+      "themes": {
+        "natgeo": "/layouts/169/themes/natgeo/01_cover.jpg",
+        "fashion": "/layouts/169/themes/fashion/01_cover.jpg",
+        "brand-geometry": "/layouts/169/themes/brand-geometry/01_cover.jpg",
+        "boardroom": "/layouts/169/themes/boardroom/01_cover.jpg"
+      }
+    },
+    {
+      "id": "02_chapter",
+      "title": "摄影章节",
+      "name": "Photographic chapter",
+      "family": "photography",
+      "description": "上方巨大章节号，下方标题与一句说明，让转场有停顿，也有方向。",
+      "grammar": "满版摄影＋章节号＋标题＋一行说明。",
+      "image": "/layouts/169/themes/natgeo/02_chapter.jpg",
+      "structure": "/layouts/169/structure/02_chapter.jpg",
+      "themes": {
+        "natgeo": "/layouts/169/themes/natgeo/02_chapter.jpg",
+        "brand-geometry": "/layouts/169/themes/brand-geometry/02_chapter.jpg"
+      }
+    },
+    {
+      "id": "03a_content_statement",
+      "title": "一句主张",
+      "name": "Statement",
+      "family": "reading",
+      "description": "一句超大主张占据视线；刻度标尺在上，短粗线分开导语与辅助说明。",
+      "grammar": "顶部刻度标尺；主张两行；下部 3＋3 双栏。",
+      "image": "/layouts/169/themes/fashion/03a_content_statement.jpg",
+      "structure": "/layouts/169/structure/03a_content_statement.jpg",
+      "themes": {
+        "fashion": "/layouts/169/themes/fashion/03a_content_statement.jpg",
+        "boardroom": "/layouts/169/themes/boardroom/03a_content_statement.jpg"
+      }
+    },
+    {
+      "id": "03b_content_dual",
+      "title": "双栏阅读",
+      "name": "Two-column reading",
+      "family": "reading",
+      "description": "标题与导语下两条阅读栏，适合把一段完整论述讲清楚。",
+      "grammar": "六轨 3＋3；每栏 544，栏距 32。",
+      "image": "/layouts/169/themes/brand-geometry/03b_content_dual.jpg",
+      "structure": "/layouts/169/structure/03b_content_dual.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/169/themes/brand-geometry/03b_content_dual.jpg"
+      }
+    },
+    {
+      "id": "03c_content_evidence",
+      "title": "证据页",
+      "name": "Evidence",
+      "family": "information",
+      "description": "行动标题在上，4 轨证据对象配 2 轨注释，来源压在页脚。",
+      "grammar": "4＋2：736 主栏放图表，352 旁注；标题 → 展品 → 注释 → 来源。",
+      "image": "/layouts/169/themes/boardroom/03c_content_evidence.jpg",
+      "structure": "/layouts/169/structure/03c_content_evidence.jpg",
+      "themes": {
+        "boardroom": "/layouts/169/themes/boardroom/03c_content_evidence.jpg"
+      }
+    },
+    {
+      "id": "03d_content_comparison",
+      "title": "并列对比",
+      "name": "Comparison",
+      "family": "information",
+      "description": "两个方案并排，三组对齐的行只用横线分隔，不用卡片。",
+      "grammar": "3＋3 两栏标题；三行对齐；发丝线分隔。",
+      "image": "/layouts/169/themes/boardroom/03d_content_comparison.jpg",
+      "structure": "/layouts/169/structure/03d_content_comparison.jpg",
+      "themes": {
+        "boardroom": "/layouts/169/themes/boardroom/03d_content_comparison.jpg"
+      }
+    },
+    {
+      "id": "03e_content_table",
+      "title": "开放表格",
+      "name": "Open table",
+      "family": "information",
+      "description": "标题与导语下一张通栏表格，开放式横线，读数直接落在纸面上。",
+      "grammar": "通栏 1120 宽表格区；只用横线，不加外框。",
+      "image": "/layouts/169/themes/boardroom/03e_content_table.jpg",
+      "structure": "/layouts/169/structure/03e_content_table.jpg",
+      "themes": {
+        "boardroom": "/layouts/169/themes/boardroom/03e_content_table.jpg"
+      }
+    },
+    {
+      "id": "03f_content_chronology",
+      "title": "时间线",
+      "name": "Chronology",
+      "family": "information",
+      "description": "四个刻度落在四模块轴上，序数标签与事件对齐；等距不代表时长。",
+      "grammar": "四模块轴 80 / 368 / 656 / 944；每格 256 宽。",
+      "image": "/layouts/169/themes/natgeo/03f_content_chronology.jpg",
+      "structure": "/layouts/169/structure/03f_content_chronology.jpg",
+      "themes": {
+        "natgeo": "/layouts/169/themes/natgeo/03f_content_chronology.jpg"
+      }
+    },
+    {
+      "id": "03g_content_marginalia",
+      "title": "页边旁注",
+      "name": "Marginalia",
+      "family": "reading",
+      "description": "4 轨正文，发丝线后是 2 轨旁注与一句摘句，像杂志页边的批注。",
+      "grammar": "4＋2；旁注区 352 宽，含一句摘句。",
+      "image": "/layouts/169/themes/brand-geometry/03g_content_marginalia.jpg",
+      "structure": "/layouts/169/structure/03g_content_marginalia.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/169/themes/brand-geometry/03g_content_marginalia.jpg"
+      }
+    },
+    {
+      "id": "03h_content_side_photo",
+      "title": "侧图阅读",
+      "name": "Side photo",
+      "family": "photography",
+      "description": "左侧 3 轨阅读栏，右半页照片贴上、右、下三边出血。",
+      "grammar": "左 3 轨文字；右侧照片三边出血。",
+      "image": "/layouts/169/themes/natgeo/03h_content_side_photo.jpg",
+      "structure": "/layouts/169/structure/03h_content_side_photo.jpg",
+      "themes": {
+        "natgeo": "/layouts/169/themes/natgeo/03h_content_side_photo.jpg"
+      }
+    },
+    {
+      "id": "03i_content_gallery",
+      "title": "三联图廊",
+      "name": "Gallery",
+      "family": "photography",
+      "description": "顶部三张不等宽照片贴边排开，下方标题、导语与来源。",
+      "grammar": "三图不等宽、上边出血；下部标题区。",
+      "image": "/layouts/169/themes/natgeo/03i_content_gallery.jpg",
+      "structure": "/layouts/169/structure/03i_content_gallery.jpg",
+      "themes": {
+        "natgeo": "/layouts/169/themes/natgeo/03i_content_gallery.jpg",
+        "fashion": "/layouts/169/themes/fashion/03i_content_gallery.jpg"
+      }
+    },
+    {
+      "id": "03j_content_metrics",
+      "title": "巨型数字",
+      "name": "Metrics",
+      "family": "information",
+      "description": "四个巨型数字站在刻度标尺上，下方各一行标签——不是 KPI 瓷砖。",
+      "grammar": "四模块轴；数字与标签共用左边线。",
+      "image": "/layouts/169/themes/boardroom/03j_content_metrics.jpg",
+      "structure": "/layouts/169/structure/03j_content_metrics.jpg",
+      "themes": {
+        "boardroom": "/layouts/169/themes/boardroom/03j_content_metrics.jpg"
+      }
+    },
+    {
+      "id": "03k_content_overlay",
+      "title": "铭牌叠图",
+      "name": "Overlay plate",
+      "family": "photography",
+      "description": "满版照片上一块带半圆冲孔的白色铭牌，承载标题与正文。",
+      "grammar": "满版图片＋白色铭牌；上下各一个半圆缺口。",
+      "image": "/layouts/169/themes/brand-geometry/03k_content_overlay.jpg",
+      "structure": "/layouts/169/structure/03k_content_overlay.jpg",
+      "themes": {
+        "brand-geometry": "/layouts/169/themes/brand-geometry/03k_content_overlay.jpg"
+      }
+    },
+    {
+      "id": "03l_content_deconstruct",
+      "title": "解构叠透",
+      "name": "Deconstruct",
+      "family": "photography",
+      "description": "照片被实色、0.58 叠透与 0.34 薄纱的网格单元遮罩，文字落在实色单元里。",
+      "grammar": "网格单元三级透明度 1.0 / 0.58 / 0.34。",
+      "image": "/layouts/169/themes/fashion/03l_content_deconstruct.jpg",
+      "structure": "/layouts/169/structure/03l_content_deconstruct.jpg",
+      "themes": {
+        "fashion": "/layouts/169/themes/fashion/03l_content_deconstruct.jpg"
+      }
+    },
+    {
+      "id": "03m_content_pillars",
+      "title": "错位支柱",
+      "name": "Pillars",
+      "family": "information",
+      "description": "深色底场上四根错位支柱落在四模块轴上，柱内写步骤。",
+      "grammar": "深色底场；四柱高度错落，只表示顺序，不表示数量。",
+      "image": "/layouts/169/themes/boardroom/03m_content_pillars.jpg",
+      "structure": "/layouts/169/structure/03m_content_pillars.jpg",
+      "themes": {
+        "boardroom": "/layouts/169/themes/boardroom/03m_content_pillars.jpg"
+      }
+    },
+    {
+      "id": "03n_content_quote",
+      "title": "摘句页",
+      "name": "Quote",
+      "family": "reading",
+      "description": "左侧照片贴三边，右栏短粗线、摘句、出处与来源。",
+      "grammar": "左图三边出血；右侧 3 轨摘句栏。",
+      "image": "/layouts/169/themes/fashion/03n_content_quote.jpg",
+      "structure": "/layouts/169/structure/03n_content_quote.jpg",
+      "themes": {
+        "fashion": "/layouts/169/themes/fashion/03n_content_quote.jpg"
+      }
+    },
+    {
+      "id": "04_ending",
+      "title": "收束页",
+      "name": "Ending",
+      "family": "photography",
+      "description": "上方照片，下方收束句、副标题与两个行动 / 联系栏。",
+      "grammar": "上部图片带；下部收束句＋两栏行动信息。",
+      "image": "/layouts/169/themes/natgeo/04_ending.jpg",
+      "structure": "/layouts/169/structure/04_ending.jpg",
+      "themes": {
+        "natgeo": "/layouts/169/themes/natgeo/04_ending.jpg",
+        "fashion": "/layouts/169/themes/fashion/04_ending.jpg",
+        "brand-geometry": "/layouts/169/themes/brand-geometry/04_ending.jpg",
+        "boardroom": "/layouts/169/themes/boardroom/04_ending.jpg"
+      }
+    }
+  ]
+}

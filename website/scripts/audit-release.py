@@ -55,11 +55,12 @@ for page in doc:
     assert not private.search(page.get_text())
 assert 'CC0 PHOTOGRAPHY' in doc[-1].get_text()
 files={}
-for folder in ['public/layouts/rendered','public/layouts/structure','public/downloads']:
-    for path in sorted((ROOT/folder).glob('*')):
+for folder in ['public/layouts/rendered','public/layouts/structure','public/layouts/themes',
+               'public/layouts/169/structure','public/layouts/169/themes','public/downloads']:
+    for path in sorted((ROOT/folder).rglob('*')):
         if path.is_file(): files[path.relative_to(ROOT/'public').as_posix()]=sha256(path.read_bytes()).hexdigest()
-record={'reviewed_on':'2026-10-24','scope':'Publication examples, downloads, and homepage theme spreads',
-    'manual_visual_review':'Seven CC0 source landscapes; all 33 published layout previews and their structure previews; the eight-page fictional OSTRA brand study; the 24-page exported native PDF contact sheet; and the four homepage theme spreads inspected. Landscape layouts contain no visible people. The Fashion theme spread uses licensed Unsplash portraits (not CC0) and is labeled as such on the credits page and footer.',
+record={'reviewed_on':'2026-10-24','scope':'Publication examples, downloads, homepage theme spreads, and theme showcases on the A4 and 16:9 layouts',
+    'manual_visual_review':'Seven CC0 source landscapes; all 33 published layout previews and their structure previews; the eight-page fictional OSTRA brand study; the 24-page exported native PDF contact sheet; the four homepage theme spreads; the 24 A4 and 26 16:9 theme showcase renderings; and the 17 neutral 16:9 structure previews inspected. NatGeo, Brand Geometry and Boardroom showcases reuse only the seven CC0 landscapes. Landscape layouts contain no visible people. The Fashion theme spread and Fashion showcases use licensed Unsplash portraits (not CC0) and is labeled as such on the credits page and footer.',
     'automated_checks':{'only_approved_landscapes_or_neutral_pixels':True,'source_images_no_exif':True,'no_stale_or_private_strings_in_office_xml_or_pdf_text':True,'pdf_pages':len(doc),'pdf_size_mm':[210,297]},
     'decks':decks,'files':files}
 if args.record:

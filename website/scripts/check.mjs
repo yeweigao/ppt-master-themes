@@ -48,6 +48,29 @@ export async function checkSite(root) {
       try { await access(join(root, item[key])); } catch { errors.push(`${item.id}: missing ${item[key]}`); }
     }
   }
+  // Theme showcases: every referenced rendering exists, belongs to a declared theme and lives under /layouts/.
+  const media = new Set();
+  const checkThemes = (label, data) => {
+    const declared = new Set((data.themes || []).map(theme => theme.id));
+    for (const item of data.items) {
+      for (const [theme, src] of Object.entries(item.themes || {})) {
+        assert.ok(declared.has(theme), `${label} ${item.id}: undeclared theme ${theme}`);
+        assert.ok(src.startsWith('/layouts/'), `${label} ${item.id}: media must use a portable public URL`);
+        media.add(src);
+      }
+    }
+  };
+  checkThemes('A4', manifest);
+  const manifest169 = JSON.parse(await readFile(join(root, 'layouts/169/manifest.json'), 'utf8'));
+  assert.equal(manifest169.items.length, 17, 'Expected the 17-layout 16:9 collection');
+  assert.equal(new Set(manifest169.items.map(item => item.id)).size, 17, 'Duplicate 16:9 layout ids');
+  checkThemes('16:9', manifest169);
+  for (const item of manifest169.items) {
+    assert.ok(Object.keys(item.themes || {}).length > 0, `16:9 ${item.id}: needs at least one theme showcase`);
+    assert.ok(Object.values(item.themes).includes(item.image), `16:9 ${item.id}: image must be one of its theme showcases`);
+    media.add(item.image); media.add(item.structure);
+  }
+  for (const src of media) { try { await access(join(root, src)); } catch { errors.push(`missing showcase media ${src}`); } }
   const html = await readFile(join(root, 'index.html'), 'utf8');
   const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(match => match[1]);
   assert.equal(ids.length, new Set(ids).size, 'Duplicate home-page ids');
@@ -58,7 +81,7 @@ export async function checkSite(root) {
   const release=JSON.parse(await readFile(join(website,'artwork/release-review.json'),'utf8'));
   const reviewedFiles=Object.keys(release.files).sort();
   const actualReviewFiles=files.map(file=>relative(root,file).split(sep).join('/'))
-    .filter(file=>/^(layouts\/(rendered|structure)|downloads)\//.test(file)).sort();
+    .filter(file=>/^(layouts\/(rendered|structure|themes|169\/(structure|themes))|downloads)\//.test(file)).sort();
   assert.deepEqual(actualReviewFiles,reviewedFiles,'Public asset roster differs from the reviewed release');
   for (const [file,wanted] of Object.entries(release.files)) {
     const actual=createHash('sha256').update(await readFile(join(root,file))).digest('hex');
@@ -68,6 +91,6 @@ export async function checkSite(root) {
   assert.equal(sources.photographs.length,7);
   assert.ok(sources.photographs.every(photo=>photo.license==='CC0-1.0'&&photo.visual_review));
   assert.equal(errors.length, 0, errors.join('\n'));
-  console.log(`Site check passed: ${links} local links, 33 distinct layouts and 73 preview assets.`);
+  console.log(`Site check passed: ${links} local links, 33 A4 + 17 16:9 layouts, ${reviewedFiles.length} reviewed public assets.`);
 }
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) await checkSite(join(website, 'dist'));

@@ -11,17 +11,17 @@
   <script defer src="/layouts/gallery.js"></script>
   <script defer src="/assets/ripple.js"></script>
 </head>
-<body>
+<body data-canvas="a4" data-manifest="/layouts/manifest.json">
   <a class="skip-link" href="#collection">跳到版式目录</a>
   <header class="masthead">
     <a class="wordmark" href="#top" aria-label="A4 Editorial 首页"><img class="mark" src="/assets/brand/mark.svg" width="32" height="36" alt="">A4 EDITORIAL<span class="wordmark-separator">/</span><span class="wordmark-sub">版式实验室</span></a>
     <div class="edition">THEMES FOR PPT MASTER <span>—</span> A4 EDITORIAL</div>
-    <a class="masthead-link" href="/" aria-label="返回主题介绍首页">主题介绍 <span aria-hidden="true">↗</span></a>
+    <nav class="masthead-links" aria-label="版式实验室"><a class="masthead-link" href="/layouts/169/">16:9 版式 <span aria-hidden="true">↗</span></a><a class="masthead-link" href="/" aria-label="返回主题介绍首页">主题介绍 <span aria-hidden="true">↗</span></a></nav>
   </header>
 
   <aside class="index-rail" aria-label="页面导航">
     <div class="rail-label">IN THIS EDITION</div>
-    <nav><a href="/"><span>↖</span> 主题介绍</a><a href="#top"><span>01</span> 开场</a><a href="#rhythm"><span>02</span> 节奏实验</a><a href="#spread"><span>03</span> 跨页</a><a href="#collection"><span>04</span> 版式目录</a><a href="#principles"><span>05</span> 设计逻辑</a></nav>
+    <nav><a href="/"><span>↖</span> 主题介绍</a><a href="#top"><span>01</span> 开场</a><a href="#rhythm"><span>02</span> 节奏实验</a><a href="#spread"><span>03</span> 跨页</a><a href="#collection"><span>04</span> 版式目录</a><a href="#principles"><span>05</span> 设计逻辑</a><a href="/layouts/169/"><span>↗</span> 16:9 版式</a></nav>
     <div class="rail-bottom"><span class="rail-dash"></span>210 × 297 mm<br>PORTRAIT / A4</div>
   </aside>
 
@@ -38,8 +38,8 @@
       <div class="hero-stage" aria-label="画册版式预览">
         <div class="stage-rule" aria-hidden="true"></div>
         <div class="stage-note">SWISS GRID ×<br>AVANT-GARDE.</div>
-        <button class="hero-page hero-page-back" data-hero="side" aria-label="放大侧边出血版式"><img src="/layouts/rendered/03d_content_side.jpg" alt="侧边摄影出血示例" fetchpriority="high"><span class="page-fallback">A4 / EDITORIAL</span></button>
-        <button class="hero-page hero-page-front" data-hero="cover" aria-label="放大全幅封面版式"><img src="/layouts/rendered/01_cover.jpg" alt="全幅摄影封面示例" fetchpriority="high"><span class="page-fallback">A page.<br>A world.</span></button>
+        <button class="hero-page hero-page-back" data-hero-id="03d_content_side" aria-label="放大侧边出血版式"><img src="/layouts/rendered/03d_content_side.jpg" alt="侧边摄影出血示例" fetchpriority="high"><span class="page-fallback">A4 / EDITORIAL</span></button>
+        <button class="hero-page hero-page-front" data-hero-id="01_cover" aria-label="放大全幅封面版式"><img src="/layouts/rendered/01_cover.jpg" alt="全幅摄影封面示例" fetchpriority="high"><span class="page-fallback">A page.<br>A world.</span></button>
         <span class="stage-caption"><span aria-hidden="true">↗</span> 点击任一页面，打开细节</span>
       </div>
     </section>
@@ -93,11 +93,12 @@
 
     <section class="collection-section section-pad" id="collection" aria-labelledby="collection-title">
       <div class="section-top"><p class="eyebrow">THE COLLECTION / 版式目录</p><span class="section-number">04</span></div>
-      <div class="collection-heading"><h2 id="collection-title">One grid.<br><em>Many stories.</em></h2><p>选结构，看实景，再拆开它的秩序。<br>每一页都有任务，每一个留白都有理由。</p></div>
+      <div class="collection-heading"><h2 id="collection-title">One grid.<br><em>Many stories.</em></h2><p>选结构，看实景，再拆开它的秩序。<br>切换主题，看同一个版式换上 Fashion、Brand、Boardroom 的语气。<br>每一页都有任务，每一个留白都有理由。</p></div>
       <div class="toolbar">
         <div class="filters" role="group" aria-label="按版式类型筛选"><button type="button" data-filter="new" aria-pressed="false">进阶 21</button><button type="button" data-filter="all" aria-pressed="true">全部 <span id="total-count">33</span></button><button type="button" data-filter="photography" aria-pressed="false">摄影叙事</button><button type="button" data-filter="reading" aria-pressed="false">阅读编排</button><button type="button" data-filter="information" aria-pressed="false">信息表达</button></div>
-        <div class="view-controls"><div class="mode-switch" role="group" aria-label="预览内容"><button type="button" data-mode="image" aria-pressed="true">实景</button><button type="button" data-mode="structure" aria-pressed="false">结构</button></div><button class="grid-toggle" type="button" id="grid-toggle" aria-pressed="false"><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M1.5 2v12m4.3-12v12m4.4-12v12m4.3-12v12M1.5 2h13M1.5 14h13" fill="none" stroke="currentColor" stroke-width="1"/></svg>6 栏网格</button></div>
+        <div class="view-controls"><div class="mode-switch" role="group" aria-label="预览内容"><button type="button" data-mode="image" aria-pressed="true">示例</button><button type="button" data-mode="structure" aria-pressed="false">结构</button></div><button class="grid-toggle" type="button" id="grid-toggle" aria-pressed="false"><svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M1.5 2v12m4.3-12v12m4.4-12v12m4.3-12v12M1.5 2h13M1.5 14h13" fill="none" stroke="currentColor" stroke-width="1"/></svg>6 栏网格</button></div>
       </div>
+      <div class="theme-filter" id="theme-filter" role="group" aria-label="按主题查看同一版式"></div>
       <p class="view-note" id="view-note">发布示例仅用已核实 CC0 的自然风景照片；作者与来源见图片许可页。正式 Layout 使用中性占位符。</p>
       <p class="view-note"><a href="/image-credits.html">图片来源与许可 ↗</a></p>
       <div class="gallery" id="gallery" aria-busy="true"><div class="loading-state"><span class="loading-line"></span>正在打开样本册…</div></div>
@@ -109,13 +110,13 @@
       <div class="principles-heading"><h2 id="principles-title">有秩序，<br><em>才有自由。</em></h2><p>Layout 管结构，Style 管表达，Brand 管身份。<br>三个部分各司其职，才能在新的内容里继续成立。</p></div>
       <div class="principles-grid"><article><span>01 / RHYTHM</span><h3>把翻页当作节奏</h3><p>全幅摄影展开情绪，双栏正文承接阅读，先锋解构制造转折，图解与表格收拢信息。</p></article><article><span>02 / READING</span><h3>六栏与四列是对齐的尺度</h3><p>用 3+3 容纳长文，用 4+2 安排主次，用四列矩阵组织刊头与指标。栏数服务内容，不把正文切成窄条。</p></article><article><span>03 / OVERPRINT</span><h3>交错处保留呼吸与透明</h3><p>色块、画框与影像交错时采用多级透明度（1.0 / 0.58 / 0.34）阶梯叠透，让底层肌理与网格边界同时可见。</p></article></div>
     </section>
-    <footer class="footer section-pad"><div class="footer-title">Made for stories<br><em>worth reading.</em></div><div class="footer-meta"><strong>A4 EDITORIAL / 画册版式实验室</strong><p>Theme 增强包独立 Layout 资源<br>结合瑞士国际主义与时尚先锋编辑方法展示，非 PPT Master 官方内置。</p><p><a href="/downloads/A4_Editorial_Examples.pdf" target="_blank" rel="noopener">示例 PDF ↗</a> · <a href="/downloads/A4_Editorial_Examples.pptx" download>示例 PPTX ↓</a> · <a href="/downloads/A4_Editorial_Structure.pptx" download>中性结构 PPTX ↓</a></p><a href="/image-credits.html">图片来源与许可 ↗</a> · <a href="#top">回到开场 ↑</a></div></footer>
+    <footer class="footer section-pad"><div class="footer-title">Made for stories<br><em>worth reading.</em></div><div class="footer-meta"><strong>A4 EDITORIAL / 画册版式实验室</strong><p>Theme 增强包独立 Layout 资源<br>结合瑞士国际主义与时尚先锋编辑方法展示，非 PPT Master 官方内置。</p><p><a href="/layouts/169/">16:9 版式实验室 ↗</a></p><p><a href="/downloads/A4_Editorial_Examples.pdf" target="_blank" rel="noopener">示例 PDF ↗</a> · <a href="/downloads/A4_Editorial_Examples.pptx" download>示例 PPTX ↓</a> · <a href="/downloads/A4_Editorial_Structure.pptx" download>中性结构 PPTX ↓</a></p><a href="/image-credits.html">图片来源与许可 ↗</a> · <a href="#top">回到开场 ↑</a></div></footer>
   </main>
 
   <dialog class="lightbox" id="lightbox" aria-labelledby="detail-title">
     <div class="lightbox-shell">
       <div class="lightbox-top"><span class="detail-kicker">A4 EDITORIAL / PAGE STUDY</span><div class="detail-tools"><button type="button" id="detail-mode" aria-label="切换实景与结构预览">查看结构</button><button type="button" id="close-detail" class="close-detail" aria-label="关闭放大预览">×</button></div></div>
-      <div class="detail-body"><div class="detail-image-zone"><button class="detail-arrow detail-prev" type="button" id="prev-detail" aria-label="上一版式">←</button><div class="detail-page page-surface" id="detail-page"><img id="detail-image" alt=""><div class="grid-overlay" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div></div><button class="detail-arrow detail-next" type="button" id="next-detail" aria-label="下一版式">→</button></div><div class="detail-copy"><span id="detail-number" class="detail-number">01</span><p class="eyebrow" id="detail-family"></p><h2 id="detail-title"></h2><p class="detail-en" id="detail-en"></p><p id="detail-description"></p><div class="detail-grammar"><span>LAYOUT GRAMMAR</span><p id="detail-grammar"></p></div><button class="detail-grid-toggle" type="button" id="detail-grid" aria-pressed="false">叠加 6 栏网格</button><p><a id="detail-original" class="text-link" target="_blank" rel="noopener">打开高清图片 ↗</a></p><p class="detail-credits"><a href="/image-credits.html" target="_blank" rel="noopener">照片作者与 CC0 许可 ↗</a></p><p class="keyboard-tip">← → 切换版式 · ESC 关闭</p></div></div>
+      <div class="detail-body"><div class="detail-image-zone"><button class="detail-arrow detail-prev" type="button" id="prev-detail" aria-label="上一版式">←</button><div class="detail-page page-surface" id="detail-page"><img id="detail-image" alt=""><div class="grid-overlay" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></div></div><button class="detail-arrow detail-next" type="button" id="next-detail" aria-label="下一版式">→</button></div><div class="detail-copy"><span id="detail-number" class="detail-number">01</span><p class="eyebrow" id="detail-family"></p><h2 id="detail-title"></h2><p class="detail-en" id="detail-en"></p><p id="detail-description"></p><div class="detail-grammar"><span>LAYOUT GRAMMAR</span><p id="detail-grammar"></p></div><div class="detail-themes" id="detail-themes" hidden></div><button class="detail-grid-toggle" type="button" id="detail-grid" aria-pressed="false">叠加 6 栏网格</button><p><a id="detail-original" class="text-link" target="_blank" rel="noopener">打开高清图片 ↗</a></p><p class="detail-credits"><a href="/image-credits.html" target="_blank" rel="noopener">图片来源与许可 ↗</a></p><p class="keyboard-tip">← → 切换版式 · ESC 关闭</p></div></div>
       <div class="detail-bottom"><span>210 × 297 mm / PORTRAIT</span><span id="detail-position"></span></div>
     </div>
   </dialog>

@@ -1,6 +1,6 @@
 # Themes for PPT Master website
 
-零依赖的静态介绍网站，可同时部署到 Vercel 与 GitHub Pages。首页按 01—04 编号介绍四套主题，并用配图索引完整展示 33 个 A4 版式；`/layouts/` 保留可逐页放大的版式实验室。首页带极淡的极光背景与全站点击涟漪，均尊重 `prefers-reduced-motion`。
+零依赖的静态介绍网站，可同时部署到 Vercel 与 GitHub Pages。首页按 01—04 编号介绍四套主题，用配图索引完整展示 33 个 A4 版式，并用“同一个版式，四种语气”展示 17 个 16:9 版式；`/layouts/` 与 `/layouts/169/` 分别是 A4 与 16:9 的版式实验室，都可以按主题切换同一页型。首页带极淡的极光背景与全站点击涟漪，均尊重 `prefers-reduced-motion`。
 
 ## 本地预览
 
@@ -51,7 +51,8 @@ npm run dev
 | `src/index.html` | 介绍首页与 SEO 文案 |
 | `public/assets/site.css` / `site.js` | 首页视觉、响应式与复制功能 |
 | `public/assets/ripple.js` | 首页、图库与许可页共用的点击涟漪（减少动态偏好下自动停用） |
-| `public/layouts/` | 独立版式实验室、manifest、实景与中性预览 |
+| `public/layouts/` | A4 版式实验室、manifest、实景与中性预览；`themes/<主题>/` 是各主题套在 A4 总版式上的展示 |
+| `public/layouts/169/` | 16:9 版式实验室、manifest、中性结构预览（`structure/`）与各主题展示（`themes/<主题>/`） |
 | `public/downloads/` | 下载用 PDF 与 PPTX |
 | `public/assets/brand/` | 展景标志的标准、反白与单色 SVG，使用规则见 `brand/README.md` |
 | `public/assets/fonts/` | 可再分发的 Playfair Display 与 OFL 许可证 |
@@ -63,6 +64,8 @@ npm run dev
 更新版式示例时，将最新渲染图、中性预览、manifest 与经检查的下载文件放入 `public/` 相应目录。保留 `/layouts/` 开头的媒体 URL，保证有无尾斜杠均能加载。正式 Layout 位于仓库的 `layouts/`；网站中的照片与文案只用于演示。
 
 版式实验室的实景图使用 `artwork/photo-sources.json` 中逐张核验的七张 CC0 自然风景照片，不含人物；作者、来源、许可和处理记录随站点展示，也随示例提供下载。Fashion Editorial 章节缩略图另采用 Unsplash License 的 11 张示例图，其中包括人像，并非 CC0，详见 `themes/fashion/examples/PHOTOS.md` 与站内图片来源页；许可覆盖照片本身，不延伸至人物、地点或商标权利。Brand Geometry 章节缩略图是虚构 OSTRA 八页研究的真实预览合成，不是 CSS 示意图。所有示例均非杂志扫描、广告图或真实品牌物料，OSTRA 与 MAISON 170 为虚构身份。网站代码为 Apache 2.0，风景照片为 CC0，Fashion 示例图与 Playfair Display 字体分别按 Unsplash License 与 OFL 说明。
+
+主题展示图来自仓库 `themes/*/examples/{a4-editorial,ppt169-editorial}/`，16:9 结构图来自 `layouts/ppt169-editorial/workspace/templates/`（占位符换成可读的中性标签）。改了主题展示或新增页型后，运行 `python3 website/scripts/render-theme-showcases.py`（需要 Python Playwright 与主题字体），逐图检查，同步两个 manifest 的 `themes` 字段，再 `python3 website/scripts/audit-release.py --record` 并 `npm run build`。
 
 `artwork/templates/` 保存发布版示例 SVG，`artwork/images/` 保存经处理且移除 EXIF 的风景源图；它们用于维护，不直接进入网站部署目录。`scripts/acquire-landscapes.py` 为显式维护工具，会联网核验并下载已列出的素材；普通 `npm run build` 不联网、不获取新照片。渲染维护工具 `scripts/render-public-previews.cjs` 需要宿主提供 `sharp`，可用 `PPT_THEMES_NODE_MODULES` 指定其 `node_modules` 路径；同样不参与部署构建。
 
