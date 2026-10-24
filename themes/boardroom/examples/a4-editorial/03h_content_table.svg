@@ -1,0 +1,61 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-open-table" data-pptx-layout-name="Open table region" lang="en">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0" />
+  <ns0:rect x="100" y="112" width="11" height="11" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:line x1="100" y1="1628" x2="1140" y2="1628" stroke="#D5DCE1" stroke-width="1" data-pptx-role="decoration" id="theme-deco-02" />
+  <ns0:text x="100" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-03">ILLUSTRATIVE EXHIBIT  ·  ALL FIGURES ARE DEMONSTRATION DATA</ns0:text>
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44">
+    <ns0:text data-pptx-carrier="true" x="122" y="124" fill="#12232F" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">SCENARIOS  /  2027</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 210 1040 200">
+    <ns0:text data-pptx-carrier="true" x="100" y="280" fill="#071C2C" font-size="54" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Three futures; one is affordable.</ns0:text>
+  </ns0:g>
+  <ns0:g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="100 435 1040 110">
+    <ns0:text data-pptx-carrier="true" x="100" y="468" fill="#5F6E79" font-size="28" font-family="Georgia, 'Times New Roman', serif">Each scenario holds a different demand, price and cost path.<ns0:tspan x="100" dy="39.2">Only one funds the plan and clears the covenant.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="information" data-pptx-placeholder="object" data-pptx-binding="proxy" data-pptx-idx="4" data-pptx-bounds="100 610 1040 650">
+    <ns0:rect x="760" y="612" width="190" height="638" fill="#00A9F4" fill-opacity="0.08" />
+    <ns0:line x1="100" y1="612" x2="1140" y2="612" stroke="#071C2C" stroke-width="3" />
+    <ns0:text x="100" y="664" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">MEASURE</ns0:text>
+    <ns0:text x="700" y="664" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">BASE</ns0:text>
+    <ns0:text x="920" y="664" fill="#00A9F4" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">ACCELERATE</ns0:text>
+    <ns0:text x="1140" y="664" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">STRESS</ns0:text>
+    <ns0:line x1="100" y1="690" x2="1140" y2="690" stroke="#071C2C" stroke-width="1.5" />
+    <ns0:text x="100" y="758" fill="#12232F" font-size="22" font-family="Arial, Helvetica, sans-serif">Demand growth</ns0:text>
+    <ns0:text x="700" y="758" fill="#12232F" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">+2.1%</ns0:text>
+    <ns0:text x="920" y="758" fill="#071C2C" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="end">+4.0%</ns0:text>
+    <ns0:text x="1140" y="758" fill="#E3120B" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">−1.5%</ns0:text>
+    <ns0:line x1="100" y1="802" x2="1140" y2="802" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="100" y="870" fill="#12232F" font-size="22" font-family="Arial, Helvetica, sans-serif">Price</ns0:text>
+    <ns0:text x="700" y="870" fill="#12232F" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">Flat</ns0:text>
+    <ns0:text x="920" y="870" fill="#071C2C" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="end">+1.0%</ns0:text>
+    <ns0:text x="1140" y="870" fill="#E3120B" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">−2.0%</ns0:text>
+    <ns0:line x1="100" y1="914" x2="1140" y2="914" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="100" y="982" fill="#12232F" font-size="22" font-family="Arial, Helvetica, sans-serif">2027 operating margin</ns0:text>
+    <ns0:text x="700" y="982" fill="#12232F" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">21.0%</ns0:text>
+    <ns0:text x="920" y="982" fill="#071C2C" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="end">22.8%</ns0:text>
+    <ns0:text x="1140" y="982" fill="#12232F" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">17.9%</ns0:text>
+    <ns0:line x1="100" y1="1026" x2="1140" y2="1026" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="100" y="1094" fill="#12232F" font-size="22" font-family="Arial, Helvetica, sans-serif">Free cash flow</ns0:text>
+    <ns0:text x="700" y="1094" fill="#12232F" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">0.9bn</ns0:text>
+    <ns0:text x="920" y="1094" fill="#071C2C" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="end">1.4bn</ns0:text>
+    <ns0:text x="1140" y="1094" fill="#12232F" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">0.3bn</ns0:text>
+    <ns0:line x1="100" y1="1138" x2="1140" y2="1138" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="100" y="1206" fill="#12232F" font-size="22" font-family="Arial, Helvetica, sans-serif">Headcount</ns0:text>
+    <ns0:text x="700" y="1206" fill="#12232F" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">Flat</ns0:text>
+    <ns0:text x="920" y="1206" fill="#071C2C" font-size="24" font-family="Arial, Helvetica, sans-serif" font-weight="bold" text-anchor="end">−4%</ns0:text>
+    <ns0:text x="1140" y="1206" fill="#E3120B" font-size="24" font-family="Arial, Helvetica, sans-serif" text-anchor="end">−9%</ns0:text>
+    <ns0:line x1="100" y1="1250" x2="1140" y2="1250" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:line x1="100" y1="1250" x2="1140" y2="1250" stroke="#071C2C" stroke-width="1.5" />
+  </ns0:g>
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 1290 1040 75">
+    <ns0:text data-pptx-carrier="true" x="100" y="1316" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">COVENANT: 22.0% OPERATING MARGIN  ·  VALUES ARE DEMONSTRATION DATA</ns0:text>
+  </ns0:g>
+  <ns0:g id="takeaway" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1430 1040 150">
+    <ns0:text data-pptx-carrier="true" x="100" y="1476" fill="#071C2C" font-size="36" font-family="Georgia, 'Times New Roman', serif">Accelerate is the only path that clears 22.0%<ns0:tspan x="100" dy="46.8">without cutting into the core.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">05 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

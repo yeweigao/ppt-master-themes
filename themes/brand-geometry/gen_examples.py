@@ -26,6 +26,13 @@ def n(value):
 
 def text(x, y, content, size=18, fill=INK, family="Arial", weight="normal",
          ls=None, italic=False, anchor="start", leading=None, opacity=None):
+    # A4 legibility floor: nothing below 14 px (about 6.7 pt in print). Labels that
+    # were drawn at 9-11 px are raised to the floor and their tracking tightened in
+    # proportion, so the line keeps roughly its old length.
+    if size < 14:
+        if ls is not None:
+            ls = round(float(ls) * size / 14, 2)
+        size = 14
     attrs = [f'x="{n(x)}"', f'y="{n(y)}"', f'fill="{fill}"', f'font-size="{n(size)}"']
     if family != "Arial":
         attrs.append(f'font-family="{family}"')

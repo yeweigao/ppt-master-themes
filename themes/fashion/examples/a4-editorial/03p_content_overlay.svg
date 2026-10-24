@@ -1,0 +1,33 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-overlay" data-pptx-layout-name="Headline across image and white field" lang="en-GB">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F6F4EF" />
+  <ns0:rect id="slide-ground" data-pptx-role="background" width="1240" height="1754" fill="#0A0A0A" />
+  <ns0:g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1540">
+    <ns0:image data-pptx-carrier="true" x="0" y="0" width="1240" height="1540" preserveAspectRatio="xMidYMin slice" href="../images/_street.jpg" />
+  </ns0:g>
+  <ns0:rect id="overlay-glaze-upper" data-pptx-role="decoration" x="56" y="505" width="440" height="160" fill="#1710CC" fill-opacity="0.32" />
+  <ns0:rect id="overlay-glaze-lower" data-pptx-role="decoration" x="744" y="1300" width="440" height="200" fill="#1710CC" fill-opacity="0.72" />
+  <ns0:path id="headline-ground" data-pptx-role="decoration" d="M 100 560 L 572 560 A 48 48 0 0 0 668 560 L 1140 560 L 1140 1280 L 668 1280 A 48 48 0 0 0 572 1280 L 100 1280 Z" fill="#F6F4EF" fill-opacity="0.95" />
+  <ns0:line id="plate-rule" data-pptx-role="decoration" x1="180" y1="900" x2="1060" y2="900" stroke="#0A0A0A" stroke-opacity="0.2" stroke-width="1.5" />
+  <ns0:text x="772" y="1342" fill="#FFFFFF" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4" data-pptx-role="decoration" id="theme-deco-01">INTERLOCK / 02</ns0:text>
+  <ns0:text x="772" y="1412" fill="#FFFFFF" font-size="52" font-family="'Six Caps', 'Oswald', 'Arial Narrow', sans-serif" letter-spacing="1" data-pptx-role="decoration" id="theme-deco-02">THE STREET<ns0:tspan x="772" dy="49.4">IS THE STUDIO</ns0:tspan>
+  </ns0:text>
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 90 1040 50">
+    <ns0:text data-pptx-carrier="true" x="100" y="122" fill="#0A0A0A" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">MAISON 170  /  THE STREET CAST</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="180 640 880 220">
+    <ns0:text data-pptx-carrier="true" x="180" y="740" fill="#0A0A0A" font-size="78" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif" letter-spacing="-1">The city styles it<ns0:tspan x="180" dy="84.24">faster than we do.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="180 945 880 265">
+    <ns0:text data-pptx-carrier="true" x="180" y="990" fill="#0A0A0A" font-size="24" font-family="Archivo, Arial, sans-serif">We stopped building sets. A car park at dawn, a court<ns0:tspan x="180" dy="37.2">with no net, a coat borrowed from the person wearing it:</ns0:tspan>
+      <ns0:tspan x="180" dy="37.2">the street supplies the context and the cast supplies</ns0:tspan>
+      <ns0:tspan x="180" dy="37.2">the attitude. Our job is to keep both in frame.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 1590 880 90">
+    <ns0:text data-pptx-carrier="true" x="100" y="1622" fill="#F6F4EF" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">LOS ANGELES  ·  07:15   /   PHOTOGRAPHY: UNSPLASH LICENSE</ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="6" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#F6F4EF" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4" text-anchor="end">06 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

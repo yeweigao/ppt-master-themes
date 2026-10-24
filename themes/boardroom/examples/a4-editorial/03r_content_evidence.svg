@@ -1,0 +1,76 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-evidence" data-pptx-layout-name="Statement and annotated evidence" lang="en">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0" />
+  <ns0:line id="exhibit-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="640" x2="1140" y2="640" stroke="#071C2C" stroke-width="3" />
+  <ns0:line id="takeaway-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1410" x2="1140" y2="1410" stroke="#D5DCE1" stroke-width="1" />
+  <ns0:rect x="100" y="112" width="11" height="11" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:line x1="100" y1="1628" x2="1140" y2="1628" stroke="#D5DCE1" stroke-width="1" data-pptx-role="decoration" id="theme-deco-02" />
+  <ns0:text x="100" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-03">ILLUSTRATIVE EXHIBIT  ·  ALL FIGURES ARE DEMONSTRATION DATA</ns0:text>
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44">
+    <ns0:text data-pptx-carrier="true" x="122" y="124" fill="#12232F" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">BRIEFING  /  THE GAP</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 210 1040 220">
+    <ns0:text data-pptx-carrier="true" x="100" y="280" fill="#071C2C" font-size="64" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Orders are up 7.4%.<ns0:tspan x="100" dy="71.68">Revenue is up 2.1%.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="100 465 680 125">
+    <ns0:text data-pptx-carrier="true" x="100" y="500" fill="#12232F" font-size="28" font-family="Georgia, 'Times New Roman', serif">The difference is not a demand problem. It is<ns0:tspan x="100" dy="39.2">the cumulative cost of six planning cycles.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="context" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="820 465 320 125">
+    <ns0:text data-pptx-carrier="true" x="820" y="490" fill="#5F6E79" font-size="21" font-family="Georgia, 'Times New Roman', serif">Index, 2022 = 100.<ns0:tspan x="820" dy="30.45">The lines part in 2024</ns0:tspan>
+      <ns0:tspan x="820" dy="30.45">and have not met since.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="exhibit" data-pptx-placeholder="object" data-pptx-binding="proxy" data-pptx-idx="5" data-pptx-bounds="100 700 680 550">
+    <ns0:line x1="170" y1="1122.9" x2="740" y2="1122.9" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="156" y="1127.9" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="end">100</ns0:text>
+    <ns0:line x1="170" y1="1008.6" x2="740" y2="1008.6" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="156" y="1013.6" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="end">110</ns0:text>
+    <ns0:line x1="170" y1="894.3" x2="740" y2="894.3" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="156" y="899.3" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="end">120</ns0:text>
+    <ns0:line x1="170" y1="780.0" x2="740" y2="780.0" stroke="#D5DCE1" stroke-width="1" />
+    <ns0:text x="156" y="785.0" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="end">130</ns0:text>
+    <ns0:line x1="170" y1="1180" x2="740" y2="1180" stroke="#12232F" stroke-width="1.5" />
+    <ns0:text x="170" y="1214" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">2022</ns0:text>
+    <ns0:text x="312" y="1214" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">2023</ns0:text>
+    <ns0:text x="455" y="1214" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">2024</ns0:text>
+    <ns0:text x="598" y="1214" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">2025</ns0:text>
+    <ns0:text x="740" y="1214" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">2026</ns0:text>
+    <ns0:polyline points="170,1122.9 312,1106.9 455,1087.4 598,1058.9 740,1031.4" fill="none" stroke="#8FA3B0" stroke-width="3" />
+    <ns0:circle cx="170" cy="1122.9" r="5" fill="#8FA3B0" />
+    <ns0:circle cx="312" cy="1106.9" r="5" fill="#8FA3B0" />
+    <ns0:circle cx="455" cy="1087.4" r="5" fill="#8FA3B0" />
+    <ns0:circle cx="598" cy="1058.9" r="5" fill="#8FA3B0" />
+    <ns0:circle cx="740" cy="1031.4" r="5" fill="#8FA3B0" />
+    <ns0:polyline points="170,1122.9 312,1077.1 455,997.1 598,905.7 740,814.3" fill="none" stroke="#00A9F4" stroke-width="4" />
+    <ns0:circle cx="170" cy="1122.9" r="5" fill="#00A9F4" />
+    <ns0:circle cx="312" cy="1077.1" r="5" fill="#00A9F4" />
+    <ns0:circle cx="455" cy="997.1" r="5" fill="#00A9F4" />
+    <ns0:circle cx="598" cy="905.7" r="5" fill="#00A9F4" />
+    <ns0:circle cx="740" cy="814.3" r="5" fill="#00A9F4" />
+    <ns0:text x="740" y="798.3" fill="#00A9F4" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">ORDER INTAKE  127</ns0:text>
+    <ns0:text x="740" y="1063.4" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">REVENUE  108</ns0:text>
+    <ns0:text x="100" y="730" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">INDEX, 2022 = 100</ns0:text>
+  </ns0:g>
+  <ns0:g id="annotation" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="820 700 320 550">
+    <ns0:text data-pptx-carrier="true" x="820" y="728" fill="#12232F" font-size="22" font-family="Georgia, 'Times New Roman', serif">What changed<ns0:tspan x="820" dy="31.9"> </ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">The order book has</ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">grown faster than the</ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">organisation's ability</ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">to convert it. Price is</ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">stable; the lag is</ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">widening; no single</ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">owner holds the gate</ns0:tspan>
+      <ns0:tspan x="820" dy="31.9">sequence end to end.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="100 1290 1040 80">
+    <ns0:text data-pptx-carrier="true" x="100" y="1316" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">SOURCE: ILLUSTRATIVE OPERATING REVIEW  ·  INDEX AND COUNTS ARE DEMONSTRATION DATA</ns0:text>
+  </ns0:g>
+  <ns0:g id="takeaway" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="100 1460 1040 120">
+    <ns0:text data-pptx-carrier="true" x="100" y="1506" fill="#071C2C" font-size="40" font-family="Georgia, 'Times New Roman', serif">Half the gap is decision speed, not price.</ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="9" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">03 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -5,7 +5,7 @@ This package is instructions, theme assets, and local CLI helpers. Any agent tha
 ## Paths and dependency discovery
 
 - `ST`: absolute path to this package, containing `SKILL.md`, `framework/`, and `themes/`.
-- `PM`: absolute path to a separate ppt-master installation, containing its own `SKILL.md` and `scripts/`. Use the host/user-provided absolute skill path or an explicit handoff from a supplied repository/archive. If it is absent, ask; never scan skill directories or infer an installation from CWD. This package does not bundle ppt-master or require a private service to obtain it.
+- `PM`: absolute path to a separate ppt-master installation, containing its own `SKILL.md` and `scripts/`. Resolve it with `scripts/ensure_ppt_master.py`, which checks a fixed, ordered list (an explicit `--pm` path, `PPT_MASTER_HOME`, this package's sibling directory, each host's skills folders, the Claude Code plugin cache, and its own fetch cache) and prints the absolute path and version as JSON. If nothing is found, ask the user for a path or for permission to fetch the latest GitHub release (`--fetch`; `--ref <tag>` for a specific one); never scan the disk or infer an installation from CWD. This package does not bundle ppt-master or require a private service to obtain it.
 - `TH`: absolute path to the chosen theme, normally `ST/themes/natgeo`.
 - `P`: absolute path to the output project. Keep generated files here, outside the skill assets.
 

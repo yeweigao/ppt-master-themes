@@ -1,0 +1,29 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-ending" data-pptx-layout-name="Photographic close" lang="en-GB">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F6F4EF" />
+  <ns0:line id="closing-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1390" x2="1140" y2="1390" stroke="#D9D5CB" stroke-width="1" />
+  <ns0:g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 900">
+    <ns0:image data-pptx-carrier="true" x="0" y="0" width="1240" height="900" preserveAspectRatio="xMidYMin slice" href="../images/_cast_neutral.jpg" />
+  </ns0:g>
+  <ns0:rect x="900" y="780" width="240" height="250" fill="#1710CC" fill-opacity="0.86" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:text x="926" y="990" fill="#FFFFFF" font-size="170" font-family="'Six Caps', 'Oswald', 'Arial Narrow', sans-serif" data-pptx-role="decoration" id="theme-deco-02">FIN</ns0:text>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 1000 1040 215">
+    <ns0:text data-pptx-carrier="true" x="100" y="1082" fill="#0A0A0A" font-size="92" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif" letter-spacing="-2">Presence is<ns0:tspan x="100" dy="95.68">the collection.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="100 1260 1040 100">
+    <ns0:text data-pptx-carrier="true" x="100" y="1300" fill="#77736B" font-size="26" font-family="Archivo, Arial, sans-serif">Volume two of a global cast. Volume three begins in Lagos.</ns0:text>
+  </ns0:g>
+  <ns0:g id="contact" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 1460 500 140">
+    <ns0:text data-pptx-carrier="true" x="100" y="1492" fill="#0A0A0A" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">MAISON 170<ns0:tspan x="100" dy="26.25">STUDIO@MAISON170.EXAMPLE</ns0:tspan>
+      <ns0:tspan x="100" dy="26.25">LONDON  ·  MILAN  ·  LOS ANGELES</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="closing" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="640 1460 500 140">
+    <ns0:text data-pptx-carrier="true" x="640" y="1492" fill="#77736B" font-size="15" font-family="Archivo, Arial, sans-serif" letter-spacing="3.4">MAISON 170 IS A FICTIONAL HOUSE.<ns0:tspan x="640" dy="26.25">PHOTOGRAPHY: UNSPLASH LICENSE.</ns0:tspan>
+      <ns0:tspan x="640" dy="26.25">COPY IS DEMONSTRATION TEXT.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="6" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#0A0A0A" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4" text-anchor="end">08 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-cover" data-pptx-layout-name="Full-bleed cover" lang="en">
+  <defs>
+    <linearGradient id="cover-shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0.78" />
+    </linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0" />
+  <rect id="slide-ground" data-pptx-role="background" width="1240" height="1754" fill="#071C2C" />
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754">
+    <image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/ocean.jpg" />
+  </g>
+  <rect x="0" y="0" width="1240" height="1754" fill="#071C2C" fill-opacity="0.55" data-pptx-role="decoration" id="theme-deco-01" />
+  <rect id="photo-shade" data-pptx-role="decoration" x="0" y="700" width="1240" height="1054" fill="url(#cover-shade)" />
+  <rect x="100" y="96" width="262" height="48" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-02" />
+  <rect x="100" y="1404" width="64" height="4" fill="#00A9F4" data-pptx-role="decoration" id="theme-deco-03" />
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 1040 70">
+    <text data-pptx-carrier="true" x="120" y="127" fill="#FFFFFF" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">STRATEGY / REVIEW</text>
+  </g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1130 1040 280">
+    <text data-pptx-carrier="true" x="100" y="1230" fill="#FFFFFF" font-size="96" font-family="Georgia, 'Times New Roman', serif">The next advantage<tspan x="100" dy="105.6">is operational.</tspan>
+    </text>
+  </g>
+  <g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="100 1430 860 120">
+    <text data-pptx-carrier="true" x="100" y="1466" fill="#FFFFFF" font-size="30" font-family="Georgia, 'Times New Roman', serif">Growth is no longer the constraint.<tspan x="100" dy="42.0">The operating model is.</tspan>
+    </text>
+  </g>
+  <g id="edition" data-pptx-placeholder="date" data-pptx-idx="5" data-pptx-bounds="100 1630 1040 54">
+    <text data-pptx-carrier="true" x="100" y="1662" fill="#C8D5DE" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">BOARDROOM EDITION  ·  ISSUE 07  ·  OCTOBER 2026</text>
+  </g>
+</svg>

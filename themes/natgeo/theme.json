@@ -4,6 +4,8 @@
   "name": "National Geographic Editorial",
   "name_zh": "国家地理大片",
   "summary": "National Geographic-style editorial storytelling on warm rice paper with black, ink and lemon yellow: purposeful landscape photography, full-bleed frames under graded scrims, large serif display titles, condensed kickers and measured reading grids. Trim-edge images and continuous panoramas alternate with evidence-led information graphics.",
+  "use_when": ["纪实摄影、自然 / 旅行 / 田野研究", "长篇叙事，情境与证据并重", "研学、考察、项目纪实类手册"],
+  "avoid_when": ["纯文字汇报", "没有图片素材的数据页堆叠"],
   "tested_with_ppt_master": [
     "6.7.3",
     "6.7.2",

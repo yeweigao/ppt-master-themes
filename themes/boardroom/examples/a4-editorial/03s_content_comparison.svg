@@ -1,0 +1,63 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-comparison" data-pptx-layout-name="Aligned qualitative comparison" lang="en">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0" />
+  <ns0:line id="header-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="650" x2="1140" y2="650" stroke="#071C2C" stroke-width="3" />
+  <ns0:line id="row-rule-1" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="940" x2="1140" y2="940" stroke="#D5DCE1" stroke-width="1" />
+  <ns0:line id="row-rule-2" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1210" x2="1140" y2="1210" stroke="#D5DCE1" stroke-width="1" />
+  <ns0:line id="row-rule-3" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1480" x2="1140" y2="1480" stroke="#D5DCE1" stroke-width="1" />
+  <ns0:text x="100" y="682" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-05">DECISION SPEED</ns0:text>
+  <ns0:text x="100" y="972" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-06">COST TO SERVE</ns0:text>
+  <ns0:text x="100" y="1242" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-07">EXECUTION RISK</ns0:text>
+  <ns0:rect x="620" y="500" width="520" height="980" fill="#00A9F4" fill-opacity="0.07" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:rect x="100" y="112" width="11" height="11" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-02" />
+  <ns0:line x1="100" y1="1628" x2="1140" y2="1628" stroke="#D5DCE1" stroke-width="1" data-pptx-role="decoration" id="theme-deco-03" />
+  <ns0:text x="100" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-04">ILLUSTRATIVE EXHIBIT  ·  ALL FIGURES ARE DEMONSTRATION DATA</ns0:text>
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44">
+    <ns0:text data-pptx-carrier="true" x="122" y="124" fill="#12232F" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">THE CHOICE  /  OPERATING MODEL</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 210 1040 220">
+    <ns0:text data-pptx-carrier="true" x="100" y="280" fill="#071C2C" font-size="64" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Federate the decisions.<ns0:tspan x="100" dy="71.68">Keep one owner.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="label-left" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="100 525 500 100">
+    <ns0:text data-pptx-carrier="true" x="100" y="590" fill="#12232F" font-size="38" font-family="Georgia, 'Times New Roman', serif">Today: central</ns0:text>
+  </ns0:g>
+  <ns0:g id="label-right" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="640 525 500 100">
+    <ns0:text data-pptx-carrier="true" x="640" y="590" fill="#00A9F4" font-size="38" font-family="Georgia, 'Times New Roman', serif">Proposed: federated</ns0:text>
+  </ns0:g>
+  <ns0:g id="left-1" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 700 500 190">
+    <ns0:text data-pptx-carrier="true" x="100" y="744" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Six weeks from proposal<ns0:tspan x="100" dy="34.8">to decision; every launch</ns0:tspan>
+      <ns0:tspan x="100" dy="34.8">queues at the same desk.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="right-1" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="640 700 500 190">
+    <ns0:text data-pptx-carrier="true" x="640" y="744" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Two weeks. Business lines<ns0:tspan x="640" dy="34.8">decide inside guardrails</ns0:tspan>
+      <ns0:tspan x="640" dy="34.8">the board sets once a year.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="left-2" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="100 990 500 170">
+    <ns0:text data-pptx-carrier="true" x="100" y="1030" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Low on paper; the delay<ns0:tspan x="100" dy="34.8">cost does not appear in</ns0:tspan>
+      <ns0:tspan x="100" dy="34.8">any budget line.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="right-2" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="640 990 500 170">
+    <ns0:text data-pptx-carrier="true" x="640" y="1030" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Medium. A shared platform<ns0:tspan x="640" dy="34.8">funded by two portfolio</ns0:tspan>
+      <ns0:tspan x="640" dy="34.8">exits, not by headcount.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="left-3" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="100 1260 500 170">
+    <ns0:text data-pptx-carrier="true" x="100" y="1300" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Drift. No owner can say<ns0:tspan x="100" dy="34.8">which gate a launch</ns0:tspan>
+      <ns0:tspan x="100" dy="34.8">is waiting at.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="right-3" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="640 1260 500 170">
+    <ns0:text data-pptx-carrier="true" x="640" y="1300" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Contained. One accountable<ns0:tspan x="640" dy="34.8">owner per launch, one</ns0:tspan>
+      <ns0:tspan x="640" dy="34.8">cadence for all.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="100 1530 1040 70">
+    <ns0:text data-pptx-carrier="true" x="100" y="1556" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">TINTED COLUMN = RECOMMENDED  ·  ASSESSMENT IS ILLUSTRATIVE</ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="12" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">04 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -238,7 +238,7 @@ class Page:
         if not dark:
             self.line(90, 1638, 1150, 1638, RULE, 1)
         self.ph(90, 1648, 920, 34, source.upper(), 14, color, ls="1.0", baseline=1672)
-        self.ph(90, 1682, 920, 32, note, 13, color, ls="0.8", baseline=1704)
+        self.ph(90, 1682, 920, 32, note, 14, color, ls="0.6", baseline=1704)
         self.ph_right(1150, 1648, 110, 36, f"{page_no:02d}", 16, color,
                       weight="bold", baseline=1674, ph_type="slide-number")
         return self
@@ -394,7 +394,7 @@ def page_contents():
         top = 286 + i * 220
         p.ph(900, top, 220, 92, big, 64, WHITE, family="Georgia", weight="bold",
              baseline=top + 64)
-        p.ph(900, top + 78, 230, 30, f"{unit} / {cap.upper()}", 13, "#C8D5DE",
+        p.ph(900, top + 78, 230, 30, f"{unit} / {cap.upper()}", 14, "#C8D5DE",
              weight="bold", ls="1.0", baseline=top + 100)
         p.line(900, top + 124, 1120, top + 124, "#5C7180", 1)
     p.ph(900, 998, 220, 30, "READING TIME", 14, CYAN, weight="bold", ls="1.6",
@@ -1147,7 +1147,7 @@ def page_ending():
          "BOARDROOM / A4 STRATEGY REVIEW · PREPARED FOR THE BOARD, OCTOBER 2026",
          14, "#C8D5DE", weight="bold", ls="1.2", baseline=1564)
     p.ph(90, 1574, 920, 32,
-         "ILLUSTRATIVE EXHIBIT · ALL FIGURES ARE DEMONSTRATION DATA", 13,
+         "ILLUSTRATIVE EXHIBIT · ALL FIGURES ARE DEMONSTRATION DATA", 14,
          "#9FB1BE", weight="bold", ls="1.0", baseline=1598)
     p.ph_right(1150, 1540, 110, 34, "15", 16, WHITE, weight="bold",
                baseline=1566, ph_type="slide-number")

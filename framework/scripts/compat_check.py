@@ -3,7 +3,9 @@
 
 Usage: python3 compat_check.py --pm <ppt-master root> [--theme natgeo] [--themes-root <skill root>]
 Maintenance-only check: attribution guard, entry interfaces, Style template validation,
-apply_template dry-run and declared assets. Not a runtime stage or end-to-end certification.
+the theme's discovery fields and Theme DNA, every package Layout's template validation, a
+combined Style + Layout apply_template dry-run, and declared assets. Not a runtime stage or
+end-to-end certification.
 Exit 0 = OK (warnings allowed), 1 = blocking problem.
 """
 import argparse, json, re, subprocess, sys, tempfile, os
@@ -84,6 +86,34 @@ def main():
                                capture_output=True, text=True, env=env)
             if p.returncode != 0:
                 errs.append("apply_template --root dry-run returned non-zero:\n" + (p.stdout + p.stderr)[-800:])
+    # Discovery fields and Theme DNA: what SKILL.md and ppt-master's Stage 2 rely on.
+    for key in ("use_when", "avoid_when"):
+        if not theme.get(key):
+            errs.append(f"theme.json lacks {key}; list_themes.py cannot recommend the theme")
+    for spec in specs:
+        body = spec.read_text(encoding="utf-8")
+        for field in ("**Theme DNA**", "**Extension Rule**"):
+            if field not in body:
+                errs.append(f"{spec.name} lacks {field} in section V")
+    # Every package Layout validates on its own canvas and installs together with this Style.
+    for lspec in sorted(root.glob("layouts/*/workspace/templates/design_spec.layout.*.md")):
+        lws = lspec.parent.parent
+        fmt = re.search(r"^canvas_format:\s*(\S+)", lspec.read_text(encoding="utf-8"), re.M)
+        if chk.exists():
+            cmd = [sys.executable, str(chk), str(lws / "templates"), "--template-mode", "--canonical-authoring"]
+            if fmt:
+                cmd += ["--format", fmt.group(1)]
+            p = subprocess.run(cmd, capture_output=True, text=True, env=env)
+            if p.returncode != 0:
+                errs.append(f"layout {lws.parent.name} template-mode validation failed:\n" + (p.stdout + p.stderr)[-1200:])
+        if at.exists() and specs:
+            with tempfile.TemporaryDirectory() as td:
+                proj = Path(td) / "probe"; (proj / "svg_output").mkdir(parents=True)
+                p = subprocess.run([sys.executable, str(at), str(proj), "--root", str(ws), "--root", str(lws),
+                                    "--dry-run"], capture_output=True, text=True, env=env)
+                if p.returncode != 0:
+                    errs.append(f"apply_template dry-run of {a.theme} + {lws.parent.name} failed:\n"
+                                + (p.stdout + p.stderr)[-800:])
     fonts = tdir / "fonts"
     for fam in theme.get("fonts", []):
         for face, spec in fam.get("embed", {}).items():

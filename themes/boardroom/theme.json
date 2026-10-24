@@ -4,6 +4,8 @@
   "name": "Boardroom Editorial",
   "name_zh": "董事会编辑",
   "summary": "Consulting-grade strategy review with an editorial voice: action titles, issue trees, waterfalls, portfolio bubbles and a typographic scoreboard on warm paper, disciplined by navy, cyan and Economist red. Serif display and body for argument; tracked sans for evidence, owners and dates. Data graphics sit directly on the page ground with hairline axes and direct labels — no dashboard cards, no white plot plates, no line-plus-colour-block modules.",
+  "use_when": ["战略评审、董事会材料、投资案", "经营决策、年度规划"],
+  "avoid_when": ["KPI 仪表盘", "卡片墙", "装饰性图标"],
   "tested_with_ppt_master": [
     "6.7.3"
   ],

@@ -81,6 +81,17 @@ The extended roster (`03j`–`03z`) combines **Swiss International Typographic O
 - **Offset manifesto, framed portrait & sliced display counter-form (`03y`)**: `03y_content_atelier` reserves generous upper negative space for an off-center manifesto statement and four-line micro-index, while the lower half contrasts a thick-bordered portrait (`stroke-width="8"`) with vertically stretched, horizontally sliced monolith bars and a negative-space counter-form cutout.
 - **Inverted monolith field & staggered cropped-numeral pillars (`03z`)**: `03z_content_pillars` sets four white vertical pillars of unequal height and vertical start against a full-bleed dark ground. Each pillar clips an oversized serif numeral (`1`–`4`) at its lower-right edge while explanatory copy occupies the dark negative space beneath Pillars 2 and 4.
 
+### Structural philosophy
+
+This Layout carries the package's structural convictions so they travel with every document that installs it:
+
+- **The grid is the ornament.** Order comes from shared edges, measured intervals, specimen rules and ticks; rounded cards, drop shadows and decorative panels are not part of the vocabulary.
+- **Numbers are typography, not tiles.** Hero figures (`03w`) stand on rules with labels; there is no KPI tile, gauge, progress pill or icon-and-number card in the roster.
+- **Rhythm over repetition.** The roster spans four temperatures — photographic, quiet reading, precise evidence and dark or deconstructed turning points — so a document can alternate attention demands. A repeated skeleton is a deliberate sequence of at most three pages that changes one variable.
+- **Scale contrast is structural.** Display, chapter and figure slots are dimensioned for a large-to-small ratio of at least 1.6× against the reading size, so hierarchy survives a 20% thumbnail and grayscale printing.
+- **Evidence keeps its route.** Evidence pages run title → exhibit → annotation → source along the grid, and a source line has a fixed home.
+- **Photographs are subjects, not fillers.** They reach the trim they touch, continue across facing pages from one crop, and carry text only on a scrim, a solid cell or a plate.
+
 ## V. Page Roster
 
 All rows belong to the single `a4-editorial` Master. Picker labels are the `data-pptx-layout-name` values.

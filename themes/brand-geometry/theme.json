@@ -4,6 +4,8 @@
   "name": "Brand Geometry",
   "name_zh": "品牌几何",
   "summary": "从经核对的品牌标识轮廓、比例与交叠关系中提炼页面语言：以 6u 场、四角括号、恒定 1u 框厚和 2u 开口建立可裁切、可叠加的母题，配合 1.0/0.58/0.34 三级透明度与瑞士六轨阅读网格。示例为虚构建筑事务所 OSTRA 的八页身份研究。",
+  "use_when": ["有真实品牌几何、格纹或标识，需要从中生长页面语言"],
+  "avoid_when": ["凭空画 logo", "把品牌当水印", "用「方框＋斜线」冒充品牌"],
   "tested_with_ppt_master": [],
   "compatibility_reviewed_with": [
     "6.7.3"

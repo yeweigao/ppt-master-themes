@@ -1,6 +1,6 @@
 # UPSTREAM CONTRACT — ppt-master 6.7.x 的 kind / route / workspace 细节
 
-SKILL.md §1 只留四条差异。本文件是被移出的完整交接说明，按需读取；冲突时以宿主安装的
+SKILL.md 只留指向。本文件是完整交接说明，按需读取；冲突时以宿主安装的
 `PM/SKILL.md`、`PM/workflows/routing.md` 与对应 kind 的 README 为准。
 
 ## 1. 先理解上游：四种 kind、三条 route
@@ -25,7 +25,7 @@ Chart / Table 是页面内的 Shape-first catalog family，不是 kind。**Theme
 - 只有 Brand 或 Style 时，页面保持 `pptx_structure.mode: flat`；Style 紧邻 Layout/Deck 时也不会改变结构计划。
 - 同 kind 两个根是冲突，必须停下选择；不合并 spec 正文，不静默覆盖。Layout 赢 Deck 只发生在结构段，不吞掉 Deck 的应用语境。
 
-本包的四套主题都是 **Style-only**，不会偷偷带入品牌、固定母版或页序；A4 工作区是独立 Layout，不带身份与主题方法。二者可以组合，例如 `boardroom` + `a4-editorial`。
+本包的四套主题都是 **Style-only**，不会偷偷带入品牌、固定母版或页序；`a4-editorial`（A4）与 `ppt169-editorial`（16:9）是独立 Layout，不带身份与主题方法。用本包时二者按画布组合，例如 `boardroom` + `a4-editorial`、`natgeo` + `ppt169-editorial`。
 
 ### 1.2 三条 route，不是更多
 

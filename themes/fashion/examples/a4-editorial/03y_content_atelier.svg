@@ -1,0 +1,42 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-atelier" data-pptx-layout-name="Offset manifesto, framed portrait and sliced display" lang="en-GB">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F6F4EF" />
+  <ns0:path id="sliced-monolith-bars" data-pptx-layer="layout" data-pptx-editable="false" d="M 608 800 H 652 V 1360 H 608 Z M 672 800 H 716 V 1480 H 672 Z M 736 800 H 780 V 1480 H 736 Z M 800 800 H 844 V 980 H 800 Z M 864 800 H 908 V 1040 H 864 Z M 928 800 H 972 V 1040 H 928 Z M 992 800 H 1036 V 1060 H 992 Z M 1056 800 H 1100 V 1480 H 1056 Z M 1112 800 H 1140 V 1420 H 1112 Z M 608 1495 H 660 V 1560 H 608 Z M 684 1505 H 772 V 1560 H 684 Z M 992 1495 H 1084 V 1560 H 992 Z" fill="#0A0A0A" />
+  <ns0:rect id="counter-form-glaze" data-pptx-layer="layout" data-pptx-editable="false" x="720" y="990" width="240" height="380" fill="#1710CC" fill-opacity="0.34" />
+  <ns0:path id="counter-form-accent" data-pptx-layer="layout" data-pptx-editable="false" d="M 780 1050 H 1048 V 1475 H 780 Z" fill="#1710CC" fill-opacity="0.86" />
+  <ns0:path id="counter-form-cutout" data-pptx-layer="layout" data-pptx-editable="false" d="M 852 1110 C 895 1095 955 1120 978 1175 C 995 1215 970 1265 928 1285 L 996 1415 H 932 L 882 1305 H 848 V 1415 H 800 V 1165 Z" fill="#F6F4EF" fill-opacity="0.96" />
+  <ns0:rect id="slice-seam-1" data-pptx-layer="layout" data-pptx-editable="false" x="600" y="950" width="540" height="76" fill="#F6F4EF" fill-opacity="0.94" />
+  <ns0:rect id="slice-seam-2" data-pptx-layer="layout" data-pptx-editable="false" x="600" y="1420" width="540" height="64" fill="#F6F4EF" fill-opacity="0.94" />
+  <ns0:line id="horizon-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="764" x2="1140" y2="764" stroke="#D9D5CB" stroke-width="1" />
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 220 80">
+    <ns0:text data-pptx-carrier="true" x="100" y="128" fill="#0A0A0A" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">ATELIER<ns0:tspan x="100" dy="24.0">04</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="index-nav" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="880 100 260 120">
+    <ns0:text data-pptx-carrier="true" x="880" y="124" fill="#77736B" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">I.   THE CUT<ns0:tspan x="880" dy="25.5">II.  THE CLOTH</ns0:tspan>
+      <ns0:tspan x="880" dy="25.5">III. THE CAST</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="340 160 760 400">
+    <ns0:text data-pptx-carrier="true" x="340" y="244" fill="#0A0A0A" font-size="58" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif">Every silhouette<ns0:tspan x="340" dy="66.12">begins as a decision</ns0:tspan>
+      <ns0:tspan x="340" dy="66.12">about what to leave out.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="460 660 680 90">
+    <ns0:text data-pptx-carrier="true" x="460" y="690" fill="#77736B" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">STUDIO, LONDON  ·  06:40<ns0:tspan x="460" dy="24.0">PHOTOGRAPHY / UNSPLASH LICENSE</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="photo" data-pptx-placeholder="picture" data-pptx-idx="5" data-pptx-bounds="100 800 460 760">
+    <ns0:image data-pptx-carrier="true" x="100" y="800" width="460" height="760" preserveAspectRatio="xMidYMid slice" href="../images/_profile.jpg" />
+  </ns0:g>
+  <ns0:rect id="photo-interlock-pane" data-pptx-role="decoration" x="480" y="760" width="160" height="140" fill="#1710CC" fill-opacity="0.32" />
+  <ns0:rect id="photo-frame" data-pptx-role="decoration" x="100" y="800" width="460" height="760" fill="none" stroke="#0A0A0A" stroke-width="8" />
+  <ns0:g id="display-figure" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="608 954 532 84">
+    <ns0:text data-pptx-carrier="true" x="616" y="1013" fill="#0A0A0A" font-size="70" font-family="'Six Caps', 'Oswald', 'Arial Narrow', sans-serif" letter-spacing="10">THE  CUT</ns0:text>
+  </ns0:g>
+  <ns0:g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="608 1428 520 56">
+    <ns0:text data-pptx-carrier="true" x="616" y="1464" fill="#0A0A0A" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">LOOK 07  ·  WOOL, BONE, NOTHING ELSE</ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="8" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#0A0A0A" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4" text-anchor="end">04 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

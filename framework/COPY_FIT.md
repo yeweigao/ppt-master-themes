@@ -23,7 +23,7 @@ unit = 0.48006 pt** (roughly **2 SVG units per 1 physical print point**). On the
 
 Never confuse SVG authoring units with physical print points. Setting captions, table cells or
 axis ticks at `8–11 px` on A4 produces `3.8–5.3 pt` microfilm print. Sizes are physical and portable
-across decks; **weights are not** — they follow the deck's declared `W(S)` function (SKILL.md §5.6).
+across decks; **weights are not** — they follow the deck's declared `W(S)` function (SKILL.md §4.4; [TYPE_SYSTEM.md](TYPE_SYSTEM.md)).
 The weight column below is the **weight-forward (A) default**: a deck declaring the scale-forward
 (B) or uniform (C) system keeps these sizes and inverts or flattens the weight column (large type
 lighter, small apparatus text heavier — optical-size compensation). Either way, **reading flow

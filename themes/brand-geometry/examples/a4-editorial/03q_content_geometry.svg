@@ -1,0 +1,50 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-geometry" data-pptx-layout-name="Photographs and geometric counterweight" lang="en">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF" />
+  <ns0:rect id="stepped-field" data-pptx-layer="layout" data-pptx-editable="false" x="460" y="420" width="680" height="560" fill="#EEF0F4" fill-opacity="1" />
+  <ns0:circle id="counterweight" data-pptx-layer="layout" data-pptx-editable="false" cx="880" cy="740" r="280" fill="#C8D0D8" fill-opacity="0" />
+  <ns0:rect id="accent-block" data-pptx-layer="layout" data-pptx-editable="false" x="600" y="340" width="360" height="220" fill="#14228F" fill-opacity="1" />
+  <ns0:line id="top-axis" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="155" x2="1140" y2="155" stroke="#14191C" stroke-width="1" />
+  <ns0:line id="caption-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1370" x2="320" y2="1370" stroke="#A98B28" stroke-width="4" />
+  <ns0:line x1="820" y1="1010" x2="1140" y2="1010" stroke="#A98B28" stroke-width="1.5" data-pptx-role="decoration" id="theme-deco-05" />
+  <ns0:line x1="820" y1="1002" x2="820" y2="1018" stroke="#A98B28" stroke-width="1.5" data-pptx-role="decoration" id="theme-deco-06" />
+  <ns0:line x1="1140" y1="1002" x2="1140" y2="1018" stroke="#A98B28" stroke-width="1.5" data-pptx-role="decoration" id="theme-deco-07" />
+  <ns0:text x="980.0" y="996" fill="#A98B28" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" text-anchor="middle" data-pptx-role="decoration" id="theme-deco-08">SITE 03  ·  6u</ns0:text>
+  <ns0:path d="M 1004 238 L 1040 238 L 1040 256 L 1022 256 L 1022 274 L 1004 274 Z M 1112 238 L 1112 274 L 1094 274 L 1094 256 L 1076 256 L 1076 238 Z M 1112 346 L 1076 346 L 1076 328 L 1094 328 L 1094 310 L 1112 310 Z M 1004 346 L 1004 310 L 1022 310 L 1022 328 L 1040 328 L 1040 346 Z" fill="#14228F" fill-opacity="0.34" data-pptx-role="decoration" id="theme-deco-02" />
+  <ns0:path d="M 992 226 L 1028 226 L 1028 244 L 1010 244 L 1010 262 L 992 262 Z M 1100 226 L 1100 262 L 1082 262 L 1082 244 L 1064 244 L 1064 226 Z M 1100 334 L 1064 334 L 1064 316 L 1082 316 L 1082 298 L 1100 298 Z M 992 334 L 992 298 L 1010 298 L 1010 316 L 1028 316 L 1028 334 Z" fill="#14228F" fill-opacity="0.58" data-pptx-role="decoration" id="theme-deco-03" />
+  <ns0:path d="M 980 214 L 1016 214 L 1016 232 L 998 232 L 998 250 L 980 250 Z M 1088 214 L 1088 250 L 1070 250 L 1070 232 L 1052 232 L 1052 214 Z M 1088 322 L 1052 322 L 1052 304 L 1070 304 L 1070 286 L 1088 286 Z M 980 322 L 980 286 L 998 286 L 998 304 L 1016 304 L 1016 322 Z" fill="#14228F" fill-opacity="1.0" data-pptx-role="decoration" id="theme-deco-04" />
+  <ns0:path d="M 100 96 L 114 96 L 114 103 L 107 103 L 107 110 L 100 110 Z M 142 96 L 142 110 L 135 110 L 135 103 L 128 103 L 128 96 Z M 142 138 L 128 138 L 128 131 L 135 131 L 135 124 L 142 124 Z M 100 138 L 100 124 L 107 124 L 107 131 L 114 131 L 114 138 Z" fill="#14228F" fill-opacity="1.0" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44">
+    <ns0:text data-pptx-carrier="true" x="160" y="124" fill="#14191C" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6">OSTRA  /  03  ·  FALLS LOOKOUT</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 200 1040 190">
+    <ns0:text data-pptx-carrier="true" x="100" y="270" fill="#14191C" font-size="72" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-1">A frame reveals<ns0:tspan x="100" dy="76.32">the falls.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="photo-main" data-pptx-placeholder="picture" data-pptx-idx="3" data-pptx-bounds="100 500 680 800">
+    <ns0:image data-pptx-carrier="true" x="100" y="500" width="680" height="800" preserveAspectRatio="xMidYMid slice" href="../images/waterfall.jpg" />
+  </ns0:g>
+  <ns0:rect id="interlock-glaze" data-pptx-role="decoration" x="640" y="920" width="280" height="240" fill="#14228F" fill-opacity="0.58" />
+  <ns0:rect id="photo-main-border" data-pptx-role="decoration" x="100" y="500" width="680" height="800" fill="none" stroke="#20262A" stroke-width="0" />
+  <ns0:g id="photo-detail" data-pptx-placeholder="picture" data-pptx-idx="4" data-pptx-bounds="820 1040 320 520">
+    <ns0:image data-pptx-carrier="true" x="820" y="1040" width="320" height="520" preserveAspectRatio="xMidYMid slice" href="../images/autumn.jpg" />
+  </ns0:g>
+  <ns0:rect id="interlock-glaze-light" data-pptx-role="decoration" x="740" y="1000" width="180" height="140" fill="#14228F" fill-opacity="0.34" />
+  <ns0:rect id="photo-detail-border" data-pptx-role="decoration" x="820" y="1040" width="320" height="520" fill="none" stroke="#20262A" stroke-width="0" />
+  <ns0:g id="note" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="820 600 300 320">
+    <ns0:text data-pptx-carrier="true" x="820" y="634" fill="#14191C" font-size="19" font-family="Arial, Helvetica, sans-serif">A platform above the water<ns0:tspan x="820" dy="28.5">line, set back one arm's</ns0:tspan>
+      <ns0:tspan x="820" dy="28.5">length from the edge.</ns0:tspan>
+      <ns0:tspan x="820" dy="28.5"> </ns0:tspan>
+      <ns0:tspan x="820" dy="28.5">The opening faces north</ns0:tspan>
+      <ns0:tspan x="820" dy="28.5">so the falls arrive in the</ns0:tspan>
+      <ns0:tspan x="820" dy="28.5">frame before the sound does.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1410 680 170">
+    <ns0:text data-pptx-carrier="true" x="100" y="1444" fill="#14191C" font-size="22" font-family="Arial, Helvetica, sans-serif">Every project begins with the same frame, then adjusts<ns0:tspan x="100" dy="33.0">to light, ground and use. Here the frame is turned</ns0:tspan>
+      <ns0:tspan x="100" dy="33.0">toward the water and left open at the top.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" text-anchor="end">03 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

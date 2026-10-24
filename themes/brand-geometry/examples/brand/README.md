@@ -136,7 +136,7 @@ is paper, ink and rule.
 - Reading: Arial Regular at roughly 16–18 SVG units on A4 (about 7.7–8.6 pt in print). The
   demonstration deck uses a 16–18 px reading size to keep the page calm; the Style spec's
   larger 22–24 px body is for decks where sustained reading dominates.
-- Apparatus: Arial Bold, uppercase, `letter-spacing 2–3.4`, 9–11 px.
+- Apparatus: Arial Bold, uppercase, `letter-spacing 1.5–2.6`, 14–16 px — the A4 floor; nothing on the page is set smaller.
 - Margins: `100` left/right on the A4 canvas; header baseline at `84`; folio at `1668–1702`.
 - Grid: six tracks of `173.33` inside a `1040` content width. The mark's `6u` field and the
   page's six tracks are the same idea at different scales.

@@ -1,0 +1,30 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-ending" data-pptx-layout-name="Photographic close" lang="en">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0" />
+  <ns0:line id="closing-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1390" x2="1140" y2="1390" stroke="#D5DCE1" stroke-width="1" />
+  <ns0:line x1="100" y1="1628" x2="1140" y2="1628" stroke="#D5DCE1" stroke-width="1" data-pptx-role="decoration" id="theme-deco-04" />
+  <ns0:text x="100" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-05">ILLUSTRATIVE EXHIBIT  ·  ALL FIGURES ARE DEMONSTRATION DATA</ns0:text>
+  <ns0:g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 900">
+    <ns0:image data-pptx-carrier="true" x="0" y="0" width="1240" height="900" preserveAspectRatio="xMidYMid slice" href="../images/dunes.jpg" />
+  </ns0:g>
+  <ns0:rect x="0" y="0" width="1240" height="900" fill="#071C2C" fill-opacity="0.45" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:rect x="100" y="96" width="200" height="48" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-02" />
+  <ns0:text x="120" y="127" fill="#FFFFFF" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-03">THE DECISION</ns0:text>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 1000 1040 215">
+    <ns0:text data-pptx-carrier="true" x="100" y="1100" fill="#071C2C" font-size="88" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Decide by Friday.</ns0:text>
+  </ns0:g>
+  <ns0:g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="100 1260 1040 100">
+    <ns0:text data-pptx-carrier="true" x="100" y="1300" fill="#5F6E79" font-size="26" font-family="Georgia, 'Times New Roman', serif">Approve the three moves. Name the owners. Hold the first gate in thirty days.</ns0:text>
+  </ns0:g>
+  <ns0:g id="contact" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 1460 500 140">
+    <ns0:text data-pptx-carrier="true" x="100" y="1494" fill="#071C2C" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">FRI 30 OCT  ·  BOARD DECISION<ns0:tspan x="100" dy="26.25">MON 02 NOV  ·  OWNER LETTERS</ns0:tspan>
+      <ns0:tspan x="100" dy="26.25">FRI 20 NOV  ·  GATE 1 REVIEW</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="closing" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="640 1460 500 140">
+    <ns0:text data-pptx-carrier="true" x="640" y="1500" fill="#071C2C" font-size="26" font-family="Georgia, 'Times New Roman', serif">The ask: 0.4bn and three owners,<ns0:tspan x="640" dy="36.4">decided in one meeting.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="6" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">08 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

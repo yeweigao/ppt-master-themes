@@ -1,0 +1,26 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-chapter" data-pptx-layout-name="Photographic chapter" lang="en-GB">
+  <ns0:defs>
+    <ns0:linearGradient id="chapter-shade" x1="0" y1="0" x2="0" y2="1">
+      <ns0:stop offset="0" stop-color="#000000" stop-opacity="0.05" />
+      <ns0:stop offset="1" stop-color="#000000" stop-opacity="0.8" />
+    </ns0:linearGradient>
+  </ns0:defs>
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F6F4EF" />
+  <ns0:rect id="slide-ground" data-pptx-role="background" width="1240" height="1754" fill="#0A0A0A" />
+  <ns0:g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754">
+    <ns0:image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/_coat.jpg" />
+  </ns0:g>
+  <ns0:rect id="photo-shade" data-pptx-role="decoration" x="0" y="700" width="1240" height="1054" fill="url(#chapter-shade)" />
+  <ns0:rect x="100" y="96" width="250" height="230" fill="#1710CC" fill-opacity="0.72" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:text x="124" y="132" fill="#FFFFFF" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4" data-pptx-role="decoration" id="theme-deco-02">CHAPTER</ns0:text>
+  <ns0:g id="chapter-number" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 1040 210">
+    <ns0:text data-pptx-carrier="true" x="118" y="245" fill="#FFFFFF" font-size="170" font-family="'Six Caps', 'Oswald', 'Arial Narrow', sans-serif">02</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1210 1040 230">
+    <ns0:text data-pptx-carrier="true" x="100" y="1330" fill="#FFFFFF" font-size="124" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif" letter-spacing="-2">Tailoring</ns0:text>
+  </ns0:g>
+  <ns0:g id="description" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 1470 850 160">
+    <ns0:text data-pptx-carrier="true" x="100" y="1520" fill="#FFFFFF" font-size="30" font-family="Archivo, Arial, sans-serif">A shoulder is a line drawn in cloth.<ns0:tspan x="100" dy="43.5">The rest is posture.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

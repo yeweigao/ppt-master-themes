@@ -1,0 +1,56 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-deconstruct" data-pptx-layout-name="Deconstructed modular grid over full-bleed photo" lang="en-GB">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F6F4EF" />
+  <ns0:rect id="slide-ground" data-pptx-role="background" width="1240" height="1754" fill="#0A0A0A" />
+  <ns0:g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754">
+    <ns0:image data-pptx-carrier="true" x="0" y="0" width="1240" height="1754" preserveAspectRatio="xMidYMin slice" href="../images/_cast_bw.jpg" />
+  </ns0:g>
+  <ns0:rect id="veil-upper-bridge" data-pptx-role="decoration" x="460" y="180" width="520" height="220" fill="#1710CC" fill-opacity="0.34" />
+  <ns0:rect id="veil-mid-left" data-pptx-role="decoration" x="80" y="840" width="380" height="260" fill="#1710CC" fill-opacity="0.34" />
+  <ns0:rect id="veil-lower-wave" data-pptx-role="decoration" x="620" y="920" width="440" height="280" fill="#1710CC" fill-opacity="0.34" />
+  <ns0:rect id="glass-upper" data-pptx-role="decoration" x="600" y="220" width="340" height="200" fill="#1710CC" fill-opacity="0.58" />
+  <ns0:rect id="glass-lower-left" data-pptx-role="decoration" x="140" y="1140" width="400" height="240" fill="#1710CC" fill-opacity="0.58" />
+  <ns0:rect id="glass-lower-mid" data-pptx-role="decoration" x="660" y="1000" width="240" height="320" fill="#1710CC" fill-opacity="0.58" />
+  <ns0:rect id="glass-corner-echo" data-pptx-role="decoration" x="340" y="420" width="180" height="140" fill="#1710CC" fill-opacity="0.58" />
+  <ns0:rect id="cell-top-left" data-pptx-role="decoration" x="0" y="0" width="180" height="220" fill="#0A0A0A" />
+  <ns0:rect id="cell-headline" data-pptx-role="decoration" x="180" y="220" width="540" height="260" fill="#0A0A0A" />
+  <ns0:rect id="cell-badge" data-pptx-role="decoration" x="180" y="480" width="240" height="180" fill="#0A0A0A" />
+  <ns0:rect id="cell-top-right" data-pptx-role="decoration" x="720" y="0" width="520" height="260" fill="#0A0A0A" />
+  <ns0:rect id="cell-mid-right" data-pptx-role="decoration" x="780" y="420" width="460" height="580" fill="#0A0A0A" />
+  <ns0:rect id="cell-bottom-right" data-pptx-role="decoration" x="540" y="1320" width="700" height="434" fill="#0A0A0A" />
+  <ns0:rect id="cell-bottom-left" data-pptx-role="decoration" x="0" y="1480" width="180" height="274" fill="#0A0A0A" />
+  <ns0:rect id="cell-step-left" data-pptx-role="decoration" x="0" y="680" width="140" height="220" fill="#0A0A0A" />
+  <ns0:rect id="cell-step-low" data-pptx-role="decoration" x="220" y="960" width="180" height="220" fill="#0A0A0A" />
+  <ns0:text x="300" y="632" fill="#FFFFFF" font-size="120" font-family="'Six Caps', 'Oswald', 'Arial Narrow', sans-serif" text-anchor="middle" data-pptx-role="decoration" id="theme-deco-01">170</ns0:text>
+  <ns0:path id="arrow-ne" data-pptx-role="decoration" d="M 1110 490 L 1146 454 M 1118 454 L 1146 454 L 1146 482" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  <ns0:path id="nav-chevrons" data-pptx-role="decoration" d="M 650 1200 L 634 1216 L 650 1232 M 730 1200 L 746 1216 L 730 1232" fill="none" stroke="#FFFFFF" stroke-width="2.5" />
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="36 60 124 120">
+    <ns0:text data-pptx-carrier="true" x="36" y="92" fill="#FFFFFF" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">CAST<ns0:tspan x="36" dy="24.0">07</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="brand-label" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="820 80 340 80">
+    <ns0:text data-pptx-carrier="true" x="820" y="128" fill="#FFFFFF" font-size="28" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="5">MAISON 170</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="4" data-pptx-bounds="220 255 460 200">
+    <ns0:text data-pptx-carrier="true" x="220" y="320" fill="#FFFFFF" font-size="46" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif">A face is not<ns0:tspan x="220" dy="52.9">a mood board.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="820 530 360 400">
+    <ns0:text data-pptx-carrier="true" x="820" y="566" fill="#E8E6F7" font-size="21" font-family="Archivo, Arial, sans-serif">Seventy faces were cast in<ns0:tspan x="820" dy="31.5">four cities. None was chosen</ns0:tspan>
+      <ns0:tspan x="820" dy="31.5">to match a reference. Each</ns0:tspan>
+      <ns0:tspan x="820" dy="31.5">was chosen because the</ns0:tspan>
+      <ns0:tspan x="820" dy="31.5">clothes looked different on</ns0:tspan>
+      <ns0:tspan x="820" dy="31.5">them than on anyone else.</ns0:tspan>
+      <ns0:tspan x="820" dy="31.5"> </ns0:tspan>
+      <ns0:tspan x="820" dy="31.5">The grid crops; it does not</ns0:tspan>
+      <ns0:tspan x="820" dy="31.5">hide. The eyes stay clear.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="600 1420 540 160">
+    <ns0:text data-pptx-carrier="true" x="600" y="1466" fill="#FFFFFF" font-size="34" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif" font-style="italic">“We cast people,<ns0:tspan x="600" dy="42.5">then let the clothes</ns0:tspan>
+      <ns0:tspan x="600" dy="42.5">catch up.”</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#FFFFFF" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4" text-anchor="end">07 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

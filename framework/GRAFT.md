@@ -29,21 +29,38 @@ truth, or template assets. Read installed specs from `P/templates/`, not again f
 Resolve any material conflict under ppt-master's apply/Strategist rules, rather than silently
 averaging styles or changing the confirmed communication contract.
 
-## Independent A4 Editorial Layout
+## Package Layouts (A4 and 16:9)
 
-[A4 Editorial](../layouts/a4-editorial/README.md) is this package's separate structure workspace
-at `ST/layouts/a4-editorial/workspace`, not a ppt-master built-in or a Style prototype roster.
-It contributes one Master and 33 Layout prototypes (`01_cover`, `02_chapter`, `03a`–`03ad`, and `04_ending`); an independently selected Style supplies
-method and a Brand supplies identity. Keep each contribution in its existing template kind.
+This package ships two separate structure workspaces. Neither is a ppt-master built-in or a
+Style prototype roster:
 
-When the user explicitly selects this package's Layout, or Create Template hands off this exact
-root in the current conversation, pass it as an `explicit` root through the selected runtime.
-Do not resolve a bare name, claim library registration, or add another confirmation/type. A
-confirmed multi-root application can pass both `--root "$TH/workspace"` and
-`--root "$ST/layouts/a4-editorial/workspace"` to the same official apply call, plus a confirmed
-Brand root if present. Existing duplicate-kind and structural-precedence rules still apply.
+| Canvas | Layout | Root | Contribution |
+|---|---|---|---|
+| A4 portrait `1240×1754` | [A4 Editorial](../layouts/a4-editorial/README.md) | `ST/layouts/a4-editorial/workspace` | 1 Master, 33 prototypes (`01_cover`, `02_chapter`, `03a`–`03ad`, `04_ending`) |
+| 16:9 `1280×720` | [16:9 Editorial](../layouts/ppt169-editorial/README.md) | `ST/layouts/ppt169-editorial/workspace` | 1 Master, 17 prototypes (`01_cover`, `02_chapter`, `03a`–`03n`, `04_ending`) |
 
-The Layout carries six-track geometry, reading zones, picture slots and paired panorama crops.
+An independently selected Style supplies method and a Brand supplies identity. Keep each
+contribution in its existing template kind.
+
+Invoking this package is the request for its structure (SKILL.md §0 rule 5, §2.2): for an A4 or
+16:9 deck, offer the matching package Layout together with the theme's Style as `explicit` roots
+in Stage 1, and do not recommend ppt-master's built-in Layouts (`presentation_core`,
+`mbb-consulting`, …) in their place. Other canvases have no package Layout; say so and run flat
+with the Style only. Stage 1 still belongs to the user — if they untick the package Layout or pick
+another, that choice stands, and §6–§8 of SKILL.md still govern the pages. Do not resolve a bare
+name, claim library registration, or add another confirmation/type. A confirmed multi-root
+application passes both roots to one official apply call, plus a confirmed Brand root if present:
+
+```sh
+python3 "$PM/scripts/apply_template.py" "$P" \
+  --root "$TH/workspace" --root "$ST/layouts/<a4-editorial|ppt169-editorial>/workspace"
+```
+
+`scripts/list_themes.py --roots <theme-id> <layout-id>` prints this block and the Stage-1
+`template_options` for the pair. Existing duplicate-kind and structural-precedence rules still
+apply.
+
+The A4 Layout carries six-track geometry, reading zones, picture slots and paired panorama crops.
 Its flexible data area is an object slot: downstream content planning decides the actual rows,
 columns, chart or diagram and authors native objects through the appropriate module. The open
 horizontal-rule table treatment belongs to the chosen Style/project, including actual cell borders.
@@ -90,7 +107,8 @@ composition and effects, with charts, tables, typography and photos speaking the
 
 Do not load another runtime to borrow a step. A bare style label is a design brief, not a local
 workspace lookup. An explicit request to use a supplied theme package can hand off its known
-absolute `TH/workspace` root; preserve it as an exact supplied root, never fabricate a library
+absolute `TH/workspace` root and the package Layout root for the canvas; preserve each as an
+exact supplied root, never fabricate a library
 registration. An existing same-kind Style creates a selection conflict, not an automatic merge.
 
 ## Default integration points
@@ -109,7 +127,8 @@ registration. An existing same-kind Style creates a selection conflict, not an a
    ```sh
    python3 "$PM/scripts/apply_template.py" "$P" --root "$TH/workspace"
    ```
-   That example is a single-root case; the official tool resolves multi-kind sets, duplicate
+   That example is a single-root case; with a package Layout the same call takes both roots
+   (see *Package Layouts* above). The official tool resolves multi-kind sets, duplicate
    kinds, collisions and segment ownership. Complete the runtime's UI handoff only for its UI
    branch; never synthesize receipts for chat/delegated runs.
 6. **Stage 2**: read all installed specs and `references/strategist-template.md` as required.
@@ -131,8 +150,11 @@ registration. An existing same-kind Style creates a selection conflict, not an a
    asset changes. No acquisition at page-authoring time and no broad user-asset re-registration.
 9. **Executor**: load required core and triggered modules, use the runtime's `text_measure.py`
    calibration, and decide page job → relationship/topology → carrier mix → composition before
-   coordinates. **Before authoring each SVG page, inspect the matching filled reference SVG(s)
-   in `ST/website/artwork/templates/<id>.svg` (plus `TH/recipes.md` R16–R17)** to study the
+   coordinates. **Before authoring each SVG page, inspect the theme's showcase of that prototype
+   (`TH/examples/<layout-id>/`, listed as `showcased_prototypes` by `list_themes.py --json`);
+   when the theme has none, read another theme's showcase of the same prototype for composition
+   only, the A4 filled reference in `ST/website/artwork/templates/<id>.svg`, and
+   `TH/recipes.md` (R16–R17)** to study the
    calibrated scale contrast, `<tspan>` line-break rhythm, 3-tier interlocking opacity
    (`1.0 / 0.58 / 0.34`), die-cut `<path>` notches and `<clipPath>` cropped numerals. Adapt the
    construction and layer order to the confirmed canvas (whether A4 portrait `1240×1754` or

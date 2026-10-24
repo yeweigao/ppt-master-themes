@@ -56,6 +56,8 @@ keywords: [brand-derived, geometric-editorial, modular-grid, gradient]
 - **Decoration**: Shapes inherit meaningful proportions and repetition from the identity. Open frames, parallel lines, partial contours and intersections are starting options, not required ingredients. Retain the source's character rather than substituting a generic collection of circles and triangles.
 - **Color Behavior**: Resolve the actual palette from current identity evidence and confirmed project values. Keep type contrast independent of a gradient. Use tints and alpha to let large geometry recede, with sparse solid accents for recognition. Flat white, colored fields and soft gradients can coexist as page-role variants.
 - **Typography Character**: Coordinate with the resolved identity and delivery target. Clear text hierarchy and comfortable prose take priority over matching a mark's geometric appearance. Serif editorial titles and neutral sans body are one compatible option.
+- **Theme DNA**: Hold four things constant on every page, all derived from the resolved identity. (1) Ground set: a calm reading field, one identity-colour field and sparse solid accents for recognition. (2) Two voices: a title voice and a reading voice coordinated with the identity; prose comfort outranks matching the mark. (3) One structural motif: a single primitive family extracted from the identity — common angle, stroke character, interval and overlap logic — varied only in scale, density and edge placement. (4) Pacing: bold geometry on openers and section turns, quieter fragments clear of prose, chart marks and table cells on reading and data pages.
+- **Extension Rule**: Examples and prototypes calibrate this Style; they are not a page whitelist. For a page no example shows, keep the Theme DNA, the margins and grid, and the calibrated type ladder fixed, and vary only the declared variables: span, scale, image state, density and ground temperature. A new composition is valid when it sits on the same grid and would pass unremarked between the existing examples.
 
 ## VI. Image & Icon Direction
 
@@ -72,3 +74,4 @@ keywords: [brand-derived, geometric-editorial, modular-grid, gradient]
 - Body text and data remain comfortable to read at delivery size. Gradients and intersections do not obscure them.
 - Decorative repetition and overlap do not create false quantities or relationships.
 - Derived shapes, gradient fields and authoritative text/data retain appropriate native editability.
+- Pages without a matching example still read as the same publication: the Theme DNA holds, and only span, scale, image state, density or ground temperature changed.

@@ -4,6 +4,8 @@
   "name": "__NAME__",
   "name_zh": "__中文名__",
   "summary": "One sentence: what the look is.",
+  "use_when": ["一句话：什么内容、什么场合适合用这套主题"],
+  "avoid_when": ["一句话：哪些内容或用法会把这套主题用坏"],
   "tested_with_ppt_master": [],
   "style_workspace": "workspace",
   "style_spec": "workspace/templates/design_spec.style.__STYLE_ID__.md",

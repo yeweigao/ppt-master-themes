@@ -1,0 +1,59 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-feature-panel" data-pptx-layout-name="Full-bleed photograph with side reading panel" lang="en">
+  <ns0:defs>
+    <ns0:linearGradient id="feature-panel-bottom" x1="0" y1="0" x2="0" y2="1">
+      <ns0:stop offset="0" stop-color="#000000" stop-opacity="0" />
+      <ns0:stop offset="0.55" stop-color="#000000" stop-opacity="0.4" />
+      <ns0:stop offset="1" stop-color="#000000" stop-opacity="0.88" />
+    </ns0:linearGradient>
+  </ns0:defs>
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF" />
+  <ns0:g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754">
+    <ns0:image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMinYMid slice" href="../images/autumn.jpg" />
+  </ns0:g>
+  <ns0:rect id="photo-shade-bottom" data-pptx-role="decoration" x="0" y="980" width="760" height="774" fill="url(#feature-panel-bottom)" />
+  <ns0:path d="M -120 120 L -40 120 L -40 160 L -80 160 L -80 200 L -120 200 Z M 120 120 L 120 200 L 80 200 L 80 160 L 40 160 L 40 120 Z M 120 360 L 40 360 L 40 320 L 80 320 L 80 280 L 120 280 Z M -120 360 L -120 280 L -80 280 L -80 320 L -40 320 L -40 360 Z" fill="#FFFFFF" fill-opacity="0.92" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:rect id="reading-panel" data-pptx-role="decoration" x="720" y="0" width="520" height="1754" fill="#FFFFFF" />
+  <ns0:rect id="panel-rule" data-pptx-role="decoration" x="714" y="0" width="6" height="1754" fill="#14228F" />
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="780 100 400 44">
+    <ns0:text data-pptx-carrier="true" x="780" y="124" fill="#14191C" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6">OSTRA  /  IN SITU</ns0:text>
+  </ns0:g>
+  <ns0:rect id="title-rule" data-pptx-role="decoration" x="780" y="172" width="44" height="6" fill="#A98B28" />
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="780 194 400 200">
+    <ns0:text data-pptx-carrier="true" x="780" y="256" fill="#14191C" font-size="56" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-1">The plan is<ns0:tspan x="780" dy="58.8">a way of</ns0:tspan>
+      <ns0:tspan x="780" dy="58.8">seeing.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="780 410 400 110">
+    <ns0:text data-pptx-carrier="true" x="780" y="446" fill="#667077" font-size="22" font-family="Arial, Helvetica, sans-serif">A proposal for what to keep,<ns0:tspan x="780" dy="31.9">what to open and what to</ns0:tspan>
+      <ns0:tspan x="780" dy="31.9">leave alone.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="body" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="780 570 400 600">
+    <ns0:text data-pptx-carrier="true" x="780" y="604" fill="#14191C" font-size="20" font-family="Arial, Helvetica, sans-serif">Dune Corridor runs a raised walk<ns0:tspan x="780" dy="31.0">through a protected ridge. The frame</ns0:tspan>
+      <ns0:tspan x="780" dy="31.0">sets the walk's width at 2u and its</ns0:tspan>
+      <ns0:tspan x="780" dy="31.0">rest points at every 6u, so the path</ns0:tspan>
+      <ns0:tspan x="780" dy="31.0">reads as one measured line rather</ns0:tspan>
+      <ns0:tspan x="780" dy="31.0">than a string of viewpoints.</ns0:tspan>
+      <ns0:tspan x="780" dy="31.0"> </ns0:tspan>
+      <ns0:tspan x="780" dy="31.0">Fences stay where the dune needs</ns0:tspan>
+      <ns0:tspan x="780" dy="31.0">them. The walk goes over, never</ns0:tspan>
+      <ns0:tspan x="780" dy="31.0">through.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:rect id="quote-rule" data-pptx-role="decoration" x="100" y="1330" width="60" height="4" fill="#A98B28" />
+  <ns0:g id="photo-quote" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1360 540 260">
+    <ns0:text data-pptx-carrier="true" x="100" y="1430" fill="#FFFFFF" font-size="46" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">What we build<ns0:tspan x="100" dy="52.9">is a way of looking.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="panel-note" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="780 1210 400 220">
+    <ns0:text data-pptx-carrier="true" x="780" y="1258" fill="#14228F" font-size="30" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">The rest is<ns0:tspan x="780" dy="36.0">maintenance.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="caption" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="780 1560 400 120">
+    <ns0:text data-pptx-carrier="true" x="780" y="1592" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6">SITE 02  ·  DUNE CORRIDOR<ns0:tspan x="780" dy="24.0">PHOTOGRAPHY: WIKIMEDIA, CC0</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="9" data-pptx-bounds="1040 1690 100 44">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1716" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" text-anchor="end">07 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

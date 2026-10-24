@@ -4,6 +4,8 @@
   "name": "Fashion Editorial",
   "name_zh": "时尚先锋编辑",
   "summary": "Swiss International Typographic Style meets avant-garde fashion editorial: black-and-white image states, semi-transparent cobalt interruptions, giant Didone and ultra-condensed type, and type-as-image, all held by a measured 12-column grid.",
+  "use_when": ["时尚 / 文化 / 品牌画册", "宣言式提案、强视觉叙事", "瑞士国际主义网格 × 先锋编辑风的版面"],
+  "avoid_when": ["彩色图库拼贴", "杂志扫描页", "可识别的品牌标志"],
   "tested_with_ppt_master": [
     "6.7.3"
   ],

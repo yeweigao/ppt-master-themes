@@ -1,0 +1,29 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-chapter" data-pptx-layout-name="Photographic chapter" lang="en">
+  <ns0:defs>
+    <ns0:linearGradient id="chapter-shade" x1="0" y1="0" x2="0" y2="1">
+      <ns0:stop offset="0" stop-color="#000000" stop-opacity="0.05" />
+      <ns0:stop offset="1" stop-color="#000000" stop-opacity="0.8" />
+    </ns0:linearGradient>
+  </ns0:defs>
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF" />
+  <ns0:rect id="slide-ground" data-pptx-role="background" width="1240" height="1754" fill="#0E1530" />
+  <ns0:g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754">
+    <ns0:image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/woodland.jpg" />
+  </ns0:g>
+  <ns0:rect width="1240" height="1754" fill="#0E1530" fill-opacity="0.5" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:rect id="photo-shade" data-pptx-role="decoration" x="0" y="700" width="1240" height="1054" fill="url(#chapter-shade)" />
+  <ns0:path d="M 100 150 V 100 H 150" fill="none" stroke="#A98B28" stroke-width="4" data-pptx-role="decoration" id="theme-deco-02" />
+  <ns0:path d="M 340 100 H 390 V 150" fill="none" stroke="#A98B28" stroke-width="4" data-pptx-role="decoration" id="theme-deco-03" />
+  <ns0:path d="M 390 270 V 320 H 340" fill="none" stroke="#A98B28" stroke-width="4" data-pptx-role="decoration" id="theme-deco-04" />
+  <ns0:path d="M 150 320 H 100 V 270" fill="none" stroke="#A98B28" stroke-width="4" data-pptx-role="decoration" id="theme-deco-05" />
+  <ns0:g id="chapter-number" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 1040 210">
+    <ns0:text data-pptx-carrier="true" x="150" y="250" fill="#FFFFFF" font-size="150" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">02</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1210 1040 230">
+    <ns0:text data-pptx-carrier="true" x="100" y="1320" fill="#FFFFFF" font-size="96" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-1">Site logic</ns0:text>
+  </ns0:g>
+  <ns0:g id="description" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 1470 850 160">
+    <ns0:text data-pptx-carrier="true" x="100" y="1504" fill="#E4E8F2" font-size="28" font-family="Arial, Helvetica, sans-serif">The plan is not a smaller drawing of a building.<ns0:tspan x="100" dy="40.6">It is a proposal for attention.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+</ns0:svg>

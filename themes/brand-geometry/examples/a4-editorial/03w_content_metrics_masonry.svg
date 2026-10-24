@@ -1,0 +1,61 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-metrics-masonry" data-pptx-layout-name="Hero metrics header and tilted masonry" lang="en">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF" />
+  <ns0:line id="metric-rule-1" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="165" x2="330" y2="165" stroke="#A98B28" stroke-width="2" />
+  <ns0:line id="metric-rule-2" data-pptx-layer="layout" data-pptx-editable="false" x1="370" y1="165" x2="600" y2="165" stroke="#A98B28" stroke-width="2" />
+  <ns0:line id="metric-rule-3" data-pptx-layer="layout" data-pptx-editable="false" x1="640" y1="165" x2="870" y2="165" stroke="#A98B28" stroke-width="2" />
+  <ns0:line id="metric-rule-4" data-pptx-layer="layout" data-pptx-editable="false" x1="910" y1="165" x2="1140" y2="165" stroke="#A98B28" stroke-width="2" />
+  <ns0:text x="100" y="390" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" data-pptx-role="decoration" id="theme-deco-02">FIELD</ns0:text>
+  <ns0:text x="370" y="390" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" data-pptx-role="decoration" id="theme-deco-03">ARM : FRAME</ns0:text>
+  <ns0:text x="640" y="390" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" data-pptx-role="decoration" id="theme-deco-04">THICKNESS</ns0:text>
+  <ns0:text x="910" y="390" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" data-pptx-role="decoration" id="theme-deco-05">SITES</ns0:text>
+  <ns0:path d="M 100 96 L 114 96 L 114 103 L 107 103 L 107 110 L 100 110 Z M 142 96 L 142 110 L 135 110 L 135 103 L 128 103 L 128 96 Z M 142 138 L 128 138 L 128 131 L 135 131 L 135 124 L 142 124 Z M 100 138 L 100 124 L 107 124 L 107 131 L 114 131 L 114 138 Z" fill="#14228F" fill-opacity="1.0" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44">
+    <ns0:text data-pptx-carrier="true" x="160" y="124" fill="#14191C" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6">OSTRA  /  THE SYSTEM IN NUMBERS</ns0:text>
+  </ns0:g>
+  <ns0:g id="metric-1" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 190 230 230">
+    <ns0:text data-pptx-carrier="true" x="100" y="318" fill="#14228F" font-size="96" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-2">6u</ns0:text>
+  </ns0:g>
+  <ns0:g id="metric-2" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="370 190 230 230">
+    <ns0:text data-pptx-carrier="true" x="370" y="318" fill="#14228F" font-size="96" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-2">2:1</ns0:text>
+  </ns0:g>
+  <ns0:g id="metric-3" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="640 190 230 230">
+    <ns0:text data-pptx-carrier="true" x="640" y="318" fill="#14228F" font-size="96" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-2">1u</ns0:text>
+  </ns0:g>
+  <ns0:g id="metric-4" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="910 190 230 230">
+    <ns0:text data-pptx-carrier="true" x="910" y="318" fill="#14228F" font-size="96" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-2">04</ns0:text>
+  </ns0:g>
+  <ns0:g id="photo-1" data-pptx-placeholder="picture" data-pptx-idx="6" data-pptx-bounds="0 490 350 720">
+    <ns0:image data-pptx-carrier="true" x="0" y="490" width="350" height="720" preserveAspectRatio="xMidYMid slice" href="../images/lake.jpg" />
+  </ns0:g>
+  <ns0:g id="photo-2" data-pptx-placeholder="picture" data-pptx-idx="7" data-pptx-bounds="0 1234 350 320">
+    <ns0:image data-pptx-carrier="true" x="0" y="1234" width="350" height="320" preserveAspectRatio="xMidYMid slice" href="../images/dunes.jpg" />
+  </ns0:g>
+  <ns0:g id="photo-3" data-pptx-placeholder="picture" data-pptx-idx="8" data-pptx-bounds="374 475 236 530">
+    <ns0:image data-pptx-carrier="true" x="374" y="475" width="236" height="530" preserveAspectRatio="xMidYMid slice" href="../images/waterfall.jpg" />
+  </ns0:g>
+  <ns0:g id="photo-4" data-pptx-placeholder="picture" data-pptx-idx="9" data-pptx-bounds="374 1029 236 525">
+    <ns0:image data-pptx-carrier="true" x="374" y="1029" width="236" height="525" preserveAspectRatio="xMidYMid slice" href="../images/woodland.jpg" />
+  </ns0:g>
+  <ns0:g id="photo-5" data-pptx-placeholder="picture" data-pptx-idx="10" data-pptx-bounds="634 460 256 380">
+    <ns0:image data-pptx-carrier="true" x="634" y="460" width="256" height="380" preserveAspectRatio="xMidYMid slice" href="../images/autumn.jpg" />
+  </ns0:g>
+  <ns0:g id="photo-6" data-pptx-placeholder="picture" data-pptx-idx="11" data-pptx-bounds="634 864 256 690">
+    <ns0:image data-pptx-carrier="true" x="634" y="864" width="256" height="690" preserveAspectRatio="xMinYMid slice" href="../images/horizon.jpg" />
+  </ns0:g>
+  <ns0:g id="photo-7" data-pptx-placeholder="picture" data-pptx-idx="12" data-pptx-bounds="914 445 326 560">
+    <ns0:image data-pptx-carrier="true" x="914" y="445" width="326" height="560" preserveAspectRatio="xMidYMid slice" href="../images/ocean.jpg" />
+  </ns0:g>
+  <ns0:g id="photo-8" data-pptx-placeholder="picture" data-pptx-idx="13" data-pptx-bounds="914 1029 326 525">
+    <ns0:image data-pptx-carrier="true" x="914" y="1029" width="326" height="525" preserveAspectRatio="xMaxYMax slice" href="../images/lake.jpg" />
+  </ns0:g>
+  <ns0:polygon id="canted-glaze" data-pptx-role="decoration" points="0,515 1240,455 1240,492 0,552" fill="#14228F" fill-opacity="0.34" />
+  <ns0:polygon id="canted-top-wedge" data-pptx-role="decoration" points="0,440 1240,440 1240,455 0,515" fill="#FFFFFF" />
+  <ns0:rect id="seam-interlock-1" data-pptx-role="decoration" x="310" y="965" width="104" height="104" fill="#FFFFFF" fill-opacity="0.58" />
+  <ns0:rect id="seam-interlock-2" data-pptx-role="decoration" x="850" y="815" width="104" height="104" fill="#14228F" fill-opacity="0.58" />
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="14" data-pptx-bounds="100 1595 880 80">
+    <ns0:text data-pptx-carrier="true" x="100" y="1626" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6">ONE MEASURE, FOUR SITES  ·  PHOTOGRAPHY: WIKIMEDIA COMMONS, CC0</ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="15" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#667077" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6" text-anchor="end">06 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

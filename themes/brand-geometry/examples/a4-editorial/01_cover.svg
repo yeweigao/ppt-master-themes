@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-cover" data-pptx-layout-name="Full-bleed cover" lang="en">
+  <defs>
+    <linearGradient id="cover-shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000" stop-opacity="0" />
+      <stop offset="1" stop-color="#000000" stop-opacity="0.78" />
+    </linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF" />
+  <rect id="slide-ground" data-pptx-role="background" width="1240" height="1754" fill="#0E1530" />
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754">
+    <image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/lake.jpg" />
+  </g>
+  <rect width="1240" height="1754" fill="#0E1530" fill-opacity="0.28" data-pptx-role="decoration" id="theme-deco-01" />
+  <rect id="photo-shade" data-pptx-role="decoration" x="0" y="700" width="1240" height="1054" fill="url(#cover-shade)" />
+  <path d="M 900 260 L 1028 260 L 1028 324 L 964 324 L 964 388 L 900 388 Z M 1284 260 L 1284 388 L 1220 388 L 1220 324 L 1156 324 L 1156 260 Z M 1284 644 L 1156 644 L 1156 580 L 1220 580 L 1220 516 L 1284 516 Z M 900 644 L 900 516 L 964 516 L 964 580 L 1028 580 L 1028 644 Z" fill="#FFFFFF" fill-opacity="0.92" data-pptx-role="decoration" id="theme-deco-02" />
+  <path d="M 1086 1586 L 1104 1586 L 1104 1595 L 1095 1595 L 1095 1604 L 1086 1604 Z M 1140 1586 L 1140 1604 L 1131 1604 L 1131 1595 L 1122 1595 L 1122 1586 Z M 1140 1640 L 1122 1640 L 1122 1631 L 1131 1631 L 1131 1622 L 1140 1622 Z M 1086 1640 L 1086 1622 L 1095 1622 L 1095 1631 L 1104 1631 L 1104 1640 Z" fill="none" stroke="#E4E8F2" stroke-width="1.5" stroke-opacity="0.85" data-pptx-role="decoration" id="theme-deco-03" />
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 1040 70">
+    <text data-pptx-carrier="true" x="100" y="128" fill="#FFFFFF" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6">OSTRA  /  THE OPEN FRAME</text>
+  </g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1130 1040 280">
+    <text data-pptx-carrier="true" x="100" y="1240" fill="#FFFFFF" font-size="112" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" letter-spacing="-2">The shape<tspan x="100" dy="114.24">of a place.</tspan>
+    </text>
+  </g>
+  <g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="100 1430 860 120">
+    <text data-pptx-carrier="true" x="100" y="1476" fill="#FFFFFF" font-size="30" font-family="Arial, Helvetica, sans-serif">A study in one measure.<tspan x="100" dy="43.5">Four landscapes, one frame.</tspan>
+    </text>
+  </g>
+  <g id="edition" data-pptx-placeholder="date" data-pptx-idx="5" data-pptx-bounds="100 1630 1040 54">
+    <text data-pptx-carrier="true" x="100" y="1662" fill="#E4E8F2" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.6">SELECTED WORK 2021–2026  ·  ARCHITECTURE / LANDSCAPE / URBANISM</text>
+  </g>
+</svg>

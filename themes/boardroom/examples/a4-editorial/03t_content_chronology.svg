@@ -1,0 +1,51 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-chronology" data-pptx-layout-name="Typographic chronology" lang="en">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0" />
+  <ns0:line id="time-rule-1" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="470" x2="1140" y2="470" stroke="#071C2C" stroke-width="3" />
+  <ns0:line id="time-rule-2" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="830" x2="1140" y2="830" stroke="#D5DCE1" stroke-width="1" />
+  <ns0:line id="time-rule-3" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1190" x2="1140" y2="1190" stroke="#D5DCE1" stroke-width="1" />
+  <ns0:line id="time-rule-4" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1550" x2="1140" y2="1550" stroke="#071C2C" stroke-width="3" />
+  <ns0:path d="M 440 821 L 449 830 L 440 839 L 431 830 Z" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-03" />
+  <ns0:path d="M 440 1181 L 449 1190 L 440 1199 L 431 1190 Z" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-04" />
+  <ns0:path d="M 440 1541 L 449 1550 L 440 1559 L 431 1550 Z" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-05" />
+  <ns0:text x="100" y="654" fill="#E3120B" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-06">GATE 1  ·  FRI 20 NOV</ns0:text>
+  <ns0:text x="100" y="1014" fill="#E3120B" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-07">GATE 2  ·  FRI 18 DEC</ns0:text>
+  <ns0:text x="100" y="1374" fill="#E3120B" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" data-pptx-role="decoration" id="theme-deco-08">GATE 3  ·  FRI 22 JAN</ns0:text>
+  <ns0:rect x="100" y="112" width="11" height="11" fill="#E3120B" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:line x1="100" y1="1628" x2="1140" y2="1628" stroke="#D5DCE1" stroke-width="1" data-pptx-role="decoration" id="theme-deco-02" />
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44">
+    <ns0:text data-pptx-carrier="true" x="122" y="124" fill="#12232F" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">THE PLAN  /  FIRST NINETY DAYS</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 210 1040 200">
+    <ns0:text data-pptx-carrier="true" x="100" y="290" fill="#071C2C" font-size="64" font-family="Georgia, 'Times New Roman', serif" font-weight="bold">Ninety days, three gates.</ns0:text>
+  </ns0:g>
+  <ns0:g id="time-1" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="100 530 320 240">
+    <ns0:text data-pptx-carrier="true" x="100" y="600" fill="#071C2C" font-size="44" font-family="Georgia, 'Times New Roman', serif">Weeks 1–3</ns0:text>
+  </ns0:g>
+  <ns0:g id="event-1" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="460 530 680 240">
+    <ns0:text data-pptx-carrier="true" x="460" y="570" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Simplify the portfolio<ns0:tspan x="460" dy="36.0">Cut two product lines and publish kill criteria</ns0:tspan>
+      <ns0:tspan x="460" dy="36.0">before the next budget cycle. Owner: CEO / CFO.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="time-2" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 890 320 240">
+    <ns0:text data-pptx-carrier="true" x="100" y="960" fill="#071C2C" font-size="44" font-family="Georgia, 'Times New Roman', serif">Weeks 4–8</ns0:text>
+  </ns0:g>
+  <ns0:g id="event-2" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="460 890 680 240">
+    <ns0:text data-pptx-carrier="true" x="460" y="930" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Rebuild decision rights<ns0:tspan x="460" dy="36.0">One launch owner, two decision gates and three</ns0:tspan>
+      <ns0:tspan x="460" dy="36.0">planning cycles instead of six. Owner: COO.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="time-3" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="100 1250 320 240">
+    <ns0:text data-pptx-carrier="true" x="100" y="1320" fill="#071C2C" font-size="44" font-family="Georgia, 'Times New Roman', serif">Weeks 9–12</ns0:text>
+  </ns0:g>
+  <ns0:g id="event-3" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="460 1250 680 240">
+    <ns0:text data-pptx-carrier="true" x="460" y="1290" fill="#12232F" font-size="24" font-family="Georgia, 'Times New Roman', serif">Reset the operating rhythm<ns0:tspan x="460" dy="36.0">Quarterly gates, monthly review, weekly delivery</ns0:tspan>
+      <ns0:tspan x="460" dy="36.0">cell with the same metrics. Owner: COO / CHRO.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="source" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="100 1620 850 70">
+    <ns0:text data-pptx-carrier="true" x="100" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2">NO WORKSTREAM STARTS WITHOUT A NAMED OWNER  ·  ILLUSTRATIVE</ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="10" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#5F6E79" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="bold" letter-spacing="2.2" text-anchor="end">06 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

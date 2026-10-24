@@ -1,0 +1,44 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-typographic" data-pptx-layout-name="Typographic pause and counterpoint" lang="en-GB">
+  <ns0:rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F6F4EF" />
+  <ns0:line id="top-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="160" x2="1140" y2="160" stroke="#0A0A0A" stroke-width="3" />
+  <ns0:line id="tick-1" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="160" x2="100" y2="180" stroke="#0A0A0A" stroke-width="2" />
+  <ns0:line id="tick-2" data-pptx-layer="layout" data-pptx-editable="false" x1="460" y1="160" x2="460" y2="180" stroke="#0A0A0A" stroke-width="2" />
+  <ns0:line id="tick-3" data-pptx-layer="layout" data-pptx-editable="false" x1="820" y1="160" x2="820" y2="180" stroke="#0A0A0A" stroke-width="2" />
+  <ns0:line id="tick-4" data-pptx-layer="layout" data-pptx-editable="false" x1="1140" y1="160" x2="1140" y2="180" stroke="#0A0A0A" stroke-width="2" />
+  <ns0:line id="mid-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="840" x2="1140" y2="840" stroke="#D9D5CB" stroke-width="1" />
+  <ns0:line id="short-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="640" y1="1120" x2="1140" y2="1120" stroke="#1710CC" stroke-width="4" />
+  <ns0:line id="bottom-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1580" x2="1140" y2="1580" stroke="#0A0A0A" stroke-width="2" />
+  <ns0:rect x="740" y="400" width="400" height="330" fill="#1710CC" fill-opacity="0.62" data-pptx-role="decoration" id="theme-deco-01" />
+  <ns0:text x="1112" y="700" fill="#FFFFFF" font-size="110" font-family="'Six Caps', 'Oswald', 'Arial Narrow', sans-serif" text-anchor="end" data-pptx-role="decoration" id="theme-deco-02">NO. 03</ns0:text>
+  <ns0:g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44">
+    <ns0:text data-pptx-carrier="true" x="100" y="126" fill="#77736B" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4">MAISON 170  /  METHOD</ns0:text>
+  </ns0:g>
+  <ns0:g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 220 1040 560">
+    <ns0:text data-pptx-carrier="true" x="100" y="390" fill="#0A0A0A" font-size="160" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif" letter-spacing="-3">Edit,<ns0:tspan x="100" dy="156.8">then</ns0:tspan>
+      <ns0:tspan x="100" dy="156.8">frame.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="3" data-pptx-bounds="460 880 680 180">
+    <ns0:text data-pptx-carrier="true" x="460" y="922" fill="#0A0A0A" font-size="30" font-family="Archivo, Arial, sans-serif">Three rules for photographing a collection<ns0:tspan x="460" dy="42.0">without letting the clothes</ns0:tspan>
+      <ns0:tspan x="460" dy="42.0">outshout the people.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="takeaway" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 1160 500 360">
+    <ns0:text data-pptx-carrier="true" x="100" y="1214" fill="#0A0A0A" font-size="38" font-family="'Bodoni Moda', Didot, 'Times New Roman', serif" font-style="italic">The camera does not<ns0:tspan x="100" dy="49.4">invent presence. It</ns0:tspan>
+      <ns0:tspan x="100" dy="49.4">waits for it, then edits.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="640 1160 500 360">
+    <ns0:text data-pptx-carrier="true" x="640" y="1190" fill="#0A0A0A" font-size="21" font-family="Archivo, Arial, sans-serif">We shoot every look twice: once for the<ns0:tspan x="640" dy="31.5">garment, once for the person. Only the</ns0:tspan>
+      <ns0:tspan x="640" dy="31.5">second survives the edit.</ns0:tspan>
+      <ns0:tspan x="640" dy="31.5"> </ns0:tspan>
+      <ns0:tspan x="640" dy="31.5">Colour is removed first, so that cut,</ns0:tspan>
+      <ns0:tspan x="640" dy="31.5">texture and posture have to carry the</ns0:tspan>
+      <ns0:tspan x="640" dy="31.5">picture on their own. Cobalt returns</ns0:tspan>
+      <ns0:tspan x="640" dy="31.5">later, as an interruption, never a filter.</ns0:tspan>
+    </ns0:text>
+  </ns0:g>
+  <ns0:g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="6" data-pptx-bounds="1040 1640 100 50">
+    <ns0:text data-pptx-carrier="true" x="1140" y="1668" fill="#0A0A0A" font-size="15" font-family="Archivo, Arial, sans-serif" font-weight="bold" letter-spacing="3.4" text-anchor="end">03 / 08</ns0:text>
+  </ns0:g>
+</ns0:svg>

@@ -27,6 +27,9 @@ a validated template; an unregistered exact root can be supplied explicitly at g
 ## theme.json
 
 - `id`, `name`, `name_zh`, `summary`: discovery metadata.
+- `use_when`, `avoid_when`: short lists the agent reads through `scripts/list_themes.py` to choose a
+  theme. SKILL.md never lists themes by name, so a new theme is discovered from its directory alone.
+- `maturity` (optional): `experimental` until a real generation/export run is recorded.
 - `style_workspace`, `style_spec`, `recipes`, `examples`: package-relative paths, not a request
   to load everything before Stage 1.
 - `tested_with_ppt_master`: versions with an actual full generation/export run; do not copy a
@@ -52,6 +55,25 @@ a validated template; an unregistered exact root can be supplied explicitly at g
 `theme_lock.py` retains its legacy filename but emits candidate JSON only, with no project
 mutations. The active planner authors the actual Design Spec/lock, or Quick's transient
 anchors, under ppt-master's semantic ownership rules.
+
+## Theme DNA and showcase
+
+Each Style spec carries two bullets in §V: **Theme DNA** (the four things held constant on every
+page: ground set, two voices, one structural motif, pacing) and **Extension Rule** (which variables
+may change on a page no example shows). §VII adds the matching review line. These live in the
+installed spec because that is what ppt-master's Stage 2 reads; see [PHILOSOPHY.md](PHILOSOPHY.md).
+
+The showcase should demonstrate the theme on the shared Layout. Generate it with
+`themes/<id>/gen_layout_showcase.py` (built on `framework/scripts/layout_showcase.py`) into
+`examples/<layout-id>/`; older hand-made pages may also live in `examples/svg/`. Rules the
+generated pages must keep so ppt-master accepts them: the Master background is one value across
+every page (use `Page.ground()` for a page-specific field), decorations come after all layout-layer
+elements and carry stable ids, placeholder bounds stay as the prototype defines them, and every text
+fits its bounds by ppt-master's own `text_measure.py` estimate. Before committing, run ppt-master's
+final checker and a Quick export on a scratch project, as the three generated showcases were. A page counts as a
+showcased prototype when its root `<svg>` carries the Layout's `data-pptx-master` and the prototype's
+`data-pptx-layout`; `list_themes.py` reports those matches so the Executor can calibrate against them.
+Pages built on other structures are reported as theme pages.
 
 ## Design quality and validation
 
