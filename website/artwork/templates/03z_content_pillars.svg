@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-pillars" data-pptx-layout-name="Inverted field with staggered numeral pillars">
+  <defs>
+    <clipPath id="clip-pillar-1"><rect x="100" y="1080" width="230" height="674"/></clipPath>
+    <clipPath id="clip-pillar-2"><rect x="370" y="640" width="230" height="680"/></clipPath>
+    <clipPath id="clip-pillar-3"><rect x="640" y="1180" width="230" height="574"/></clipPath>
+    <clipPath id="clip-pillar-4"><rect x="910" y="220" width="230" height="720"/></clipPath>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#14228F"/>
+  <!-- Interlocking translucent echo blocks bridging staggered pillars -->
+  <rect id="pillar-echo-1" data-pptx-layer="layout" data-pptx-editable="false" x="250" y="960" width="190" height="240" fill="#FFFFFF" fill-opacity="0.14"/>
+  <rect id="pillar-echo-2" data-pptx-layer="layout" data-pptx-editable="false" x="530" y="520" width="190" height="220" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect id="pillar-echo-3" data-pptx-layer="layout" data-pptx-editable="false" x="800" y="820" width="180" height="240" fill="#FFFFFF" fill-opacity="0.16"/>
+  <rect id="pillar-1" data-pptx-layer="layout" data-pptx-editable="false" x="100" y="1080" width="230" height="674" fill="#FFFFFF" fill-opacity="0.96"/>
+  <g id="numeral-vec-1" data-pptx-layer="layout" data-pptx-editable="false" clip-path="url(#clip-pillar-1)">
+    <path d="M 185 1330 L 265 1265 L 265 1754 L 215 1754 L 215 1355 L 175 1385 Z" fill="#14228F"/>
+  </g>
+  <rect id="pillar-2" data-pptx-layer="layout" data-pptx-editable="false" x="370" y="640" width="230" height="680" fill="#FFFFFF" fill-opacity="0.96"/>
+  <g id="numeral-vec-2" data-pptx-layer="layout" data-pptx-editable="false" clip-path="url(#clip-pillar-2)">
+    <path d="M 415 920 C 415 830 475 780 545 780 C 605 780 635 825 635 890 C 635 955 590 1015 465 1215 L 615 1215 L 615 1165 L 645 1165 L 645 1265 L 405 1265 L 405 1225 C 525 1030 575 955 575 890 C 575 845 550 820 510 820 C 465 820 440 855 430 920 Z" fill="#14228F"/>
+  </g>
+  <rect id="pillar-3" data-pptx-layer="layout" data-pptx-editable="false" x="640" y="1180" width="230" height="574" fill="#FFFFFF" fill-opacity="0.96"/>
+  <g id="numeral-vec-3" data-pptx-layer="layout" data-pptx-editable="false" clip-path="url(#clip-pillar-3)">
+    <path d="M 685 1440 C 700 1375 750 1340 815 1340 C 875 1340 905 1380 905 1435 C 905 1485 870 1525 820 1540 C 880 1555 915 1600 915 1665 C 915 1735 860 1785 780 1785 C 715 1785 675 1745 675 1705 C 675 1685 690 1670 710 1670 C 730 1670 740 1685 750 1715 C 760 1735 780 1745 805 1745 C 845 1745 865 1710 865 1660 C 865 1600 830 1565 760 1565 L 745 1565 L 745 1530 L 765 1530 C 820 1530 855 1495 855 1440 C 855 1395 830 1375 790 1375 C 750 1375 720 1400 705 1445 Z" fill="#14228F"/>
+  </g>
+  <rect id="pillar-4" data-pptx-layer="layout" data-pptx-editable="false" x="910" y="220" width="230" height="720" fill="#FFFFFF" fill-opacity="0.96"/>
+  <g id="numeral-vec-4" data-pptx-layer="layout" data-pptx-editable="false" clip-path="url(#clip-pillar-4)">
+    <path d="M 1085 370 L 1125 370 L 1125 725 L 1165 725 L 1165 765 L 1125 765 L 1125 885 L 1075 885 L 1075 765 L 925 765 L 925 725 Z M 1075 450 L 960 725 L 1075 725 Z" fill="#14228F"/>
+  </g>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 460 60"><text data-pptx-carrier="true" x="100" y="128" fill="#FFFFFF" font-size="20" font-weight="bold" letter-spacing="2">FOUR PILLARS  /  CROPPED SCALE</text></g>
+  <g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="2" data-pptx-bounds="100 185 460 220"><text data-pptx-carrier="true" x="100" y="215" fill="#DCE2EA" font-size="18">Staggered white pillars rise across<tspan x="100" dy="28">a deep blue field, clipping giant</tspan><tspan x="100" dy="28">numerals at the right edge while</tspan><tspan x="100" dy="28">translucent echoes link the columns.</tspan></text></g>
+  <g id="step-1" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="120 1110 190 120"><text data-pptx-carrier="true" x="120" y="1138" fill="#14228F" font-size="16" font-weight="bold">SWISS GRID<tspan x="120" dy="22">FOUNDATION</tspan></text></g>
+  <g id="step-2" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="390 670 190 120"><text data-pptx-carrier="true" x="390" y="698" fill="#14228F" font-size="16" font-weight="bold">EDITORIAL<tspan x="390" dy="22">CADENCE</tspan></text></g>
+  <g id="body-left" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="370 1365 230 280"><text data-pptx-carrier="true" x="370" y="1395" fill="#FFFFFF" font-size="17" font-weight="bold">FOUR TRACKS.<tspan x="370" dy="24">FOUR VOICES.</tspan><tspan x="370" dy="44" fill="#DCE2EA" font-weight="normal">Negative space beneath</tspan><tspan x="370" dy="24" fill="#DCE2EA" font-weight="normal">the elevated pillar holds</tspan><tspan x="370" dy="24" fill="#DCE2EA" font-weight="normal">supporting prose.</tspan></text></g>
+  <g id="step-3" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="660 1210 190 120"><text data-pptx-carrier="true" x="660" y="1238" fill="#14228F" font-size="16" font-weight="bold">CONTROLLED<tspan x="660" dy="22">DISRUPTION</tspan></text></g>
+  <g id="step-4" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="930 250 190 120"><text data-pptx-carrier="true" x="930" y="278" fill="#14228F" font-size="16" font-weight="bold">ARCHITECTURAL<tspan x="930" dy="22">SCALE</tspan></text></g>
+  <g id="body-right" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="910 1000 230 560"><text data-pptx-carrier="true" x="910" y="1032" fill="#FFFFFF" font-size="17" font-weight="bold">ACROSS A SERIES<tspan x="910" dy="24">OF PILLARS</tspan><tspan x="910" dy="44" fill="#DCE2EA" font-weight="normal">Each white column acts</tspan><tspan x="910" dy="24" fill="#DCE2EA" font-weight="normal">as a crop window for</tspan><tspan x="910" dy="24" fill="#DCE2EA" font-weight="normal">oversized display</tspan><tspan x="910" dy="24" fill="#DCE2EA" font-weight="normal">numerals 1 through 4.</tspan></text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="9" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#DCE2EA" font-size="18">28</text></g>
+</svg>

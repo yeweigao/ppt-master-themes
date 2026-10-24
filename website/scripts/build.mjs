@@ -13,10 +13,23 @@ await cp(publicRoot, output, {
   recursive: true,
   filter: source => !relative(publicRoot, source).split(sep).some(part => part.startsWith('.')),
 });
-await cp(join(website, 'src/index.html'), join(output, 'index.html'));
+const manifest = JSON.parse(await readFile(join(output, 'layouts/manifest.json'), 'utf8'));
+const familyLabels = { photography: 'PHOTOGRAPHY', reading: 'READING', information: 'INFORMATION' };
+const layoutIndex = manifest.items.map((item, index) => {
+  const number = String(index + 1).padStart(2, '0');
+  const title = escapeHtml(item.title);
+  const alt = escapeHtml(`${item.title}版式实景预览`);
+  return `<a class="layout-index-card family-${item.family}" href="/layouts/?id=${encodeURIComponent(item.id)}" aria-label="查看版式 ${number} ${title}"><span class="layout-index-visual"><img src="${item.image}" width="620" height="877" loading="lazy" alt="${alt}"><span class="layout-index-no">${number}</span></span><span class="layout-index-caption"><strong>${title}</strong><small>${familyLabels[item.family] || 'EDITORIAL'}</small></span></a>`;
+}).join('\n');
+const homepage = await readFile(join(website, 'src/index.html'), 'utf8');
+if (!homepage.includes('<!--LAYOUT_INDEX-->')) throw new Error('Homepage is missing the layout index placeholder.');
+await writeFile(join(output, 'index.html'), homepage.replace('<!--LAYOUT_INDEX-->', layoutIndex));
 await writeCredits(website, output);
 // Only pages and selected public assets enter dist. The skill repository stays outside it.
 await checkSite(output);
+function escapeHtml(value) {
+  return String(value ?? '').replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[character]));
+}
 async function bytesAt(directory) {
   let bytes = 0;
   for (const entry of await readdir(directory, { withFileTypes: true })) {
@@ -25,7 +38,6 @@ async function bytesAt(directory) {
   }
   return bytes;
 }
-const manifest = JSON.parse(await readFile(join(output, 'layouts/manifest.json'), 'utf8'));
 await writeFile(join(output, 'site-info.json'), JSON.stringify({
   name: 'Themes for PPT Master', type: 'static', layouts: manifest.items.length,
   routes: ['/', '/layouts/', '/image-credits'],

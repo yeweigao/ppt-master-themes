@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-woodland-right" data-pptx-layout-name="Woodland Panorama — right">
+  <defs>
+    <linearGradient id="forest-veil-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0.62"/><stop offset="0.45" stop-color="#0A0A0A" stop-opacity="0.34"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.88"/></linearGradient>
+    <linearGradient id="forest-bottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.72"/></linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8"/>
+  <g id="panorama" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><svg data-pptx-carrier="true" x="0" y="0" width="1240" height="1754" viewBox="0.5 0 0.47143 1" preserveAspectRatio="none" overflow="hidden"><image x="0" y="0" width="1" height="1" preserveAspectRatio="none" href="../images/woodland.jpg"/></svg></g>
+  <rect id="photo-veil" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="url(#forest-veil-r)"/>
+  <rect id="photo-shade-bottom" data-pptx-role="decoration" x="0" y="1000" width="1240" height="754" fill="url(#forest-bottom)"/>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 900 44"><text data-pptx-carrier="true" x="100" y="124" fill="#FFFFFF" font-size="18" letter-spacing="2.4" font-family="Arial Narrow, Arial">THE FOREST  /  CONTINUED</text></g>
+  <g id="folio-display" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="660 212 480 396"><text letter-spacing="-10" data-pptx-carrier="true" x="700" y="500" fill="#FFE500" font-size="300" font-weight="bold" font-family="Arial">11</text></g>
+  <g id="pull-quote" data-pptx-bounds="100 300 520 260"><text letter-spacing="-1" x="100" y="376" fill="#FFFFFF" font-size="52" font-style="italic" font-family="Georgia, 'Times New Roman', serif">Every path<tspan x="100" dy="62">is a question</tspan><tspan x="100" dy="62">asked slowly.</tspan></text></g>
+  <rect id="copy-rule" data-pptx-role="decoration" x="100" y="1060" width="1040" height="2" fill="#FFFFFF" fill-opacity="0.62"/>
+  <g id="copy-left" data-pptx-bounds="100 1100 480 360"><text x="100" y="1140" fill="#FFFFFF" font-size="26">Walk slowly. Let the edge of the<tspan x="100" dy="40">path stay visible. A forest is not</tspan><tspan x="100" dy="40">a backdrop; it is a set of small</tspan><tspan x="100" dy="40">decisions about light, growth</tspan><tspan x="100" dy="40">and decay. Stay long enough for</tspan><tspan x="100" dy="40">the noise to settle.</tspan></text></g>
+  <g id="copy-right" data-pptx-bounds="660 1100 480 360"><text x="660" y="1140" fill="#FFFFFF" font-size="26">Sound arrives before detail: water,<tspan x="660" dy="40">wind, a branch moving. Follow it.</tspan><tspan x="660" dy="40">Then look for what the eye missed</tspan><tspan x="660" dy="40">on the first pass — a broken stem,</tspan><tspan x="660" dy="40">a change in the canopy, a path</tspan><tspan x="660" dy="40">that was not there last season.</tspan></text></g>
+  <g id="credit" data-pptx-bounds="100 1630 1040 50"><text x="100" y="1655" fill="#FFFFFF" font-size="18" letter-spacing="2" font-family="Arial Narrow, Arial">PHOTO: SPESSIG / CC0 1.0 / CONTINUOUS SPREAD — RIGHT</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="4" data-pptx-bounds="1040 1690 100 44"><text data-pptx-carrier="true" x="1080" y="1716" fill="#FFFFFF" font-size="18">31</text></g>
+</svg>

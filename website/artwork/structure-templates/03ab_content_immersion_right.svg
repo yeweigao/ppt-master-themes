@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24">
+  <rect width="1240" height="1754" fill="#FFFFFF"/>
+  <rect width="1240" height="1754" fill="#DCE1E3"/>
+  <g font-size="18" letter-spacing="3" fill="#FFFFFF"><text x="100" y="124">SECTION / KICKER</text></g>
+  <rect x="140" y="960" width="960" height="560" fill="#FFFFFF"/>
+  <rect x="140" y="960" width="960" height="6" fill="#20262A"/>
+  <g font-size="64" font-weight="bold" fill="#20262A"><text x="190" y="1100">Page title</text></g>
+  <g font-size="22" fill="#20262A"><text x="190" y="1230">Body column</text><text x="650" y="1230">Body column</text></g>
+  <g font-size="18" letter-spacing="2" fill="#FFFFFF"><text x="100" y="1655">Caption / source</text></g>
+  <g font-size="18" fill="#FFFFFF"><text x="1080" y="1716">30</text></g>
+</svg>

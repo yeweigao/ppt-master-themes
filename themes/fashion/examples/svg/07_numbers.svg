@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" lang="en-GB" font-family="Archivo" data-pptx-page-role="content">
+<rect id="bg-fill" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#1710CC"/>
+<g data-pptx-bounds="0 0 1240 1754" id="ghost-word" data-pptx-role="decoration">
+<text x="150" y="1600" font-family="Bodoni Moda" font-size="300" fill="#FFFFFF" font-weight="bold" letter-spacing="-6" fill-opacity="0.08">CAST</text>
+</g>
+<g id="masthead" data-pptx-role="decoration" data-pptx-bounds="88 40 1064 56"><line x1="88" y1="92" x2="1152" y2="92" stroke="#FFFFFF" stroke-width="1"/><text x="88" y="70" font-family="Archivo" font-size="16" fill="#FFFFFF" font-weight="bold" letter-spacing="2.8">MAISON 170</text><text x="1152" y="70" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4" text-anchor="end">THE NUMBERS</text><text x="1152" y="84" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0" text-anchor="end">07 / 11</text></g>
+<text x="60" y="690" font-family="Bodoni Moda" font-size="300" fill="#FFFFFF" font-weight="bold" letter-spacing="-8">170</text>
+<text x="88" y="782" font-family="Six Caps" font-size="92" fill="#FFFFFF" letter-spacing="6.0">PEOPLE</text>
+<text x="88" y="826" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6" fill-opacity="0.9">IN FOUR CITIES. IN TEN SILHOUETTES.</text>
+<text x="88" y="848" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="2.2" fill-opacity="0.75">ONE ARCHIVE, PHOTOGRAPHED IN 2026.</text>
+<g data-pptx-bounds="0 0 1240 1754" id="number-portrait" data-pptx-role="decoration">
+<image id="num-portrait" data-pptx-role="decoration" href="../images/_cast_bw.jpg" x="856" y="154" width="296" height="600" preserveAspectRatio="xMidYMid slice"/>
+<rect x="856" y="154" width="296" height="600" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+<rect x="856" y="694" width="296" height="60" fill="#FFFFFF" fill-opacity="0.14"/>
+</g>
+<text x="880" y="730" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.2">PORTRAIT / 170</text>
+<text x="1128" y="730" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0" text-anchor="end">01</text>
+<g data-pptx-bounds="0 0 1240 1754" id="stat-field" data-pptx-role="decoration">
+<rect id="stat-veil" data-pptx-role="decoration" x="88" y="920" width="680" height="430" fill="#0A0A0A" fill-opacity="0.14"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="stat-01" data-pptx-role="decoration">
+<line x1="88" y1="920" x2="408" y2="920" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.7"/>
+<text x="88" y="986" font-family="Bodoni Moda" font-size="72" fill="#FFFFFF" font-weight="bold" letter-spacing="-2">04</text>
+<text x="88" y="1012" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4">CITIES</text>
+<text x="88" y="1030" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.8">LONDON · NEW YORK</text>
+<text x="88" y="1046" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.8">SEOUL · SHANGHAI</text>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="stat-02" data-pptx-role="decoration">
+<line x1="448" y1="920" x2="768" y2="920" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.7"/>
+<text x="448" y="986" font-family="Bodoni Moda" font-size="72" fill="#FFFFFF" font-weight="bold" letter-spacing="-2">10</text>
+<text x="448" y="1012" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4">SILHOUETTES</text>
+<text x="448" y="1030" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.8">TRENCH · TAILORING</text>
+<text x="448" y="1046" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.8">KNIT · STREET</text>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="stat-03" data-pptx-role="decoration">
+<line x1="88" y1="1090" x2="408" y2="1090" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.7"/>
+<text x="88" y="1156" font-family="Bodoni Moda" font-size="72" fill="#FFFFFF" font-weight="bold" letter-spacing="-2">170</text>
+<text x="88" y="1182" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4">FACES</text>
+<text x="88" y="1200" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.8">ONE PORTRAIT AT A TIME</text>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="stat-04" data-pptx-role="decoration">
+<line x1="448" y1="1090" x2="768" y2="1090" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.7"/>
+<text x="448" y="1156" font-family="Bodoni Moda" font-size="72" fill="#FFFFFF" font-weight="bold" letter-spacing="-2">01</text>
+<text x="448" y="1182" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4">ARCHIVE</text>
+<text x="448" y="1200" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.8">CUT · CLOTH · PRESENCE</text>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="number-overlap" data-pptx-role="decoration">
+<rect id="overlap" data-pptx-role="decoration" x="760" y="1060" width="392" height="250" fill="#FFFFFF" fill-opacity="0.12"/>
+</g>
+<text x="784" y="1112" font-family="Bodoni Moda" font-size="30" fill="#FFFFFF">THE HOUSE</text>
+<text x="784" y="1146" font-family="Bodoni Moda" font-size="30" fill="#FFFFFF">IS A CAST</text>
+<text x="784" y="1184" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2" fill-opacity="0.85">170 people, not a single</text>
+<text x="784" y="1202" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2" fill-opacity="0.85">muse. The campaign is</text>
+<text x="784" y="1220" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2" fill-opacity="0.85">a crowd with a point of view.</text>
+<text x="784" y="1268" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="1.8">ALPHA 12% / WHITE</text>
+<text x="88" y="1440" font-family="Bodoni Moda" font-size="26" fill="#FFFFFF">An archive is a way of looking.</text>
+<text x="88" y="1472" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2">The numbers only count what the portraits already know.</text>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="88 1640 1064 50"><line x1="88" y1="1652" x2="1152" y2="1652" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.35"/><text x="88" y="1682" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6">FASHION 170 — A GLOBAL CAST</text><text x="1152" y="1682" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4" text-anchor="end">07</text></g>
+</svg>

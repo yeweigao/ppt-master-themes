@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-boardroom" data-pptx-master-name="A4 Boardroom" data-pptx-layout="br-tree" data-pptx-layout-name="Issue tree / launch delay">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0"/>
+<rect id="br-tree-d1" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="#F7F5F0"/>
+<rect id="br-tree-d2" data-pptx-role="decoration" x="90" y="76" width="13" height="13" fill="#E3120B"/>
+<g id="br-tree-p1" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="118 64 720 42.8"><text x="118" y="90" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="2.2" data-pptx-carrier="true">DIAGNOSIS / ISSUE TREE</text></g>
+<g id="br-tree-p2" data-pptx-placeholder="slide-number" data-pptx-idx="2" data-pptx-bounds="850 64 300 41.7"><text x="1150" y="90" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.4" text-anchor="end" data-pptx-carrier="true">STRATEGY REVIEW / 07</text></g>
+<line id="br-tree-d3" data-pptx-role="decoration" x1="90" y1="108" x2="1150" y2="108" stroke="#071C2C" stroke-width="2"/>
+<g id="br-tree-p3" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="90 124 760 42.8"><text x="90" y="150" fill="#E3120B" font-size="16" font-weight="bold" letter-spacing="2.2" data-pptx-carrier="true">DIAGNOSIS</text></g>
+<g id="br-tree-p4" data-pptx-placeholder="title" data-pptx-idx="4" data-pptx-bounds="90 168 1060 94.96"><text x="90" y="217.28" fill="#12232F" font-size="56" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">Launches slip for one structural reason.</text></g>
+<g id="br-tree-p5" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="90 282 920 96"><text x="90" y="306.64" fill="#5F6E79" font-size="28" font-family="Georgia" data-pptx-carrier="true">The twenty-three day delay decomposes into three causes. Only<tspan x="90" dy="40">one of them is fixed by adding people.</tspan></text></g>
+<rect id="br-tree-d4" data-pptx-role="decoration" x="390" y="372" width="460" height="88" fill="#071C2C"/>
+<g id="br-tree-p6" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="414 388 412 63.400000000000006"><text x="414" y="428" fill="#FFFFFF" font-size="28" font-weight="bold" data-pptx-carrier="true">23-day launch delay</text></g>
+<line id="br-tree-d5" data-pptx-role="decoration" x1="620" y1="460" x2="620" y2="494" stroke="#071C2C" stroke-width="2"/>
+<line id="br-tree-d6" data-pptx-role="decoration" x1="250" y1="494" x2="990" y2="494" stroke="#071C2C" stroke-width="2"/>
+<line id="br-tree-d7" data-pptx-role="decoration" x1="250" y1="494" x2="250" y2="524" stroke="#071C2C" stroke-width="2"/>
+<line id="br-tree-d8" data-pptx-role="decoration" x1="620" y1="494" x2="620" y2="524" stroke="#071C2C" stroke-width="2"/>
+<line id="br-tree-d9" data-pptx-role="decoration" x1="990" y1="494" x2="990" y2="524" stroke="#071C2C" stroke-width="2"/>
+<rect id="br-tree-d10" data-pptx-role="decoration" x="90" y="524" width="320" height="114" fill="#FFFFFF"/>
+<g id="br-tree-p7" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="110 536 280 48.1"><text x="110" y="564" fill="#12232F" font-size="22" font-weight="bold" data-pptx-carrier="true">Portfolio load</text></g>
+<g id="br-tree-p8" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="110 574 280 58.8"><text x="110" y="588.96" fill="#5F6E79" font-size="17" data-pptx-carrier="true">Too many launches, each with<tspan x="110" dy="23">a business case.</tspan></text></g>
+<line id="br-tree-d11" data-pptx-role="decoration" x1="112" y1="638" x2="112" y2="826" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<line id="br-tree-d12" data-pptx-role="decoration" x1="112" y1="706" x2="134" y2="706" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<rect id="br-tree-d13" data-pptx-role="decoration" x="134" y="664" width="276" height="84" fill="#FFFFFF"/>
+<line id="br-tree-d14" data-pptx-role="decoration" x1="112" y1="826" x2="134" y2="826" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<rect id="br-tree-d15" data-pptx-role="decoration" x="134" y="784" width="276" height="84" fill="#FFFFFF"/>
+<rect id="br-tree-d16" data-pptx-role="decoration" x="460" y="524" width="320" height="114" fill="#E3120B"/>
+<g id="br-tree-p9" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="480 536 280 48.1"><text x="480" y="564" fill="#FFFFFF" font-size="22" font-weight="bold" data-pptx-carrier="true">Decision rights</text></g>
+<g id="br-tree-p10" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="480 574 280 58.8"><text x="480" y="588.96" fill="#FFE1DF" font-size="17" data-pptx-carrier="true">No single owner; fourteen<tspan x="480" dy="23">gates share a veto.</tspan></text></g>
+<line id="br-tree-d17" data-pptx-role="decoration" x1="482" y1="638" x2="482" y2="826" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<line id="br-tree-d18" data-pptx-role="decoration" x1="482" y1="706" x2="504" y2="706" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<rect id="br-tree-d19" data-pptx-role="decoration" x="504" y="664" width="276" height="84" fill="#FFFFFF"/>
+<line id="br-tree-d20" data-pptx-role="decoration" x1="482" y1="826" x2="504" y2="826" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<rect id="br-tree-d21" data-pptx-role="decoration" x="504" y="784" width="276" height="84" fill="#FFFFFF"/>
+<rect id="br-tree-d22" data-pptx-role="decoration" x="830" y="524" width="320" height="114" fill="#FFFFFF"/>
+<g id="br-tree-p11" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="850 536 280 48.1"><text x="850" y="564" fill="#12232F" font-size="22" font-weight="bold" data-pptx-carrier="true">Handoffs</text></g>
+<g id="br-tree-p12" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="850 574 280 58.8"><text x="850" y="588.96" fill="#5F6E79" font-size="17" data-pptx-carrier="true">Six teams, six systems, no<tspan x="850" dy="23">shared definition of done.</tspan></text></g>
+<line id="br-tree-d23" data-pptx-role="decoration" x1="852" y1="638" x2="852" y2="826" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<line id="br-tree-d24" data-pptx-role="decoration" x1="852" y1="706" x2="874" y2="706" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<rect id="br-tree-d25" data-pptx-role="decoration" x="874" y="664" width="276" height="84" fill="#FFFFFF"/>
+<line id="br-tree-d26" data-pptx-role="decoration" x1="852" y1="826" x2="874" y2="826" stroke="#071C2C" stroke-width="1.5" stroke-opacity="0.55"/>
+<rect id="br-tree-d27" data-pptx-role="decoration" x="874" y="784" width="276" height="84" fill="#FFFFFF"/>
+<g id="br-tree-p13" data-pptx-placeholder="body" data-pptx-idx="13" data-pptx-bounds="150 674 244 41.9"><text x="150" y="698" fill="#12232F" font-size="18" font-weight="bold" data-pptx-carrier="true">11 active lines</text></g>
+<g id="br-tree-p14" data-pptx-placeholder="body" data-pptx-idx="14" data-pptx-bounds="150 704 244 42"><text x="150" y="718.08" fill="#5F6E79" font-size="16" font-family="Georgia" data-pptx-carrier="true">Four carry 80% of revenue.</text></g>
+<g id="br-tree-p15" data-pptx-placeholder="body" data-pptx-idx="15" data-pptx-bounds="150 794 244 41.9"><text x="150" y="818" fill="#12232F" font-size="18" font-weight="bold" data-pptx-carrier="true">No kill criteria</text></g>
+<g id="br-tree-p16" data-pptx-placeholder="body" data-pptx-idx="16" data-pptx-bounds="150 824 244 55.4"><text x="150" y="838.08" fill="#5F6E79" font-size="16" font-family="Georgia" data-pptx-carrier="true">Every case clears the same<tspan x="150" dy="21">hurdle.</tspan></text></g>
+<g id="br-tree-p17" data-pptx-placeholder="body" data-pptx-idx="17" data-pptx-bounds="520 674 244 41.9"><text x="520" y="698" fill="#12232F" font-size="18" font-weight="bold" data-pptx-carrier="true">No named owner</text></g>
+<g id="br-tree-p18" data-pptx-placeholder="body" data-pptx-idx="18" data-pptx-bounds="520 704 244 55.4"><text x="520" y="718.08" fill="#5F6E79" font-size="16" font-family="Georgia" data-pptx-carrier="true">Accountability split three<tspan x="520" dy="21">ways.</tspan></text></g>
+<g id="br-tree-p19" data-pptx-placeholder="body" data-pptx-idx="19" data-pptx-bounds="520 794 244 41.9"><text x="520" y="818" fill="#12232F" font-size="18" font-weight="bold" data-pptx-carrier="true">Veto at every gate</text></g>
+<g id="br-tree-p20" data-pptx-placeholder="body" data-pptx-idx="20" data-pptx-bounds="520 824 244 55.4"><text x="520" y="838.08" fill="#5F6E79" font-size="16" font-family="Georgia" data-pptx-carrier="true">Fourteen signatures, no<tspan x="520" dy="21">deadline.</tspan></text></g>
+<g id="br-tree-p21" data-pptx-placeholder="body" data-pptx-idx="21" data-pptx-bounds="890 674 244 41.9"><text x="890" y="698" fill="#12232F" font-size="18" font-weight="bold" data-pptx-carrier="true">Six definitions</text></g>
+<g id="br-tree-p22" data-pptx-placeholder="body" data-pptx-idx="22" data-pptx-bounds="890 704 244 42"><text x="890" y="718.08" fill="#5F6E79" font-size="16" font-family="Georgia" data-pptx-carrier="true">Of 'ready' across six teams.</text></g>
+<g id="br-tree-p23" data-pptx-placeholder="body" data-pptx-idx="23" data-pptx-bounds="890 794 244 41.9"><text x="890" y="818" fill="#12232F" font-size="18" font-weight="bold" data-pptx-carrier="true">Manual re-entry</text></g>
+<g id="br-tree-p24" data-pptx-placeholder="body" data-pptx-idx="24" data-pptx-bounds="890 824 244 55.4"><text x="890" y="838.08" fill="#5F6E79" font-size="16" font-family="Georgia" data-pptx-carrier="true">Three systems, no<tspan x="890" dy="21">reconciliation.</tspan></text></g>
+<line id="br-tree-d28" data-pptx-role="decoration" x1="90" y1="996" x2="1150" y2="996" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-tree-p25" data-pptx-placeholder="body" data-pptx-idx="25" data-pptx-bounds="90 1022 100 100.80000000000001"><text x="90" y="1084" fill="#E3120B" font-size="56" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">6</text></g>
+<g id="br-tree-p26" data-pptx-placeholder="body" data-pptx-idx="26" data-pptx-bounds="190 1038 250 38.25"><text x="190" y="1060" fill="#5F6E79" font-size="15" font-weight="bold" letter-spacing="1.4" data-pptx-carrier="true">PLANNING CYCLES</text></g>
+<g id="br-tree-p27" data-pptx-placeholder="body" data-pptx-idx="27" data-pptx-bounds="90 1106 320 70"><text x="90" y="1122.72" fill="#5F6E79" font-size="19" font-family="Georgia" data-pptx-carrier="true">that re-open settled decisions</text></g>
+<g id="br-tree-p28" data-pptx-placeholder="body" data-pptx-idx="28" data-pptx-bounds="460 1022 100 100.80000000000001"><text x="460" y="1084" fill="#E3120B" font-size="56" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">14</text></g>
+<g id="br-tree-p29" data-pptx-placeholder="body" data-pptx-idx="29" data-pptx-bounds="560 1038 250 38.25"><text x="560" y="1060" fill="#5F6E79" font-size="15" font-weight="bold" letter-spacing="1.4" data-pptx-carrier="true">APPROVAL GATES</text></g>
+<g id="br-tree-p30" data-pptx-placeholder="body" data-pptx-idx="30" data-pptx-bounds="460 1106 320 70"><text x="460" y="1122.72" fill="#5F6E79" font-size="19" font-family="Georgia" data-pptx-carrier="true">between concept and shipment</text></g>
+<g id="br-tree-p31" data-pptx-placeholder="body" data-pptx-idx="31" data-pptx-bounds="830 1022 100 100.80000000000001"><text x="830" y="1084" fill="#E3120B" font-size="56" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">23</text></g>
+<g id="br-tree-p32" data-pptx-placeholder="body" data-pptx-idx="32" data-pptx-bounds="930 1038 250 38.25"><text x="930" y="1060" fill="#5F6E79" font-size="15" font-weight="bold" letter-spacing="1.4" data-pptx-carrier="true">DAYS OF DELAY</text></g>
+<g id="br-tree-p33" data-pptx-placeholder="body" data-pptx-idx="33" data-pptx-bounds="830 1106 320 70"><text x="830" y="1122.72" fill="#5F6E79" font-size="19" font-family="Georgia" data-pptx-carrier="true">added to every single launch</text></g>
+<rect id="br-tree-d29" data-pptx-role="decoration" x="0" y="1244" width="1240" height="260" fill="#071C2C"/>
+<g id="br-tree-p34" data-pptx-placeholder="body" data-pptx-idx="34" data-pptx-bounds="90 1280 420 40.25"><text x="90" y="1304" fill="#00A9F4" font-size="15" font-weight="bold" letter-spacing="2.2" data-pptx-carrier="true">THE IMPLICATION</text></g>
+<g id="br-tree-p35" data-pptx-placeholder="body" data-pptx-idx="35" data-pptx-bounds="90 1318 760 80"><text x="90" y="1368" fill="#FFFFFF" font-size="36" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">One owner. Two gates. One cadence.</text></g>
+<g id="br-tree-p36" data-pptx-placeholder="body" data-pptx-idx="36" data-pptx-bounds="90 1388 780 90"><text x="90" y="1405.6" fill="#C8D5DE" font-size="20" font-family="Georgia" data-pptx-carrier="true">Move authority to a single launch owner, cut the gate sequence to two<tspan x="90" dy="29">decision points, and publish the date the owner has committed to.</tspan></text></g>
+<g id="br-tree-p37" data-pptx-placeholder="body" data-pptx-idx="37" data-pptx-bounds="900 1314 220 117.6"><text x="1120" y="1384" fill="#00A9F4" font-size="72" font-family="Georgia" font-weight="bold" text-anchor="end" data-pptx-carrier="true">1</text></g>
+<g id="br-tree-p38" data-pptx-placeholder="body" data-pptx-idx="38" data-pptx-bounds="900 1396 220 40.25"><text x="1120" y="1420" fill="#9FB1BE" font-size="15" font-weight="bold" letter-spacing="1.6" text-anchor="end" data-pptx-carrier="true">OWNER</text></g>
+<line id="br-tree-d30" data-pptx-role="decoration" x1="90" y1="1638" x2="1150" y2="1638" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-tree-p39" data-pptx-placeholder="body" data-pptx-idx="39" data-pptx-bounds="90 1648 920 39.7"><text x="90" y="1672" fill="#5F6E79" font-size="14" letter-spacing="1.0" data-pptx-carrier="true">ILLUSTRATIVE ISSUE TREE · COUNTS ARE DEMONSTRATION DATA</text></g>
+<g id="br-tree-p40" data-pptx-placeholder="body" data-pptx-idx="40" data-pptx-bounds="90 1682 920 37.15"><text x="90" y="1704" fill="#5F6E79" font-size="13" letter-spacing="0.8" data-pptx-carrier="true">ILLUSTRATIVE EXHIBIT / DEMONSTRATION DATA</text></g>
+<g id="br-tree-p41" data-pptx-placeholder="slide-number" data-pptx-idx="41" data-pptx-bounds="1040 1648 110 42.8"><text x="1150" y="1674" fill="#5F6E79" font-size="16" font-weight="bold" text-anchor="end" data-pptx-carrier="true">07</text></g>
+</svg>

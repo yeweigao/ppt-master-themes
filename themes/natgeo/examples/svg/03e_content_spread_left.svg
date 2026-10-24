@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-spread-left" data-pptx-layout-name="Panorama — left">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8" />
+  <g id="panorama" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1240"><svg data-pptx-carrier="true" x="0" y="0" width="1240" height="1240" viewBox="0 0.125066952330 0.5 0.749866095340" preserveAspectRatio="none" overflow="hidden"><image x="0" y="0" width="1" height="1" preserveAspectRatio="none" href="../images/lake.jpg" /></svg></g>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 1300 1000 45"><text data-pptx-carrier="true" x="100" y="1324" fill="#5C5C5C" font-size="18" letter-spacing="2" font-family="Arial Narrow, Arial">05  /  A WIDER PERSPECTIVE</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1382 1000 230"><text letter-spacing="-1.5" data-pptx-carrier="true" x="100" y="1463.6" fill="#111111" font-size="100" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Let the landscape<tspan x="100" dy="116.0">open the story.</tspan></text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="4" data-pptx-bounds="100 1640 100 50"><text data-pptx-carrier="true" x="100" y="1665" fill="#5C5C5C" font-size="18">7</text></g>
+</svg>

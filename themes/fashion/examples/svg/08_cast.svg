@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" lang="en-GB" font-family="Archivo" data-pptx-page-role="content">
+<rect id="bg-fill" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#F6F4EF"/>
+<g id="masthead" data-pptx-role="decoration" data-pptx-bounds="88 40 1064 56"><line x1="88" y1="92" x2="1152" y2="92" stroke="#D9D5CB" stroke-width="1"/><text x="88" y="70" font-family="Archivo" font-size="16" fill="#0A0A0A" font-weight="bold" letter-spacing="2.8">MAISON 170</text><text x="1152" y="70" font-family="Archivo" font-size="15" fill="#0A0A0A" font-weight="bold" letter-spacing="2.4" text-anchor="end">THE CAST</text><text x="1152" y="84" font-family="Archivo" font-size="14" fill="#0A0A0A" letter-spacing="2.0" text-anchor="end">08 / 11</text></g>
+<text x="88" y="238" font-family="Bodoni Moda" font-size="86" fill="#0A0A0A" font-weight="bold" letter-spacing="-1.4">THE CAST</text>
+<text x="1152" y="208" font-family="Six Caps" font-size="34" fill="#1710CC" letter-spacing="4.0" text-anchor="end">170 FACES</text>
+<text x="1152" y="234" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="2.0" text-anchor="end">FOUR CITIES / ONE LENS</text>
+<line x1="88" y1="278" x2="1152" y2="278" stroke="#0A0A0A" stroke-width="1"/>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-a" data-pptx-role="decoration">
+<image id="a-photo-1" data-pptx-role="decoration" href="../images/_cast_man.jpg" x="88" y="320" width="248" height="330" preserveAspectRatio="xMidYMid slice"/>
+<rect id="a-card" data-pptx-role="decoration" x="88" y="650" width="248" height="210" fill="#FFFFFF" fill-opacity="1.0"/>
+<rect x="88" y="650" width="248" height="210" fill="none" stroke="#D9D5CB" stroke-width="1"/>
+</g>
+<text x="112" y="716" font-family="Bodoni Moda" font-size="64" fill="#1710CC" font-weight="bold" letter-spacing="-2">04</text>
+<text x="112" y="746" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="2.2">CITIES</text>
+<text x="112" y="766" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">LONDON / NEW YORK</text>
+<text x="112" y="784" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">SEOUL / SHANGHAI</text>
+<line x1="112" y1="806" x2="312" y2="806" stroke="#D9D5CB" stroke-width="1"/>
+<text x="112" y="830" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.4">PORTRAIT 01 / 170</text>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-a-photo-2" data-pptx-role="decoration">
+<image id="a-photo-2" data-pptx-role="decoration" href="../images/_cast_updo.jpg" x="88" y="880" width="248" height="390" preserveAspectRatio="xMidYMid slice"/>
+</g>
+<text x="88" y="1300" font-family="Archivo" font-size="15" fill="#77736B" letter-spacing="0.2">A cast is an argument</text>
+<text x="88" y="1316" font-family="Archivo" font-size="15" fill="#77736B" letter-spacing="0.2">about who belongs.</text>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-b" data-pptx-role="decoration">
+<image id="b-photo-1" data-pptx-role="decoration" href="../images/_cast_bw.jpg" x="360" y="320" width="248" height="410" preserveAspectRatio="xMidYMid slice"/>
+<rect id="b-block" data-pptx-role="decoration" x="360" y="746" width="248" height="160" fill="#1710CC" fill-opacity="0.55"/>
+</g>
+<text x="384" y="790" font-family="Six Caps" font-size="36" fill="#FFFFFF" letter-spacing="4.0">THE CAST</text>
+<text x="384" y="826" font-family="Six Caps" font-size="36" fill="#FFFFFF" letter-spacing="4.0">IS THE CAMPAIGN</text>
+<line x1="384" y1="846" x2="584" y2="846" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.55"/>
+<text x="384" y="870" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="1.8">ALPHA 55%</text>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-b-photo-2" data-pptx-role="decoration">
+<image id="b-photo-2" data-pptx-role="decoration" href="../images/_cast_shirt.jpg" x="360" y="922" width="248" height="350" preserveAspectRatio="xMidYMid slice"/>
+</g>
+<text x="360" y="1300" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="1.8">LONDON / 07:10</text>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-c" data-pptx-role="decoration">
+<rect id="c-type" data-pptx-role="decoration" x="632" y="320" width="248" height="196" fill="#0A0A0A" fill-opacity="1.0"/>
+</g>
+<text x="656" y="384" font-family="Bodoni Moda" font-size="52" fill="#FFFFFF" font-weight="bold" letter-spacing="-1">TEN</text>
+<text x="656" y="432" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.2">SILHOUETTES</text>
+<text x="656" y="456" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.7">CUT, CLOTH, POSTURE.</text>
+<text x="656" y="480" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" fill-opacity="0.7">NOTHING ELSE.</text>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-c-photo" data-pptx-role="decoration">
+<image id="c-photo-1" data-pptx-role="decoration" href="../images/_cast_neutral.jpg" x="632" y="532" width="248" height="520" preserveAspectRatio="xMidYMid slice"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-c-photo-2" data-pptx-role="decoration">
+<image id="c-photo-2" data-pptx-role="decoration" href="../images/_cast_dark.jpg" x="632" y="1068" width="248" height="234" preserveAspectRatio="xMidYMid slice"/>
+<rect x="632" y="1068" width="248" height="234" fill="#1710CC" fill-opacity="0.28"/>
+</g>
+<text x="632" y="1320" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="1.8">SEOUL / 18:20</text>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-d" data-pptx-role="decoration">
+<image id="d-photo-1" data-pptx-role="decoration" href="../images/_coat.jpg" x="904" y="320" width="248" height="370" preserveAspectRatio="xMidYMid slice"/>
+<rect id="d-card" data-pptx-role="decoration" x="904" y="706" width="248" height="220" fill="#FFFFFF" fill-opacity="1.0"/>
+<rect x="904" y="706" width="248" height="220" fill="none" stroke="#D9D5CB" stroke-width="1"/>
+</g>
+<text x="928" y="792" font-family="Bodoni Moda" font-size="72" fill="#1710CC" font-weight="bold" letter-spacing="-2">170</text>
+<text x="928" y="822" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="2.2">PORTRAITS</text>
+<text x="928" y="842" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">PHOTOGRAPHED WITHOUT</text>
+<text x="928" y="858" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">HIERARCHY OR RETOUCH</text>
+<line x1="928" y1="878" x2="1128" y2="878" stroke="#D9D5CB" stroke-width="1"/>
+<text x="928" y="902" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.4">SERIES 2026</text>
+<g data-pptx-bounds="0 0 1240 1754" id="cast-d-photo-2" data-pptx-role="decoration">
+<image id="d-photo-2" data-pptx-role="decoration" href="../images/_street.jpg" x="904" y="946" width="248" height="300" preserveAspectRatio="xMidYMid slice"/>
+<rect x="904" y="946" width="248" height="300" fill="#1710CC" fill-opacity="0.18"/>
+</g>
+<text x="904" y="1290" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="1.8">SHANGHAI / 12:05</text>
+<line x1="88" y1="1350" x2="1152" y2="1350" stroke="#D9D5CB" stroke-width="1"/>
+<text x="88" y="1384" font-family="Bodoni Moda" font-size="22" fill="#0A0A0A">Seventeen decades, one idea:</text>
+<text x="88" y="1416" font-family="Bodoni Moda" font-size="22" fill="#0A0A0A">the person completes the clothes.</text>
+<text x="1152" y="1390" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="1.8" text-anchor="end">PHOTOGRAPHY / FREE EDITORIAL USE</text>
+<text x="1152" y="1408" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.8" text-anchor="end">UNSPLASH LICENSE</text>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="88 1640 1064 50"><line x1="88" y1="1652" x2="1152" y2="1652" stroke="#77736B" stroke-width="1" stroke-opacity="0.35"/><text x="88" y="1682" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="2.6">FASHION 170 — A GLOBAL CAST</text><text x="1152" y="1682" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="2.4" text-anchor="end">08</text></g>
+</svg>

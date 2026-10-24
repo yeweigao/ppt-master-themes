@@ -58,8 +58,8 @@ files={}
 for folder in ['public/layouts/rendered','public/layouts/structure','public/downloads']:
     for path in sorted((ROOT/folder).glob('*')):
         if path.is_file(): files[path.relative_to(ROOT/'public').as_posix()]=sha256(path.read_bytes()).hexdigest()
-record={'reviewed_on':'2026-10-20','scope':'Publication examples and downloads',
-    'manual_visual_review':'Seven source landscapes, all 24 SVG previews, and the exported native PDF contact sheet inspected; no visible people.',
+record={'reviewed_on':'2026-10-24','scope':'Publication examples, downloads, and homepage theme spreads',
+    'manual_visual_review':'Seven CC0 source landscapes; all 33 published layout previews and their structure previews; the eight-page fictional OSTRA brand study; the 24-page exported native PDF contact sheet; and the four homepage theme spreads inspected. Landscape layouts contain no visible people. The Fashion theme spread uses licensed Unsplash portraits (not CC0) and is labeled as such on the credits page and footer.',
     'automated_checks':{'only_approved_landscapes_or_neutral_pixels':True,'source_images_no_exif':True,'no_stale_or_private_strings_in_office_xml_or_pdf_text':True,'pdf_pages':len(doc),'pdf_size_mm':[210,297]},
     'decks':decks,'files':files}
 if args.record:

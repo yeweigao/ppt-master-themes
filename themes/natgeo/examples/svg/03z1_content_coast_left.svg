@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-coast-left" data-pptx-layout-name="Coastal Panorama — left">
+  <defs>
+    <linearGradient id="coast-top" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0.55"/><stop offset="0.45" stop-color="#0A0A0A" stop-opacity="0.18"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/></linearGradient>
+    <linearGradient id="coast-bottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0"/><stop offset="0.4" stop-color="#0A0A0A" stop-opacity="0.48"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.92"/></linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8"/>
+  <g id="panorama" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><svg data-pptx-carrier="true" x="0" y="0" width="1240" height="1754" viewBox="0 0.02857 0.5 0.94286" preserveAspectRatio="none" overflow="hidden"><image x="0" y="0" width="1" height="1" preserveAspectRatio="none" href="../images/horizon.jpg"/></svg></g>
+  <rect id="photo-veil" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="#0A0A0A" fill-opacity="0.16"/>
+  <rect id="photo-shade-top" data-pptx-role="decoration" x="0" y="0" width="1240" height="820" fill="url(#coast-top)"/>
+  <rect id="photo-shade-bottom" data-pptx-role="decoration" x="0" y="860" width="1240" height="894" fill="url(#coast-bottom)"/>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 900 44"><text data-pptx-carrier="true" x="100" y="124" fill="#FFFFFF" font-size="18" letter-spacing="2.4" font-family="Arial Narrow, Arial">FIELD REPORT 10  /  THE COAST</text></g>
+  <g id="folio-display" data-pptx-bounds="660 212 480 396"><text letter-spacing="-10" x="700" y="500" fill="#FFE500" font-size="300" font-weight="bold" font-family="Arial">10</text></g>
+  <rect id="title-rule" data-pptx-role="decoration" x="100" y="1140" width="120" height="6" fill="#FFE500"/>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1168 1000 280"><text letter-spacing="-1.5" data-pptx-carrier="true" x="100" y="1272" fill="#FFFFFF" font-size="100" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Where the<tspan x="100" dy="112">land ends.</tspan></text></g>
+  <g id="subtitle" data-pptx-bounds="100 1480 800 100"><text x="100" y="1514" fill="#FFFFFF" font-size="30">A shoreline is a record of what<tspan x="100" dy="45">the water leaves behind.</tspan></text></g>
+  <g id="credit" data-pptx-bounds="100 1630 1040 50"><text x="100" y="1655" fill="#FFFFFF" font-size="18" letter-spacing="2" font-family="Arial Narrow, Arial">PHOTO: HOMMIE09 / CC0 1.0 / CONTINUOUS SPREAD — LEFT</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="4" data-pptx-bounds="1040 1690 100 44"><text data-pptx-carrier="true" x="1080" y="1716" fill="#FFFFFF" font-size="18">28</text></g>
+</svg>

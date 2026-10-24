@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="OSTRA fictional identity mark, reversed">
+  <title>OSTRA / The Open Frame — reversed</title>
+  <g fill="#FFFFFF">
+    <path d="M0 0H200V100H100V200H0Z"/>
+    <path d="M600 0V200H500V100H400V0Z"/>
+    <path d="M600 600H400V500H500V400H600Z"/>
+    <path d="M0 600V400H100V500H200V600Z"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-coast-right" data-pptx-layout-name="Coastal Panorama — right">
+  <defs>
+    <linearGradient id="coast-top-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0.55"/><stop offset="0.45" stop-color="#0A0A0A" stop-opacity="0.18"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0"/></linearGradient>
+    <linearGradient id="coast-bottom-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0"/><stop offset="0.4" stop-color="#0A0A0A" stop-opacity="0.48"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.92"/></linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8"/>
+  <g id="panorama" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><svg data-pptx-carrier="true" x="0" y="0" width="1240" height="1754" viewBox="0.5 0.02857 0.5 0.94286" preserveAspectRatio="none" overflow="hidden"><image x="0" y="0" width="1" height="1" preserveAspectRatio="none" href="../images/horizon.jpg"/></svg></g>
+  <rect id="photo-veil" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="#0A0A0A" fill-opacity="0.16"/>
+  <rect id="photo-shade-top" data-pptx-role="decoration" x="0" y="0" width="1240" height="820" fill="url(#coast-top-r)"/>
+  <rect id="photo-shade-bottom" data-pptx-role="decoration" x="0" y="860" width="1240" height="894" fill="url(#coast-bottom-r)"/>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 900 44"><text data-pptx-carrier="true" x="100" y="124" fill="#FFFFFF" font-size="18" letter-spacing="2.4" font-family="Arial Narrow, Arial">THE COAST  /  CONTINUED</text></g>
+  <rect id="reading-panel" data-pptx-role="decoration" x="140" y="960" width="960" height="560" fill="#F7F3E8" fill-opacity="0.96"/>
+  <rect id="panel-rule" data-pptx-role="decoration" x="140" y="960" width="960" height="6" fill="#FFE500"/>
+  <g id="panel-title" data-pptx-bounds="190 1000 860 200"><text letter-spacing="-1" x="190" y="1100" fill="#111111" font-size="64" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">A coastline is<tspan x="190" dy="72">never finished.</tspan></text></g>
+  <g id="panel-copy-left" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="190 1200 400 250"><text data-pptx-carrier="true" x="190" y="1230" fill="#111111" font-size="22">The line between water and land<tspan x="190" dy="33">is never fixed. Tide, weather and</tspan><tspan x="190" dy="33">time redraw it daily, leaving a</tspan><tspan x="190" dy="33">record that is read in layers.</tspan><tspan x="190" dy="33">Begin at the edge, then look back.</tspan></text></g>
+  <g id="panel-copy-right" data-pptx-bounds="650 1200 400 250"><text x="650" y="1230" fill="#111111" font-size="22">Look for the small evidence: a<tspan x="650" dy="33">strand line, a changed edge, a</tspan><tspan x="650" dy="33">surface that holds the sky. The</tspan><tspan x="650" dy="33">coast asks for patience, not</tspan><tspan x="650" dy="33">certainty. Return at another hour.</tspan></text></g>
+  <g id="credit" data-pptx-bounds="100 1630 1040 50"><text x="100" y="1655" fill="#FFFFFF" font-size="18" letter-spacing="2" font-family="Arial Narrow, Arial">PHOTO: HOMMIE09 / CC0 1.0 / CONTINUOUS SPREAD — RIGHT</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="4" data-pptx-bounds="1040 1690 100 44"><text data-pptx-carrier="true" x="1080" y="1716" fill="#FFFFFF" font-size="18">29</text></g>
+</svg>

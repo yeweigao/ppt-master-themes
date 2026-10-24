@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-atelier" data-pptx-layout-name="Offset manifesto, framed portrait and sliced display">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <path id="sliced-monolith-bars" data-pptx-layer="layout" data-pptx-editable="false" d="M 608 800 H 652 V 1360 H 608 Z M 672 800 H 716 V 1480 H 672 Z M 736 800 H 780 V 1480 H 736 Z M 800 800 H 844 V 980 H 800 Z M 864 800 H 908 V 1040 H 864 Z M 928 800 H 972 V 1040 H 928 Z M 992 800 H 1036 V 1060 H 992 Z M 1056 800 H 1100 V 1480 H 1056 Z M 1112 800 H 1140 V 1420 H 1112 Z M 608 1495 H 660 V 1560 H 608 Z M 684 1505 H 772 V 1560 H 684 Z M 992 1495 H 1084 V 1560 H 992 Z" fill="#20262A"/>
+  <rect id="counter-form-glaze" data-pptx-layer="layout" data-pptx-editable="false" x="720" y="990" width="240" height="380" fill="#18202C" fill-opacity="0.38"/>
+  <path id="counter-form-accent" data-pptx-layer="layout" data-pptx-editable="false" d="M 780 1050 H 1048 V 1475 H 780 Z" fill="#18202C" fill-opacity="0.86"/>
+  <path id="counter-form-cutout" data-pptx-layer="layout" data-pptx-editable="false" d="M 852 1110 C 895 1095 955 1120 978 1175 C 995 1215 970 1265 928 1285 L 996 1415 H 932 L 882 1305 H 848 V 1415 H 800 V 1165 Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <rect id="slice-seam-1" data-pptx-layer="layout" data-pptx-editable="false" x="600" y="950" width="540" height="76" fill="#FFFFFF" fill-opacity="0.92"/>
+  <rect id="slice-seam-2" data-pptx-layer="layout" data-pptx-editable="false" x="600" y="1420" width="540" height="64" fill="#FFFFFF" fill-opacity="0.92"/>
+  <line id="horizon-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="764" x2="1140" y2="764" stroke="#C8CCCF" stroke-width="1"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 220 80"><text data-pptx-carrier="true" x="100" y="126" fill="#20262A" font-size="18" font-weight="bold" letter-spacing="2">{{SECTION_NAME}}</text></g>
+  <g id="index-nav" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="880 100 260 120"><text data-pptx-carrier="true" x="880" y="122" fill="#62696D" font-size="16" letter-spacing="1">{{SUBTITLE}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="340 160 760 400"><text data-pptx-carrier="true" x="340" y="230" fill="#18202C" font-size="56" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="source" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="460 660 680 90"><text data-pptx-carrier="true" x="460" y="688" fill="#62696D" font-size="16" letter-spacing="1">{{SOURCE}}</text></g>
+  <g id="photo" data-pptx-placeholder="picture" data-pptx-idx="5" data-pptx-bounds="100 800 460 760"><image data-pptx-carrier="true" x="100" y="800" width="460" height="760" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
+  <rect id="photo-interlock-pane" data-pptx-role="decoration" x="480" y="760" width="160" height="140" fill="#18202C" fill-opacity="0.28"/>
+  <rect id="photo-frame" data-pptx-role="decoration" x="100" y="800" width="460" height="760" fill="none" stroke="#20262A" stroke-width="8"/>
+  <g id="display-figure" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="608 954 532 84"><text data-pptx-carrier="true" x="614" y="1008" fill="#18202C" font-size="60" font-weight="bold" letter-spacing="8">{{KEY_MESSAGE}}</text></g>
+  <g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="608 1428 520 56"><text data-pptx-carrier="true" x="614" y="1460" fill="#20262A" font-size="20" font-weight="bold" letter-spacing="2">{{CONTENT_AREA}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="8" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#62696D" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>

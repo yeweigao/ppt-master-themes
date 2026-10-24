@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-chapter" data-pptx-layout-name="Photographic chapter">
+  <defs><linearGradient id="chapter-shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0" /><stop offset="1" stop-color="#000000" stop-opacity="0.8" /></linearGradient></defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8" />
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/lake.jpg" /></g>
+  <rect id="photo-shade" data-pptx-role="decoration" x="0" y="700" width="1240" height="1054" fill="url(#chapter-shade)" />
+  <g id="chapter-number" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 78 1040 246"><text data-pptx-carrier="true" x="100" y="240" fill="#FFE500" font-size="180">02</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1106 1040 356"><text letter-spacing="-1.5" data-pptx-carrier="true" x="100" y="1192" fill="#FFFFFF" font-size="108" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Look closer.<tspan x="100" dy="116">Ask better</tspan><tspan x="100" dy="116">questions.</tspan></text></g>
+  <g id="description" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 1516 850 160"><text data-pptx-carrier="true" x="100" y="1552" fill="#FFFFFF" font-size="28">Every place has a story.<tspan x="100" dy="42">Start by learning how to see it.</tspan></text></g>
+</svg>

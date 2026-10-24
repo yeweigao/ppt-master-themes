@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-gallery" data-pptx-layout-name="Three-photo essay">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8" />
+  <g id="photo-wide" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 740"><image data-pptx-carrier="true" x="0" y="0" width="1240" height="740" preserveAspectRatio="xMidYMid slice" href="../images/lake.jpg" /></g>
+  <g id="photo-left" data-pptx-placeholder="picture" data-pptx-idx="2" data-pptx-bounds="0 780 600 500"><image data-pptx-carrier="true" x="0" y="780" width="600" height="500" preserveAspectRatio="xMidYMid slice" href="../images/horizon.jpg" /></g>
+  <g id="photo-right" data-pptx-placeholder="picture" data-pptx-idx="3" data-pptx-bounds="640 780 600 500"><image data-pptx-carrier="true" x="640" y="780" width="600" height="500" preserveAspectRatio="xMidYMid slice" href="../images/waterfall.jpg" /></g>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="4" data-pptx-bounds="100 1352 1040 94"><text letter-spacing="-1.5" data-pptx-carrier="true" x="100" y="1418.6" fill="#111111" font-size="80" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Many ways of seeing.</text></g>
+  <g id="lead" data-pptx-placeholder="subtitle" data-pptx-idx="5" data-pptx-bounds="100 1470 1040 90"><text data-pptx-carrier="true" x="100" y="1500" fill="#111111" font-size="26">Water, shorelines and horizons.<tspan x="100" dy="39">Three landscapes offer different scales of attention.</tspan></text></g>
+  <g id="source" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1610 850 70"><text data-pptx-carrier="true" x="100" y="1634" fill="#5C5C5C" font-size="18">PHOTOS: BONNIE MORELAND / HOMMIE09 / MARTIN EKLUND. CC0 1.0.</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#5C5C5C" font-size="18">11</text></g>
+</svg>

@@ -40,8 +40,8 @@ export async function checkSite(root) {
     }
   }
   const manifest = JSON.parse(await readFile(join(root, 'layouts/manifest.json'), 'utf8'));
-  assert.equal(manifest.items.length, 24, 'Expected the published 24-layout collection');
-  assert.equal(new Set(manifest.items.map(item => item.id)).size, 24, 'Duplicate layout ids');
+  assert.equal(manifest.items.length, 33, 'Expected the published 33-layout collection');
+  assert.equal(new Set(manifest.items.map(item => item.id)).size, 33, 'Duplicate layout ids');
   for (const item of manifest.items) {
     for (const key of ['image', 'structure']) {
       assert.ok(item[key].startsWith('/layouts/'), `${item.id}: media must use a portable public URL`);
@@ -68,6 +68,6 @@ export async function checkSite(root) {
   assert.equal(sources.photographs.length,7);
   assert.ok(sources.photographs.every(photo=>photo.license==='CC0-1.0'&&photo.visual_review));
   assert.equal(errors.length, 0, errors.join('\n'));
-  console.log(`Site check passed: ${links} local links, 24 distinct layouts and 48 preview assets.`);
+  console.log(`Site check passed: ${links} local links, 33 distinct layouts and 73 preview assets.`);
 }
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) await checkSite(join(website, 'dist'));

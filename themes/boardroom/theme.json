@@ -1,0 +1,123 @@
+{
+  "schema": "ppt-master-themes/theme-v1",
+  "id": "boardroom",
+  "name": "Boardroom Editorial",
+  "name_zh": "董事会编辑",
+  "summary": "Consulting-grade strategy review with an editorial voice: action titles, issue trees, waterfalls, portfolio bubbles and a typographic scoreboard on warm paper, disciplined by navy, cyan and Economist red. Serif display and body for argument; tracked sans for evidence, owners and dates. Data graphics sit directly on the page ground with hairline axes and direct labels — no dashboard cards, no white plot plates, no line-plus-colour-block modules.",
+  "tested_with_ppt_master": [
+    "6.7.3"
+  ],
+  "style_workspace": "workspace",
+  "style_spec": "workspace/templates/design_spec.style.boardroom-strategy.md",
+  "recipes": "recipes.md",
+  "examples": "examples",
+  "stage2_seeds": {
+    "mode": "custom",
+    "mode_references": [
+      "showcase"
+    ],
+    "mode_behavior": "Argument-led showcase pacing for a board or leadership review: one action title per page, evidence directly under it, and a clear turn from diagnosis to choice to commitment. The sequence normally runs situation, complication, diagnosis, options, recommendation, roadmap, scorecard, decision. Adapt order only when the source material or the meeting demands it; never decorate a decision page into a generic slide deck.",
+    "visual_style": "custom",
+    "visual_style_references": [
+      "editorial",
+      "data-journalism"
+    ],
+    "visual_style_behavior": "McKinsey-grade structural discipline joined to The Economist's editorial voice and Swiss International Typographic Scale. Sans-serif tracked capitals carry evidence, owners, dates and kickers; Georgia carries the action title, the lead deck, the essay and the pull quote. Navy is the decision ground, cyan the recommended path or progress, Economist red the risk, the exit or the negative move. Charts and diagrams sit transparently on the paper or navy field: hairline rules, direct labels, no card containers, no white plot plates, no gauges, no KPI tiles, no line-plus-colour-block modules. Resolve the real exhibit from the relationship — change, bridge, position, range, sequence, portfolio — and keep units, period, baseline and source adjacent to the title. Tables use open horizontal rules and right-aligned numbers. Photographs are optional and restrained: a single atmospheric image may open or close the document, but evidence pages stay typographic.",
+    "image_rendering": "corporate-photo"
+  },
+  "colors": {
+    "background": "#F7F5F0",
+    "secondary_bg": "#071C2C",
+    "primary": "#071C2C",
+    "accent": "#00A9F4",
+    "secondary_accent": "#E3120B",
+    "body_text": "#12232F",
+    "secondary_text": "#5F6E79",
+    "divider": "#D5DCE1"
+  },
+  "contextual_paint": {
+    "paper": "#F7F5F0",
+    "navy": "#071C2C",
+    "pale": "#E9EEF1",
+    "on_dark_text": "#FFFFFF",
+    "on_dark_secondary": "#C8D5DE",
+    "rule": "#D5DCE1",
+    "steel": "#8FA3B0"
+  },
+  "typography": {
+    "font_family": "Arial, Helvetica, sans-serif",
+    "title_family": "Georgia, \"Times New Roman\", serif",
+    "body_family": "Georgia, \"Times New Roman\", serif",
+    "kicker_family": "Arial, Helvetica, sans-serif",
+    "svg_stacks": {
+      "title": "Georgia, 'Times New Roman', serif",
+      "body": "Georgia, 'Times New Roman', serif",
+      "analytic": "Arial",
+      "kicker": "Arial"
+    },
+    "ladders": {
+      "a4": {
+        "annotation": 14,
+        "caption": 16,
+        "body": 22,
+        "lead": 28,
+        "heading_sm": 36,
+        "title": 56,
+        "display": 76,
+        "hero": 120
+      },
+      "ppt169": {
+        "annotation": 12,
+        "caption": 14,
+        "body": 18,
+        "lead": 22,
+        "heading_sm": 28,
+        "title": 44,
+        "display": 60,
+        "hero": 96
+      }
+    },
+    "tracking_em": {
+      "kicker": 0.2,
+      "running_header": 0.16,
+      "numeric_label": 0.12
+    },
+    "leading": {
+      "body": 1.48,
+      "lead": 1.42,
+      "display": 1.16,
+      "annotation": 1.35
+    },
+    "ladder_note": "Calibrated for physical A4 print (210 x 297 mm = 595.28 x 841.89 pt on the 1240 x 1754 authoring canvas, where 1 SVG unit = 0.48 pt). At A4 print: annotation 14 = 6.7 pt (physical floor; never drop below 14 on A4), caption/kicker/chart-label 16 = 7.7 pt, compact card/table body 20 = 9.6 pt, sustained essay body 22-24 = 10.6-11.5 pt, lead deck 28 = 13.4 pt (distinct step above body), subhead/decision statement 36 = 17.3 pt, action title 56 = 26.9 pt, big evidence numeral 76 = 36.5 pt, cover hero 120-128 = 57.6-61.4 pt."
+  },
+  "fonts": [],
+  "postexport": {
+    "embed_fonts": false,
+    "render_check": "Verify Georgia and Arial in the delivered file; both are normally present on the authoring and presentation machines."
+  },
+  "mirror": {
+    "html_font_map": {
+      "Georgia": "title",
+      "Arial": "analytic",
+      "Noto Serif CJK SC": "title",
+      "Noto Sans CJK SC": "analytic"
+    }
+  },
+  "design_defaults": [
+    "每一页先用一句行动标题说出结论，再让导语（Lead）与证据、图表或表格紧随其下；阅读动线严格匹配信息重要顺序（行动标题 → 导语 → 核心证据/直接标注 → 决策结论带 → 来源注记）。",
+    "基于 A4 物理印刷尺度（1240×1754 画布上 1 单位 ≈ 0.48 pt）与瑞士国际主义字号阶梯规划：A4 注释/刻度绝不低于 14px（6.7 pt），图表直标与小标 16–18px Bold，模块内文 20px，双栏正文 22–24px Regular，导语 28px（显著大于正文），行动标题 54–58px Bold。",
+    "字重分工克制明确：Bold 只赋予行动标题、模块主标、关键证据数字、图表直标与大写导引（Kicker/表头）；所有连续阅读段落（导语、论述正文、卡片解释）一律使用 Regular，摘句使用 Italic。",
+    "结构按“情境 → 冲突 → 诊断 → 选择 → 建议 → 路线 → 记分 → 决策”组织；页序服务于会议，不服务于模板。",
+    "图表直接落在纸面或深色底场上：无白色绘图板、无卡片、无外框；坐标与网格只用发丝线，系列在末端直接标注，不用色块图例。",
+    "拒绝仪表盘模块：不用 KPI 卡片、线＋彩块、进度胶囊、圆环、阴影、渐变或 3D；记分页是数字、负责人、日期与一条进度刻度的排版账本。",
+    "柱只表达同一基线的量级；瀑布只在“桥接”本身是论点时使用；点、气泡、范围线必须逐个清晰标注（16px Bold）；单位、期间、基线与来源贴近图表标题。",
+    "语义色固定：navy 为基准与决策，cyan 为推荐路径与进度，Economist red 为风险、退出与负向变化，steel 为次级证据；一页一个强调色。",
+    "Georgia 承担行动标题、导语、论述与引语；Arial 以宽字距承担 kicker、数值、负责人、日期与图注；两者角色不互换。",
+    "表格默认开放式横线：无竖线、无外框，数字右对齐，单位写在表头；原生单元格边框与可见样式一致。",
+    "照片只用一张开场和一张收束，作为气氛而非证据；数据页保持排版化，不用图库照片填空。",
+    "示例数据必须标注为 illustrative；不编造精确数字、折扣、条款或承诺。"
+  ],
+  "compatibility_reviewed_with": [
+    "6.7.3"
+  ]
+}

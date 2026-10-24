@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" lang="en-GB" font-family="Archivo" data-pptx-page-role="ending">
+<rect id="bg-fill" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#1710CC"/>
+<image id="close-photo" data-pptx-role="background" href="../images/_mask.jpg" x="600" y="0" width="640" height="1754" preserveAspectRatio="xMidYMid slice"/>
+<rect x="600" y="0" width="640" height="1754" fill="#1710CC" fill-opacity="0.18"/>
+<rect id="seam-column" data-pptx-role="decoration" x="560" y="0" width="160" height="1754" fill="#1710CC" fill-opacity="0.5"/>
+<rect id="top-veil" data-pptx-role="decoration" x="0" y="0" width="1240" height="96" fill="#0A0A0A" fill-opacity="0.26"/>
+<g data-pptx-bounds="0 0 1240 1754" id="close-overprint" data-pptx-role="decoration">
+<rect x="0" y="0" width="600" height="1754" fill="#1710CC" fill-opacity="0.1"/>
+<rect id="ink-block" data-pptx-role="decoration" x="88" y="1130" width="472" height="240" fill="#0A0A0A" fill-opacity="0.16"/>
+</g>
+<g id="masthead" data-pptx-role="decoration" data-pptx-bounds="88 40 1064 56"><line x1="88" y1="92" x2="1152" y2="92" stroke="#FFFFFF" stroke-width="1"/><text x="88" y="70" font-family="Archivo" font-size="16" fill="#FFFFFF" font-weight="bold" letter-spacing="2.8">MAISON 170</text><text x="1152" y="70" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4" text-anchor="end">CLOSING</text><text x="1152" y="84" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0" text-anchor="end">11 / 11</text></g>
+<text x="88" y="590" font-family="Bodoni Moda" font-size="100" fill="#FFFFFF" font-weight="bold" letter-spacing="-2">A GLOBAL</text>
+<text x="78" y="820" font-family="Bodoni Moda" font-size="240" fill="#FFFFFF" font-weight="bold" letter-spacing="-6">CAST</text>
+<line x1="88" y1="862" x2="620" y2="862" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.55"/>
+<text x="88" y="900" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2">170 people. Four cities. Ten silhouettes.</text>
+<text x="88" y="924" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2">One archive, photographed without hierarchy.</text>
+<text x="88" y="980" font-family="Bodoni Moda" font-size="24" fill="#FFFFFF">The portrait is the campaign.</text>
+<text x="88" y="1180" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6">170 PEOPLE</text>
+<text x="88" y="1200" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6">FOUR CITIES</text>
+<text x="88" y="1220" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6">TEN SILHOUETTES</text>
+<text x="88" y="1240" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6">ONE ARCHIVE</text>
+<line x1="88" y1="1270" x2="560" y2="1270" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.45"/>
+<text x="88" y="1300" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.8">MAISON 170</text>
+<text x="88" y="1318" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0">A CONCEPT CAMPAIGN STUDY / 2026</text>
+<text x="88" y="1350" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8">PHOTOGRAPHY: UNSPLASH CONTRIBUTORS</text>
+<text x="88" y="1368" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8">FREE FOR COMMERCIAL AND EDITORIAL USE</text>
+<text x="88" y="1420" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8">TYPE: BODONI MODA / ARCHIVO / SIX CAPS</text>
+<text x="88" y="1438" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8">ALL OFL 1.1</text>
+<text x="760" y="1480" font-family="Six Caps" font-size="48" fill="#FFFFFF" letter-spacing="5.0" fill-opacity="0.55">THE CAST</text>
+<text x="760" y="1506" font-family="Six Caps" font-size="48" fill="#FFFFFF" letter-spacing="5.0" fill-opacity="0.55">IS THE HOUSE</text>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="88 1640 1064 50"><line x1="88" y1="1652" x2="1152" y2="1652" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.35"/><text x="88" y="1682" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6">MAISON 170 — END</text><text x="1152" y="1682" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4" text-anchor="end">11</text></g>
+</svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" lang="en-GB" font-family="Archivo" data-pptx-page-role="content">
+<rect id="bg-fill" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#F6F4EF"/>
+<g id="masthead" data-pptx-role="decoration" data-pptx-bounds="88 40 1064 56"><line x1="88" y1="92" x2="1152" y2="92" stroke="#D9D5CB" stroke-width="1"/><text x="88" y="70" font-family="Archivo" font-size="16" fill="#0A0A0A" font-weight="bold" letter-spacing="2.8">MAISON 170</text><text x="1152" y="70" font-family="Archivo" font-size="15" fill="#0A0A0A" font-weight="bold" letter-spacing="2.4" text-anchor="end">OBJECT STUDY</text><text x="1152" y="84" font-family="Archivo" font-size="14" fill="#0A0A0A" letter-spacing="2.0" text-anchor="end">10 / 11</text></g>
+<text x="88" y="228" font-family="Bodoni Moda" font-size="80" fill="#0A0A0A" font-weight="bold" letter-spacing="-1.2">THE TRENCH</text>
+<text x="1152" y="204" font-family="Archivo" font-size="15" fill="#77736B" font-weight="bold" letter-spacing="2.6" text-anchor="end">OBJECT / 01</text>
+<text x="1152" y="226" font-family="Archivo" font-size="15" fill="#77736B" letter-spacing="2.2" text-anchor="end">OUTERWEAR</text>
+<line x1="88" y1="268" x2="1152" y2="268" stroke="#0A0A0A" stroke-width="1"/>
+<g data-pptx-bounds="0 0 1240 1754" id="object-photo" data-pptx-role="decoration">
+<image id="coat-photo" data-pptx-role="decoration" href="../images/_coat.jpg" x="88" y="304" width="680" height="1020" preserveAspectRatio="xMidYMid slice"/>
+<rect x="88" y="304" width="680" height="1020" fill="none" stroke="#0A0A0A" stroke-width="1"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="object-band" data-pptx-role="decoration">
+<rect id="band" data-pptx-role="decoration" x="88" y="1240" width="680" height="50" fill="#1710CC" fill-opacity="0.62"/>
+</g>
+<text x="112" y="1272" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4">MADE TO BE WORN. MADE TO BE REMEMBERED.</text>
+<text x="768" y="1272" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" text-anchor="end">ALPHA 62%</text>
+<g data-pptx-bounds="0 0 1240 1754" id="object-copy" data-pptx-role="decoration">
+<text x="808" y="322" font-family="Archivo" font-size="15" fill="#1710CC" font-weight="bold" letter-spacing="2.2">A COAT IS A ROOM</text>
+<text x="808" y="344" font-family="Archivo" font-size="15" fill="#1710CC" font-weight="bold" letter-spacing="2.2">YOU CARRY.</text>
+</g>
+<text x="808" y="386" font-family="Archivo" font-size="15" fill="#0A0A0A" letter-spacing="0.2">Outerwear is the most public</text>
+<text x="808" y="410" font-family="Archivo" font-size="15" fill="#0A0A0A" letter-spacing="0.2">part of a private life. It</text>
+<text x="808" y="434" font-family="Archivo" font-size="15" fill="#0A0A0A" letter-spacing="0.2">meets the weather first, and</text>
+<text x="808" y="458" font-family="Archivo" font-size="15" fill="#0A0A0A" letter-spacing="0.2">the photograph second.</text>
+<g data-pptx-bounds="0 0 1240 1754" id="object-specs" data-pptx-role="decoration">
+<line x1="808" y1="500" x2="1152" y2="500" stroke="#D9D5CB" stroke-width="1"/>
+<text x="808" y="524" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.8">MATERIAL</text>
+<text x="1152" y="524" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="1.4" text-anchor="end">COTTON GABARDINE</text>
+<line x1="808" y1="542" x2="1152" y2="542" stroke="#D9D5CB" stroke-width="1"/>
+<text x="808" y="566" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.8">CITY</text>
+<text x="1152" y="566" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="1.4" text-anchor="end">MILAN</text>
+<line x1="808" y1="584" x2="1152" y2="584" stroke="#D9D5CB" stroke-width="1"/>
+<text x="808" y="608" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.8">SILHOUETTE</text>
+<text x="1152" y="608" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="1.4" text-anchor="end">DOUBLE-BREASTED</text>
+<line x1="808" y1="626" x2="1152" y2="626" stroke="#D9D5CB" stroke-width="1"/>
+<text x="808" y="650" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.8">YEAR</text>
+<text x="1152" y="650" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="1.4" text-anchor="end">2026</text>
+<line x1="808" y1="668" x2="1152" y2="668" stroke="#D9D5CB" stroke-width="1"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="object-archive" data-pptx-role="decoration">
+<rect id="archive-block" data-pptx-role="decoration" x="808" y="704" width="344" height="250" fill="#1710CC" fill-opacity="0.86"/>
+</g>
+<text x="832" y="748" font-family="Six Caps" font-size="34" fill="#FFFFFF" letter-spacing="4.0">OUTERWEAR</text>
+<text x="832" y="790" font-family="Six Caps" font-size="34" fill="#FFFFFF" letter-spacing="4.0">AS ARCHIVE</text>
+<line x1="832" y1="812" x2="1128" y2="812" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.55"/>
+<text x="832" y="840" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2">The coat outlives the season.</text>
+<text x="832" y="858" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2">It is the one object that</text>
+<text x="832" y="876" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2">remembers the body.</text>
+<text x="832" y="920" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.0">ARCHIVE / 01</text>
+<g data-pptx-bounds="0 0 1240 1754" id="object-details" data-pptx-role="decoration">
+<image id="detail-a" data-pptx-role="decoration" href="../images/_street.jpg" x="808" y="990" width="164" height="230" preserveAspectRatio="xMidYMid slice"/>
+<image id="detail-b" data-pptx-role="decoration" href="../images/_cast_shirt.jpg" x="988" y="990" width="164" height="230" preserveAspectRatio="xMidYMid slice"/>
+<rect x="808" y="990" width="164" height="230" fill="#1710CC" fill-opacity="0.14"/>
+</g>
+<text x="808" y="1246" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">DETAIL / STREET</text>
+<text x="988" y="1246" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">DETAIL / SHOULDER</text>
+<text x="808" y="1300" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="2.0">ONE OBJECT, THREE LIGHTS.</text>
+<text x="808" y="1390" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6" text-anchor="end">PHOTOGRAPHY / FREE EDITORIAL USE</text>
+<text x="808" y="1408" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6" text-anchor="end">UNSPLASH LICENSE</text>
+<g data-pptx-bounds="0 0 1240 1754" id="object-index" data-pptx-role="decoration">
+<line x1="88" y1="1460" x2="1152" y2="1460" stroke="#D9D5CB" stroke-width="1"/>
+<text x="88" y="1492" font-family="Archivo" font-size="14" fill="#1710CC" font-weight="bold" letter-spacing="1.8">CUT / 01</text>
+<text x="88" y="1510" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">DOUBLE-BREASTED</text>
+<text x="360" y="1492" font-family="Archivo" font-size="14" fill="#1710CC" font-weight="bold" letter-spacing="1.8">CLOTH / 02</text>
+<text x="360" y="1510" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">COTTON GABARDINE</text>
+<text x="632" y="1492" font-family="Archivo" font-size="14" fill="#1710CC" font-weight="bold" letter-spacing="1.8">PRESENCE / 03</text>
+<text x="632" y="1510" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">PHOTOGRAPHED 2026</text>
+<text x="904" y="1492" font-family="Archivo" font-size="14" fill="#1710CC" font-weight="bold" letter-spacing="1.8">ARCHIVE / 2026</text>
+<text x="904" y="1510" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">VOLUME ONE</text>
+</g>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="88 1640 1064 50"><line x1="88" y1="1652" x2="1152" y2="1652" stroke="#77736B" stroke-width="1" stroke-opacity="0.35"/><text x="88" y="1682" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="2.6">FASHION 170 — A GLOBAL CAST</text><text x="1152" y="1682" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="2.4" text-anchor="end">10</text></g>
+</svg>

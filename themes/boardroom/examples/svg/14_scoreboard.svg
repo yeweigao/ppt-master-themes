@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-boardroom" data-pptx-master-name="A4 Boardroom" data-pptx-layout="br-scoreboard" data-pptx-layout-name="The scoreboard">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F5F0"/>
+<rect id="br-scoreboard-d1" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="#F7F5F0"/>
+<rect id="br-scoreboard-d2" data-pptx-role="decoration" x="90" y="76" width="13" height="13" fill="#E3120B"/>
+<g id="br-scoreboard-p1" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="118 64 720 42.8"><text x="118" y="90" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="2.2" data-pptx-carrier="true">THE SCOREBOARD / SIX NUMBERS</text></g>
+<g id="br-scoreboard-p2" data-pptx-placeholder="slide-number" data-pptx-idx="2" data-pptx-bounds="850 64 300 41.7"><text x="1150" y="90" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.4" text-anchor="end" data-pptx-carrier="true">STRATEGY REVIEW / 14</text></g>
+<line id="br-scoreboard-d3" data-pptx-role="decoration" x1="90" y1="108" x2="1150" y2="108" stroke="#071C2C" stroke-width="2"/>
+<g id="br-scoreboard-p3" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="90 124 760 42.8"><text x="90" y="150" fill="#E3120B" font-size="16" font-weight="bold" letter-spacing="2.2" data-pptx-carrier="true">THE TEST</text></g>
+<g id="br-scoreboard-p4" data-pptx-placeholder="title" data-pptx-idx="4" data-pptx-bounds="90 168 1060 94.96"><text x="90" y="217.28" fill="#12232F" font-size="56" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">Six numbers the board will watch.</text></g>
+<g id="br-scoreboard-p5" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="90 282 1020 92"><text x="90" y="305.76" fill="#5F6E79" font-size="27" font-family="Georgia" data-pptx-carrier="true">Baseline, ninety-day checkpoint and twelve-month target. One owner per<tspan x="90" dy="38">number; no number without a review date.</tspan></text></g>
+<line id="br-scoreboard-d4" data-pptx-role="decoration" x1="90" y1="390" x2="590" y2="390" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p6" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="90 396 340 40.8"><text x="90" y="420" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">MARGIN</text></g>
+<g id="br-scoreboard-p7" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="480 396 110 39.7"><text x="590" y="420" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" text-anchor="end" data-pptx-carrier="true">01 / 06</text></g>
+<g id="br-scoreboard-p8" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="90 444 250 89.7"><text x="90" y="496" fill="#12232F" font-size="54" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">18.6%</text></g>
+<g id="br-scoreboard-p9" data-pptx-placeholder="body" data-pptx-idx="9" data-pptx-bounds="90 506 250 37.7"><text x="90" y="528" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">BASELINE / FY24</text></g>
+<line id="br-scoreboard-d5" data-pptx-role="decoration" x1="350" y1="467" x2="350" y2="481" stroke="#5F6E79" stroke-width="1.5"/>
+<line id="br-scoreboard-d6" data-pptx-role="decoration" x1="570" y1="466" x2="570" y2="482" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d7" data-pptx-role="decoration" x1="350" y1="474" x2="391.8" y2="474" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d8" data-pptx-role="decoration" x1="391.8" y1="474" x2="570" y2="474" stroke="#8FA3B0" stroke-width="1.5"/>
+<circle id="br-scoreboard-d9" data-pptx-role="decoration" cx="350" cy="474" r="5" fill="#F7F5F0" stroke="#5F6E79" stroke-width="1.5"/>
+<circle id="br-scoreboard-d10" data-pptx-role="decoration" cx="391.8" cy="474" r="6" fill="#071C2C"/>
+<g id="br-scoreboard-p10" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="306.8 434 170 38.25"><text x="391.8" y="456" fill="#12232F" font-size="15" font-weight="bold" letter-spacing="0.8" text-anchor="middle" data-pptx-carrier="true">90-DAY 19.4%</text></g>
+<g id="br-scoreboard-p11" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="350 494 220 39.7"><text x="570" y="518" fill="#071C2C" font-size="14" font-weight="bold" letter-spacing="0.8" text-anchor="end" data-pptx-carrier="true">TARGET 22.8% / 12M</text></g>
+<line id="br-scoreboard-d11" data-pptx-role="decoration" x1="90" y1="564" x2="590" y2="564" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p12" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="90 572 400 39.7"><text x="90" y="596" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">OWNER / CFO / MONTHLY</text></g>
+<line id="br-scoreboard-d12" data-pptx-role="decoration" x1="650" y1="390" x2="1150" y2="390" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p13" data-pptx-placeholder="body" data-pptx-idx="13" data-pptx-bounds="650 396 340 40.8"><text x="650" y="420" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">LAUNCH CYCLE</text></g>
+<g id="br-scoreboard-p14" data-pptx-placeholder="body" data-pptx-idx="14" data-pptx-bounds="1040 396 110 39.7"><text x="1150" y="420" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" text-anchor="end" data-pptx-carrier="true">02 / 06</text></g>
+<g id="br-scoreboard-p15" data-pptx-placeholder="body" data-pptx-idx="15" data-pptx-bounds="650 444 250 89.7"><text x="650" y="496" fill="#12232F" font-size="54" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">23 days</text></g>
+<g id="br-scoreboard-p16" data-pptx-placeholder="body" data-pptx-idx="16" data-pptx-bounds="650 506 250 37.7"><text x="650" y="528" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">BASELINE / FY24</text></g>
+<line id="br-scoreboard-d13" data-pptx-role="decoration" x1="910" y1="467" x2="910" y2="481" stroke="#5F6E79" stroke-width="1.5"/>
+<line id="br-scoreboard-d14" data-pptx-role="decoration" x1="1130" y1="466" x2="1130" y2="482" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d15" data-pptx-role="decoration" x1="910" y1="474" x2="1020.0" y2="474" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d16" data-pptx-role="decoration" x1="1020.0" y1="474" x2="1130" y2="474" stroke="#8FA3B0" stroke-width="1.5"/>
+<circle id="br-scoreboard-d17" data-pptx-role="decoration" cx="910" cy="474" r="5" fill="#F7F5F0" stroke="#5F6E79" stroke-width="1.5"/>
+<circle id="br-scoreboard-d18" data-pptx-role="decoration" cx="1020.0" cy="474" r="6" fill="#071C2C"/>
+<g id="br-scoreboard-p17" data-pptx-placeholder="body" data-pptx-idx="17" data-pptx-bounds="935.0 434 170 38.25"><text x="1020.0" y="456" fill="#12232F" font-size="15" font-weight="bold" letter-spacing="0.8" text-anchor="middle" data-pptx-carrier="true">90-DAY 16 days</text></g>
+<g id="br-scoreboard-p18" data-pptx-placeholder="body" data-pptx-idx="18" data-pptx-bounds="910 494 220 39.7"><text x="1130" y="518" fill="#071C2C" font-size="14" font-weight="bold" letter-spacing="0.8" text-anchor="end" data-pptx-carrier="true">TARGET 9 days / 12M</text></g>
+<line id="br-scoreboard-d19" data-pptx-role="decoration" x1="650" y1="564" x2="1150" y2="564" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p19" data-pptx-placeholder="body" data-pptx-idx="19" data-pptx-bounds="650 572 400 39.7"><text x="650" y="596" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">OWNER / COO / MONTHLY</text></g>
+<line id="br-scoreboard-d20" data-pptx-role="decoration" x1="90" y1="660" x2="590" y2="660" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p20" data-pptx-placeholder="body" data-pptx-idx="20" data-pptx-bounds="90 666 340 40.8"><text x="90" y="690" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">DECISION GATES</text></g>
+<g id="br-scoreboard-p21" data-pptx-placeholder="body" data-pptx-idx="21" data-pptx-bounds="480 666 110 39.7"><text x="590" y="690" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" text-anchor="end" data-pptx-carrier="true">03 / 06</text></g>
+<g id="br-scoreboard-p22" data-pptx-placeholder="body" data-pptx-idx="22" data-pptx-bounds="90 714 250 89.7"><text x="90" y="766" fill="#12232F" font-size="54" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">14</text></g>
+<g id="br-scoreboard-p23" data-pptx-placeholder="body" data-pptx-idx="23" data-pptx-bounds="90 776 250 37.7"><text x="90" y="798" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">BASELINE / FY24</text></g>
+<line id="br-scoreboard-d21" data-pptx-role="decoration" x1="350" y1="737" x2="350" y2="751" stroke="#5F6E79" stroke-width="1.5"/>
+<line id="br-scoreboard-d22" data-pptx-role="decoration" x1="570" y1="736" x2="570" y2="752" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d23" data-pptx-role="decoration" x1="350" y1="744" x2="482.0" y2="744" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d24" data-pptx-role="decoration" x1="482.0" y1="744" x2="570" y2="744" stroke="#8FA3B0" stroke-width="1.5"/>
+<circle id="br-scoreboard-d25" data-pptx-role="decoration" cx="350" cy="744" r="5" fill="#F7F5F0" stroke="#5F6E79" stroke-width="1.5"/>
+<circle id="br-scoreboard-d26" data-pptx-role="decoration" cx="482.0" cy="744" r="6" fill="#071C2C"/>
+<g id="br-scoreboard-p24" data-pptx-placeholder="body" data-pptx-idx="24" data-pptx-bounds="397.0 704 170 38.25"><text x="482.0" y="726" fill="#12232F" font-size="15" font-weight="bold" letter-spacing="0.8" text-anchor="middle" data-pptx-carrier="true">90-DAY 8</text></g>
+<g id="br-scoreboard-p25" data-pptx-placeholder="body" data-pptx-idx="25" data-pptx-bounds="350 764 220 39.7"><text x="570" y="788" fill="#071C2C" font-size="14" font-weight="bold" letter-spacing="0.8" text-anchor="end" data-pptx-carrier="true">TARGET 4 / 12M</text></g>
+<line id="br-scoreboard-d27" data-pptx-role="decoration" x1="90" y1="834" x2="590" y2="834" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p26" data-pptx-placeholder="body" data-pptx-idx="26" data-pptx-bounds="90 842 400 39.7"><text x="90" y="866" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">OWNER / COO / MONTHLY</text></g>
+<line id="br-scoreboard-d28" data-pptx-role="decoration" x1="650" y1="660" x2="1150" y2="660" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p27" data-pptx-placeholder="body" data-pptx-idx="27" data-pptx-bounds="650 666 340 40.8"><text x="650" y="690" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">ON-TIME DELIVERY</text></g>
+<g id="br-scoreboard-p28" data-pptx-placeholder="body" data-pptx-idx="28" data-pptx-bounds="1040 666 110 39.7"><text x="1150" y="690" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" text-anchor="end" data-pptx-carrier="true">04 / 06</text></g>
+<g id="br-scoreboard-p29" data-pptx-placeholder="body" data-pptx-idx="29" data-pptx-bounds="650 714 250 89.7"><text x="650" y="766" fill="#12232F" font-size="54" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">78%</text></g>
+<g id="br-scoreboard-p30" data-pptx-placeholder="body" data-pptx-idx="30" data-pptx-bounds="650 776 250 37.7"><text x="650" y="798" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">BASELINE / FY24</text></g>
+<line id="br-scoreboard-d29" data-pptx-role="decoration" x1="910" y1="737" x2="910" y2="751" stroke="#5F6E79" stroke-width="1.5"/>
+<line id="br-scoreboard-d30" data-pptx-role="decoration" x1="1130" y1="736" x2="1130" y2="752" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d31" data-pptx-role="decoration" x1="910" y1="744" x2="1020.0" y2="744" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d32" data-pptx-role="decoration" x1="1020.0" y1="744" x2="1130" y2="744" stroke="#8FA3B0" stroke-width="1.5"/>
+<circle id="br-scoreboard-d33" data-pptx-role="decoration" cx="910" cy="744" r="5" fill="#F7F5F0" stroke="#5F6E79" stroke-width="1.5"/>
+<circle id="br-scoreboard-d34" data-pptx-role="decoration" cx="1020.0" cy="744" r="6" fill="#071C2C"/>
+<g id="br-scoreboard-p31" data-pptx-placeholder="body" data-pptx-idx="31" data-pptx-bounds="935.0 704 170 38.25"><text x="1020.0" y="726" fill="#12232F" font-size="15" font-weight="bold" letter-spacing="0.8" text-anchor="middle" data-pptx-carrier="true">90-DAY 86%</text></g>
+<g id="br-scoreboard-p32" data-pptx-placeholder="body" data-pptx-idx="32" data-pptx-bounds="910 764 220 39.7"><text x="1130" y="788" fill="#071C2C" font-size="14" font-weight="bold" letter-spacing="0.8" text-anchor="end" data-pptx-carrier="true">TARGET 94% / 12M</text></g>
+<line id="br-scoreboard-d35" data-pptx-role="decoration" x1="650" y1="834" x2="1150" y2="834" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p33" data-pptx-placeholder="body" data-pptx-idx="33" data-pptx-bounds="650 842 400 39.7"><text x="650" y="866" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">OWNER / BU LEADS / MONTHLY</text></g>
+<line id="br-scoreboard-d36" data-pptx-role="decoration" x1="90" y1="930" x2="590" y2="930" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p34" data-pptx-placeholder="body" data-pptx-idx="34" data-pptx-bounds="90 936 340 40.8"><text x="90" y="960" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">PORTFOLIO LINES</text></g>
+<g id="br-scoreboard-p35" data-pptx-placeholder="body" data-pptx-idx="35" data-pptx-bounds="480 936 110 39.7"><text x="590" y="960" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" text-anchor="end" data-pptx-carrier="true">05 / 06</text></g>
+<g id="br-scoreboard-p36" data-pptx-placeholder="body" data-pptx-idx="36" data-pptx-bounds="90 984 250 89.7"><text x="90" y="1036" fill="#12232F" font-size="54" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">11</text></g>
+<g id="br-scoreboard-p37" data-pptx-placeholder="body" data-pptx-idx="37" data-pptx-bounds="90 1046 250 37.7"><text x="90" y="1068" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">BASELINE / FY24</text></g>
+<line id="br-scoreboard-d37" data-pptx-role="decoration" x1="350" y1="1007" x2="350" y2="1021" stroke="#5F6E79" stroke-width="1.5"/>
+<line id="br-scoreboard-d38" data-pptx-role="decoration" x1="570" y1="1006" x2="570" y2="1022" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d39" data-pptx-role="decoration" x1="350" y1="1014" x2="460.0" y2="1014" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d40" data-pptx-role="decoration" x1="460.0" y1="1014" x2="570" y2="1014" stroke="#8FA3B0" stroke-width="1.5"/>
+<circle id="br-scoreboard-d41" data-pptx-role="decoration" cx="350" cy="1014" r="5" fill="#F7F5F0" stroke="#5F6E79" stroke-width="1.5"/>
+<circle id="br-scoreboard-d42" data-pptx-role="decoration" cx="460.0" cy="1014" r="6" fill="#071C2C"/>
+<g id="br-scoreboard-p38" data-pptx-placeholder="body" data-pptx-idx="38" data-pptx-bounds="375.0 974 170 38.25"><text x="460.0" y="996" fill="#12232F" font-size="15" font-weight="bold" letter-spacing="0.8" text-anchor="middle" data-pptx-carrier="true">90-DAY 9</text></g>
+<g id="br-scoreboard-p39" data-pptx-placeholder="body" data-pptx-idx="39" data-pptx-bounds="350 1034 220 39.7"><text x="570" y="1058" fill="#071C2C" font-size="14" font-weight="bold" letter-spacing="0.8" text-anchor="end" data-pptx-carrier="true">TARGET 7 / 12M</text></g>
+<line id="br-scoreboard-d43" data-pptx-role="decoration" x1="90" y1="1104" x2="590" y2="1104" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p40" data-pptx-placeholder="body" data-pptx-idx="40" data-pptx-bounds="90 1112 400 39.7"><text x="90" y="1136" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">OWNER / CEO / QUARTERLY</text></g>
+<line id="br-scoreboard-d44" data-pptx-role="decoration" x1="650" y1="930" x2="1150" y2="930" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p41" data-pptx-placeholder="body" data-pptx-idx="41" data-pptx-bounds="650 936 340 40.8"><text x="650" y="960" fill="#5F6E79" font-size="16" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">ENGAGEMENT</text></g>
+<g id="br-scoreboard-p42" data-pptx-placeholder="body" data-pptx-idx="42" data-pptx-bounds="1040 936 110 39.7"><text x="1150" y="960" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" text-anchor="end" data-pptx-carrier="true">06 / 06</text></g>
+<g id="br-scoreboard-p43" data-pptx-placeholder="body" data-pptx-idx="43" data-pptx-bounds="650 984 250 89.7"><text x="650" y="1036" fill="#12232F" font-size="54" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">61%</text></g>
+<g id="br-scoreboard-p44" data-pptx-placeholder="body" data-pptx-idx="44" data-pptx-bounds="650 1046 250 37.7"><text x="650" y="1068" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">BASELINE / FY24</text></g>
+<line id="br-scoreboard-d45" data-pptx-role="decoration" x1="910" y1="1007" x2="910" y2="1021" stroke="#5F6E79" stroke-width="1.5"/>
+<line id="br-scoreboard-d46" data-pptx-role="decoration" x1="1130" y1="1006" x2="1130" y2="1022" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d47" data-pptx-role="decoration" x1="910" y1="1014" x2="993.6" y2="1014" stroke="#071C2C" stroke-width="2.5"/>
+<line id="br-scoreboard-d48" data-pptx-role="decoration" x1="993.6" y1="1014" x2="1130" y2="1014" stroke="#8FA3B0" stroke-width="1.5"/>
+<circle id="br-scoreboard-d49" data-pptx-role="decoration" cx="910" cy="1014" r="5" fill="#F7F5F0" stroke="#5F6E79" stroke-width="1.5"/>
+<circle id="br-scoreboard-d50" data-pptx-role="decoration" cx="993.6" cy="1014" r="6" fill="#071C2C"/>
+<g id="br-scoreboard-p45" data-pptx-placeholder="body" data-pptx-idx="45" data-pptx-bounds="908.6 974 170 38.25"><text x="993.6" y="996" fill="#12232F" font-size="15" font-weight="bold" letter-spacing="0.8" text-anchor="middle" data-pptx-carrier="true">90-DAY 66%</text></g>
+<g id="br-scoreboard-p46" data-pptx-placeholder="body" data-pptx-idx="46" data-pptx-bounds="910 1034 220 39.7"><text x="1130" y="1058" fill="#071C2C" font-size="14" font-weight="bold" letter-spacing="0.8" text-anchor="end" data-pptx-carrier="true">TARGET 74% / 12M</text></g>
+<line id="br-scoreboard-d51" data-pptx-role="decoration" x1="650" y1="1104" x2="1150" y2="1104" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p47" data-pptx-placeholder="body" data-pptx-idx="47" data-pptx-bounds="650 1112 400 39.7"><text x="650" y="1136" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">OWNER / CHRO / QUARTERLY</text></g>
+<line id="br-scoreboard-d52" data-pptx-role="decoration" x1="90" y1="1218" x2="1150" y2="1218" stroke="#071C2C" stroke-width="2"/>
+<g id="br-scoreboard-p48" data-pptx-placeholder="body" data-pptx-idx="48" data-pptx-bounds="90 1244 520 40.25"><text x="90" y="1268" fill="#E3120B" font-size="15" font-weight="bold" letter-spacing="2.0" data-pptx-carrier="true">READING THE SCOREBOARD</text></g>
+<g id="br-scoreboard-p49" data-pptx-placeholder="body" data-pptx-idx="49" data-pptx-bounds="90 1288 520 122.0"><text x="90" y="1332" fill="#12232F" font-size="40" font-family="Georgia" font-weight="bold" data-pptx-carrier="true">A number without<tspan x="90" dy="48">an owner is a wish.</tspan></text></g>
+<g id="br-scoreboard-p50" data-pptx-placeholder="body" data-pptx-idx="50" data-pptx-bounds="90 1406 520 37.7"><text x="90" y="1428" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.4" data-pptx-carrier="true">OPERATING PRINCIPLE / REVIEW NOTES</text></g>
+<line id="br-scoreboard-d53" data-pptx-role="decoration" x1="640" y1="1244" x2="1150" y2="1244" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p51" data-pptx-placeholder="body" data-pptx-idx="51" data-pptx-bounds="640 1254 510 38.25"><text x="640" y="1276" fill="#071C2C" font-size="15" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">REVIEW CADENCE</text></g>
+<g id="br-scoreboard-p52" data-pptx-placeholder="body" data-pptx-idx="52" data-pptx-bounds="640 1284 510 64.6"><text x="640" y="1300.72" fill="#12232F" font-size="19" font-family="Georgia" data-pptx-carrier="true">One page, one owner, monthly. No re-baselining<tspan x="640" dy="26">between gates.</tspan></text></g>
+<line id="br-scoreboard-d54" data-pptx-role="decoration" x1="640" y1="1340" x2="1150" y2="1340" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p53" data-pptx-placeholder="body" data-pptx-idx="53" data-pptx-bounds="640 1350 510 38.25"><text x="640" y="1372" fill="#071C2C" font-size="15" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">GATE RULE</text></g>
+<g id="br-scoreboard-p54" data-pptx-placeholder="body" data-pptx-idx="54" data-pptx-bounds="640 1380 510 64.6"><text x="640" y="1396.72" fill="#12232F" font-size="19" font-family="Georgia" data-pptx-carrier="true">Targets reset only at a gate, with a written case<tspan x="640" dy="26">and a date.</tspan></text></g>
+<line id="br-scoreboard-d55" data-pptx-role="decoration" x1="640" y1="1436" x2="1150" y2="1436" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p55" data-pptx-placeholder="body" data-pptx-idx="55" data-pptx-bounds="640 1446 510 38.25"><text x="640" y="1468" fill="#E3120B" font-size="15" font-weight="bold" letter-spacing="1.6" data-pptx-carrier="true">ESCALATION</text></g>
+<g id="br-scoreboard-p56" data-pptx-placeholder="body" data-pptx-idx="56" data-pptx-bounds="640 1476 510 64.6"><text x="640" y="1492.72" fill="#12232F" font-size="19" font-family="Georgia" data-pptx-carrier="true">Two consecutive misses trigger a board memo, not a<tspan x="640" dy="26">new plan.</tspan></text></g>
+<line id="br-scoreboard-d56" data-pptx-role="decoration" x1="90" y1="1548" x2="1150" y2="1548" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p57" data-pptx-placeholder="body" data-pptx-idx="57" data-pptx-bounds="90 1558 1060 39.7"><text x="90" y="1582" fill="#5F6E79" font-size="14" font-weight="bold" letter-spacing="1.2" data-pptx-carrier="true">NO NUMBER MOVES WITHOUT A GATE DECISION / REVIEWED MONTHLY</text></g>
+<line id="br-scoreboard-d57" data-pptx-role="decoration" x1="90" y1="1638" x2="1150" y2="1638" stroke="#D5DCE1" stroke-width="1"/>
+<g id="br-scoreboard-p58" data-pptx-placeholder="body" data-pptx-idx="58" data-pptx-bounds="90 1648 920 39.7"><text x="90" y="1672" fill="#5F6E79" font-size="14" letter-spacing="1.0" data-pptx-carrier="true">ILLUSTRATIVE SCORECARD · BASELINES AND TARGETS ARE DEMONSTRATION DATA</text></g>
+<g id="br-scoreboard-p59" data-pptx-placeholder="body" data-pptx-idx="59" data-pptx-bounds="90 1682 920 37.15"><text x="90" y="1704" fill="#5F6E79" font-size="13" letter-spacing="0.8" data-pptx-carrier="true">ILLUSTRATIVE EXHIBIT / DEMONSTRATION DATA</text></g>
+<g id="br-scoreboard-p60" data-pptx-placeholder="slide-number" data-pptx-idx="60" data-pptx-bounds="1040 1648 110 42.8"><text x="1150" y="1674" fill="#5F6E79" font-size="16" font-weight="bold" text-anchor="end" data-pptx-carrier="true">14</text></g>
+</svg>

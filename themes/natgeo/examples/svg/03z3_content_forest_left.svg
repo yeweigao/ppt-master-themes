@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-woodland-left" data-pptx-layout-name="Woodland Panorama — left">
+  <defs>
+    <linearGradient id="forest-veil-l" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0.62"/><stop offset="0.45" stop-color="#0A0A0A" stop-opacity="0.34"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.88"/></linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8"/>
+  <g id="panorama" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><svg data-pptx-carrier="true" x="0" y="0" width="1240" height="1754" viewBox="0.02857 0 0.47143 1" preserveAspectRatio="none" overflow="hidden"><image x="0" y="0" width="1" height="1" preserveAspectRatio="none" href="../images/woodland.jpg"/></svg></g>
+  <rect id="photo-veil" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="url(#forest-veil-l)"/>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 900 44"><text data-pptx-carrier="true" x="100" y="124" fill="#FFFFFF" font-size="18" letter-spacing="2.4" font-family="Arial Narrow, Arial">FIELD NOTE 11  /  THE FOREST</text></g>
+  <rect id="quote-bar" data-pptx-role="decoration" x="100" y="356" width="10" height="590" fill="#FFE500"/>
+  <g id="quote" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="160 372 960 520"><text letter-spacing="-1.5" data-pptx-carrier="true" x="160" y="470" fill="#FFFFFF" font-size="92" font-weight="bold" font-style="italic" font-family="Georgia, 'Times New Roman', serif">The forest<tspan x="160" dy="112">remembers</tspan><tspan x="160" dy="112">every</tspan><tspan x="160" dy="112">footstep.</tspan></text></g>
+  <g id="attribution-kicker" data-pptx-bounds="160 1020 800 44"><text x="160" y="1048" fill="#FFE500" font-size="20" letter-spacing="4" font-family="Arial Narrow, Arial">A NOTE ON ATTENTION</text></g>
+  <g id="attribution-line" data-pptx-bounds="160 1070 900 60"><text x="160" y="1112" fill="#FFFFFF" font-size="26">What we notice becomes part of the place.</text></g>
+  <g id="credit" data-pptx-bounds="100 1630 1040 50"><text x="100" y="1655" fill="#FFFFFF" font-size="18" letter-spacing="2" font-family="Arial Narrow, Arial">PHOTO: SPESSIG / CC0 1.0 / CONTINUOUS SPREAD — LEFT</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="4" data-pptx-bounds="1040 1690 100 44"><text data-pptx-carrier="true" x="1080" y="1716" fill="#FFFFFF" font-size="18">30</text></g>
+</svg>

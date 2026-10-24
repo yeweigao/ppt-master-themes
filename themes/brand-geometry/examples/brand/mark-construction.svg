@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 820" width="920" height="820" role="img" aria-label="OSTRA mark construction drawing">
+  <title>OSTRA / The Open Frame — construction</title>
+  <rect width="920" height="820" fill="#FCFBF7"/>
+  <g stroke="#C9C5BA" stroke-width="1">
+    <path d="M160 80V680M260 80V680M360 80V680M460 80V680M560 80V680M660 80V680M760 80V680"/>
+    <path d="M160 80H760M160 180H760M160 280H760M160 380H760M160 480H760M160 580H760M160 680H760"/>
+  </g>
+  <g fill="#14228F">
+    <path d="M160 80H360V180H260V280H160Z"/>
+    <path d="M760 80V280H660V180H560V80Z"/>
+    <path d="M760 680H560V580H660V480H760Z"/>
+    <path d="M160 680V480H260V580H360V680Z"/>
+  </g>
+  <g fill="none" stroke="#A98B28" stroke-width="2">
+    <path d="M160 720H760"/>
+    <path d="M160 710V730M360 710V730M560 710V730M660 710V730M760 710V730"/>
+    <path d="M120 80V680"/>
+    <path d="M110 80H130M110 180H130M110 280H130M110 380H130M110 480H130M110 580H130M110 680H130"/>
+  </g>
+  <g fill="#20262A" font-family="Arial" font-size="17" letter-spacing="2">
+    <text x="160" y="758">0</text>
+    <text x="347" y="758">2u</text>
+    <text x="545" y="758">4u</text>
+    <text x="647" y="758">5u</text>
+    <text x="744" y="758">6u</text>
+    <text x="74" y="86" text-anchor="end">0</text>
+    <text x="74" y="286" text-anchor="end">2u</text>
+    <text x="74" y="486" text-anchor="end">4u</text>
+    <text x="74" y="686" text-anchor="end">6u</text>
+  </g>
+  <g fill="#14228F" font-family="Arial">
+    <text x="160" y="740" font-size="13" letter-spacing="2.5">SIX-TRACK FIELD</text>
+    <text x="792" y="86" font-size="13" letter-spacing="2.5">ARM / 2u</text>
+    <text x="792" y="112" font-family="Georgia" font-size="26">1 : 2</text>
+    <text x="792" y="146" font-size="13" letter-spacing="2.5">FRAME / 1u</text>
+    <text x="792" y="172" font-family="Georgia" font-size="26">4 × L</text>
+  </g>
+  <g stroke="#20262A" stroke-width="1" fill="none">
+    <path d="M770 80H780M770 280H780M770 480H780M770 680H780"/>
+    <path d="M360 60H560M360 50V70M560 50V70"/>
+  </g>
+  <text x="460" y="46" fill="#20262A" font-family="Arial" font-size="13" letter-spacing="2" text-anchor="middle">THE OPENING / 2u × 2u</text>
+</svg>

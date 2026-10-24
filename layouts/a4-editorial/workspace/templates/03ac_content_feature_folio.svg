@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-feature-folio" data-pptx-layout-name="Full-bleed feature folio">
+  <defs>
+    <linearGradient id="feature-folio-side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000000" stop-opacity="0.88"/><stop offset="0.45" stop-color="#000000" stop-opacity="0.54"/><stop offset="0.78" stop-color="#000000" stop-opacity="0.18"/><stop offset="1" stop-color="#000000" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="feature-folio-bottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.8"/></linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
+  <rect id="photo-veil" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="url(#feature-folio-side)"/>
+  <rect id="photo-shade-bottom" data-pptx-role="decoration" x="0" y="900" width="1240" height="854" fill="url(#feature-folio-bottom)"/>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFFFFF"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 900 44"><text data-pptx-carrier="true" x="100" y="124" fill="#FFFFFF" font-size="18" letter-spacing="2.4">{{SECTION_NAME}}</text></g>
+  <g id="folio-display" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="660 212 480 396"><text data-pptx-carrier="true" x="700" y="500" fill="#FFFFFF" font-size="300" font-weight="bold" letter-spacing="-10">{{FOLIO_NUMBER}}</text></g>
+  <rect id="title-rule" data-pptx-role="decoration" x="100" y="1140" width="120" height="6" fill="#FFFFFF"/>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="4" data-pptx-bounds="100 1168 960 300"><text data-pptx-carrier="true" x="100" y="1282" fill="#FFFFFF" font-size="104" font-weight="bold" letter-spacing="-1.5">{{PAGE_TITLE}}</text></g>
+  <g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="5" data-pptx-bounds="100 1490 800 100"><text data-pptx-carrier="true" x="100" y="1524" fill="#FFFFFF" font-size="30">{{SUBTITLE}}</text></g>
+  <g id="credit" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1630 800 50"><text data-pptx-carrier="true" x="100" y="1655" fill="#FFFFFF" font-size="18" letter-spacing="2">{{SOURCE}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1690 100 44"><text data-pptx-carrier="true" x="1080" y="1716" fill="#FFFFFF" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>

@@ -1,35 +1,49 @@
 {
-  "schema": "theme-v1",
+  "schema": "ppt-master-themes/theme-v1",
   "id": "brand-geometry",
   "name": "Brand Geometry",
   "name_zh": "品牌几何",
-  "summary": "从品牌实际几何提炼可复用的页面语言，结合清晰阅读层与可选渐变。",
+  "summary": "从经核对的品牌标识轮廓、比例与交叠关系中提炼页面语言：以 6u 场、四角括号、恒定 1u 框厚和 2u 开口建立可裁切、可叠加的母题，配合 1.0/0.58/0.34 三级透明度与瑞士六轨阅读网格。示例为虚构建筑事务所 OSTRA 的八页身份研究。",
   "tested_with_ppt_master": [],
   "compatibility_reviewed_with": [
-    "6.3.2"
+    "6.7.3"
   ],
   "style_workspace": "workspace",
   "style_spec": "workspace/templates/design_spec.style.brand-geometry.md",
   "recipes": "recipes.md",
+  "examples": "examples",
   "stage2_seeds": {
     "mode": "custom",
     "mode_references": [
       "briefing"
     ],
-    "mode_behavior": "Use the communication task to pace clear messages, supporting explanation and action.",
+    "mode_behavior": "Use the communication task to pace one governing message per page, a measured explanation of the system, photographic proof and a clear close.",
     "visual_style": "custom",
-    "visual_style_behavior": "Derive coherent contours, angles, intervals and overlap from actual identity geometry; vary motif scale by page job around a calm reading layer. Soft identity-colored gradients are optional.",
+    "visual_style_behavior": "Derive coherent contours, angles, intervals, check/stripe rhythms and 3-tier interlocking opacity (1.0 / 0.58 / 0.34) from verified identity geometry. Calibrate the mark's unit to the page job rather than stamping one logo size: complete, offset, parallel, cropped, outline and matrix are the six exposure moves, and one page may withhold the mark entirely while site marks carry its measure. Keep the reading field calm; vary motif scale and edge placement by page task. No gradients, shadows, rounded cards or pseudo-luxury ornament.",
     "image_rendering": "corporate-photo"
   },
   "colors": {
     "background": "#FFFFFF",
-    "secondary_bg": "#F1F5FA",
-    "primary": "#183A64",
-    "accent": "#876A21",
-    "secondary_accent": "#627187",
-    "text": "#202A38",
-    "secondary_text": "#5C6877",
-    "border": "#CED6DF"
+    "secondary_bg": "#F7F5EE",
+    "primary": "#14228F",
+    "accent": "#A98B28",
+    "secondary_accent": "#0E1530",
+    "text": "#14191C",
+    "secondary_text": "#667077",
+    "border": "#D8D5CC"
+  },
+  "contextual_paint": {
+    "paper": "#FFFFFF",
+    "warm_paper": "#F7F5EE",
+    "blue": "#14228F",
+    "deep": "#0E1530",
+    "gold": "#A98B28",
+    "muted": "#667077",
+    "rule": "#D8D5CC",
+    "pale": "#EEF0F4",
+    "blue_pale": "#E4E8F2",
+    "on_dark_text": "#FFFFFF",
+    "on_dark_secondary": "#AEB8CA"
   },
   "typography": {
     "font_family": "Arial",
@@ -40,17 +54,52 @@
       "title": "Georgia",
       "body": "Arial",
       "kicker": "Arial"
-    }
+    },
+    "ladders": {
+      "a4": {
+        "annotation": 16,
+        "caption": 18,
+        "body": 24,
+        "lead": 30,
+        "heading_sm": 38,
+        "title": 64,
+        "display": 96,
+        "hero": 160
+      },
+      "ppt169": {
+        "annotation": 12,
+        "caption": 14,
+        "body": 19,
+        "lead": 24,
+        "heading_sm": 30,
+        "title": 48,
+        "display": 72,
+        "hero": 120
+      }
+    },
+    "tracking_em": {
+      "kicker": 0.2,
+      "running_header": 0.18,
+      "display": 0.01
+    },
+    "leading": {
+      "body": 1.5,
+      "lead": 1.4,
+      "display": 1.1
+    },
+    "ladder_note": "Calibrated for physical A4 print (210 x 297 mm = 595.28 x 841.89 pt on the 1240 x 1754 authoring canvas, where 1 SVG unit = 0.48 pt). At A4 print: annotation/coordinate-tick 16 = 7.7 pt (floor 14 = 6.7 pt), kicker/caption 18 = 8.6 pt, body 24 = 11.5 pt, lead 30 = 14.4 pt, subhead 38 = 18.2 pt, title 64 = 30.7 pt, display/masthead 96-150 = 46-72 pt, cropped pillar numerals 280-300 = 134-144 pt."
   },
   "fonts": [],
   "postexport": {
     "embed_fonts": false
   },
   "design_defaults": [
-    "提取当前品牌的实际轮廓、角度、线宽、间距与交叠关系；正式标识与衍生装饰分别保留。",
-    "用编辑网格、可读字号与清晰信息结构组织内容；装饰强度随页面任务变化。",
-    "纯色、低对比几何和柔和渐变可以形成同一风格的页面变体，具体色板服从当前身份与项目确认。",
-    "品牌衍生先验证连接、交叉、端点、比例与负空间；仅提取基本形状不足以建立识别度，未通过识别判断的装饰不作品牌案例。"
+    "先核对品牌实际轮廓、最小重复单位、线宽、间距、连接与交叠关系；把测量结果写成 6u 场、2u 臂、1u 框、2u 开口一类的可执行规则，再开始构图。",
+    "把标识的测量单位同时用作页面网格的尺度：A4 上使用 100 边距、1040 内容宽、六轨 173.33；按页面任务选择 u（页眉 8–12、阅读边注 20–30、开篇 48–64、摄影 42–110），框厚始终恒定。",
+    "每页只选一个主要露出方式：完整、错位叠透、平行线场、裁切、轮廓、矩阵；品牌也可以在某页完全退场，由现场裁切标记承担同一套测量逻辑。",
+    "仅在几何与影像或色场真实交叠时使用 1.0 / 0.58 / 0.34 三级透明度；纸面上的单枚实色标识胜过三枚半透明标识，正文与规则线永远不透明。",
+    "参考构成主义、风格派、瑞士国际主义、建筑制图与图底关系：让比例、开口、标注与阅读动线承担表达，不使用渐变、阴影、圆角卡片或装饰性奢华符号。",
+    "品牌衍生先验证连接、交叉、端点、比例与负空间；未通过识别判断的装饰不作品牌案例，真实项目也不得凭空发明伪标识。"
   ],
   "maturity": "experimental"
 }

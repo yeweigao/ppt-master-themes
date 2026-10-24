@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-cover" data-pptx-layout-name="Full-bleed cover">
+  <defs><linearGradient id="cover-shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000000" stop-opacity="0" /><stop offset="1" stop-color="#000000" stop-opacity="0.78" /></linearGradient></defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8" />
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/dunes.jpg" /></g>
+  <rect id="photo-shade" data-pptx-role="decoration" x="0" y="700" width="1240" height="1054" fill="url(#cover-shade)" />
+  <rect id="masthead-bar" data-pptx-role="decoration" x="100" y="96" width="430" height="52" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 1040 70"><text data-pptx-carrier="true" x="118" y="131" fill="#111111" font-size="18" letter-spacing="2.4" font-family="Arial Narrow, Arial">THE FIELD JOURNAL  /  LANDSCAPE STUDY</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="3" data-pptx-bounds="100 1110 1040 320"><text letter-spacing="-1.5" data-pptx-carrier="true" x="100" y="1238" fill="#FFFFFF" font-size="120" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Beyond the<tspan x="100" dy="136">frame.</tspan></text></g>
+  <g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="4" data-pptx-bounds="100 1446 860 120"><text data-pptx-carrier="true" x="100" y="1480" fill="#FFFFFF" font-size="30">A field guide to light,<tspan x="100" dy="45">landscape and attention.</tspan></text></g>
+  <g id="edition" data-pptx-placeholder="date" data-pptx-idx="5" data-pptx-bounds="100 1630 1040 54"><text data-pptx-carrier="true" x="100" y="1655" fill="#FFFFFF" font-size="18">FIELD NOTES    /    AN EDITORIAL LAYOUT STUDY</text></g>
+
+  <rect id="cover-frame" data-pptx-role="decoration" x="9" y="9" width="1222" height="1736" fill="none" stroke="#FFE500" stroke-width="14"/>
+  <rect id="cover-tab" data-pptx-role="decoration" x="100" y="1618" width="150" height="8" fill="#FFE500"/>
+</svg>

@@ -1,12 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-geometry" data-pptx-layout-name="Photographs and geometric counterweight">
   <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
-  <circle id="counterweight" data-pptx-layer="layout" data-pptx-editable="false" cx="820" cy="700" r="360" fill="#ECEEEF"/>
-  <line id="caption-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1370" x2="240" y2="1370" stroke="#70777B" stroke-width="4"/>
+  <rect id="stepped-field" data-pptx-layer="layout" data-pptx-editable="false" x="460" y="420" width="680" height="560" fill="#ECEEEF" fill-opacity="0.72"/>
+  <circle id="counterweight" data-pptx-layer="layout" data-pptx-editable="false" cx="880" cy="740" r="280" fill="#C8D0D8" fill-opacity="0.55"/>
+  <rect id="accent-block" data-pptx-layer="layout" data-pptx-editable="false" x="600" y="340" width="360" height="220" fill="#18202C" fill-opacity="0.82"/>
+  <line id="top-axis" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="155" x2="1140" y2="155" stroke="#20262A" stroke-width="2"/>
+  <line id="caption-rule" data-pptx-layer="layout" data-pptx-editable="false" x1="100" y1="1370" x2="320" y2="1370" stroke="#20262A" stroke-width="4"/>
   <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44"><text data-pptx-carrier="true" x="100" y="124" fill="#62696D" font-size="18" letter-spacing="2">{{SECTION_NAME}}</text></g>
-  <g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 210 1040 190"><text data-pptx-carrier="true" x="100" y="280" fill="#20262A" font-size="66" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 200 1040 190"><text data-pptx-carrier="true" x="100" y="275" fill="#20262A" font-size="72" font-weight="bold">{{PAGE_TITLE}}</text></g>
   <g id="photo-main" data-pptx-placeholder="picture" data-pptx-idx="3" data-pptx-bounds="100 500 680 800"><image data-pptx-carrier="true" x="100" y="500" width="680" height="800" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
-  <g id="photo-detail" data-pptx-placeholder="picture" data-pptx-idx="4" data-pptx-bounds="820 1060 420 500"><image data-pptx-carrier="true" x="820" y="1060" width="420" height="500" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
-  <g id="note" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="820 805 280 170"><text data-pptx-carrier="true" x="820" y="833" fill="#20262A">{{NOTE_1}}</text></g>
-  <g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1420 680 160"><text data-pptx-carrier="true" x="100" y="1448" fill="#20262A">{{CONTENT_AREA}}</text></g>
+  <rect id="interlock-glaze" data-pptx-role="decoration" x="640" y="920" width="280" height="240" fill="#18202C" fill-opacity="0.38"/>
+  <rect id="photo-main-border" data-pptx-role="decoration" x="100" y="500" width="680" height="800" fill="none" stroke="#20262A" stroke-width="3"/>
+  <g id="photo-detail" data-pptx-placeholder="picture" data-pptx-idx="4" data-pptx-bounds="820 1040 320 520"><image data-pptx-carrier="true" x="820" y="1040" width="320" height="520" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
+  <rect id="interlock-glaze-light" data-pptx-role="decoration" x="740" y="1000" width="180" height="140" fill="#FFFFFF" fill-opacity="0.45"/>
+  <rect id="photo-detail-border" data-pptx-role="decoration" x="820" y="1040" width="320" height="520" fill="none" stroke="#20262A" stroke-width="3"/>
+  <g id="note" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="820 600 300 320"><text data-pptx-carrier="true" x="820" y="632" fill="#20262A" font-size="22">{{NOTE_1}}</text></g>
+  <g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1410 680 170"><text data-pptx-carrier="true" x="100" y="1442" fill="#20262A">{{CONTENT_AREA}}</text></g>
   <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#62696D" font-size="18">{{PAGE_NUM}}</text></g>
 </svg>

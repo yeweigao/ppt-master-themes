@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-deconstruct" data-pptx-layout-name="Deconstructed modular grid over full-bleed photo">
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#FFFFFF"/>
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><image data-pptx-carrier="true" x="0" y="0" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGO4cfsuAAUfApHcJOEkAAAAAElFTkSuQmCC"/></g>
+  <!-- Tier 3: Light translucent glaze panes (0.32 - 0.36) crossing boundaries -->
+  <rect id="veil-upper-bridge" data-pptx-role="decoration" x="460" y="180" width="520" height="220" fill="#18202C" fill-opacity="0.34"/>
+  <rect id="veil-mid-left" data-pptx-role="decoration" x="80" y="840" width="380" height="260" fill="#18202C" fill-opacity="0.32"/>
+  <rect id="veil-lower-wave" data-pptx-role="decoration" x="620" y="920" width="440" height="280" fill="#18202C" fill-opacity="0.34"/>
+  <!-- Tier 2: Mid-tone interlocking cells (0.56 - 0.64) overlapping Tier 3 & Tier 1 -->
+  <rect id="glass-upper" data-pptx-role="decoration" x="600" y="220" width="340" height="200" fill="#18202C" fill-opacity="0.58"/>
+  <rect id="glass-lower-left" data-pptx-role="decoration" x="140" y="1140" width="400" height="240" fill="#18202C" fill-opacity="0.56"/>
+  <rect id="glass-lower-mid" data-pptx-role="decoration" x="660" y="1000" width="240" height="320" fill="#18202C" fill-opacity="0.62"/>
+  <rect id="glass-corner-echo" data-pptx-role="decoration" x="340" y="420" width="180" height="140" fill="#18202C" fill-opacity="0.52"/>
+  <!-- Tier 1: Solid anchor cells (1.0) holding copy and directional symbols -->
+  <rect id="cell-top-left" data-pptx-role="decoration" x="0" y="0" width="180" height="220" fill="#18202C"/>
+  <rect id="cell-headline" data-pptx-role="decoration" x="180" y="220" width="540" height="260" fill="#18202C"/>
+  <rect id="cell-badge" data-pptx-role="decoration" x="180" y="480" width="240" height="180" fill="#18202C"/>
+  <rect id="cell-top-right" data-pptx-role="decoration" x="720" y="0" width="520" height="260" fill="#18202C"/>
+  <rect id="cell-mid-right" data-pptx-role="decoration" x="780" y="420" width="460" height="580" fill="#18202C"/>
+  <rect id="cell-bottom-right" data-pptx-role="decoration" x="540" y="1320" width="700" height="434" fill="#18202C"/>
+  <rect id="cell-bottom-left" data-pptx-role="decoration" x="0" y="1480" width="180" height="274" fill="#18202C"/>
+  <rect id="cell-step-left" data-pptx-role="decoration" x="0" y="680" width="140" height="220" fill="#18202C"/>
+  <rect id="cell-step-low" data-pptx-role="decoration" x="220" y="960" width="180" height="220" fill="#18202C"/>
+  <path id="arrow-ne" data-pptx-role="decoration" d="M 1110 490 L 1146 454 M 1118 454 L 1146 454 L 1146 482" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <path id="nav-chevrons" data-pptx-role="decoration" d="M 650 1200 L 634 1216 L 650 1232 M 730 1200 L 746 1216 L 730 1232" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="36 60 124 120"><text data-pptx-carrier="true" x="36" y="88" fill="#FFFFFF" font-size="16" font-weight="bold" letter-spacing="1">{{SECTION_NAME}}</text></g>
+  <g id="brand-label" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="820 80 340 80"><text data-pptx-carrier="true" x="820" y="116" fill="#FFFFFF" font-size="28" font-weight="bold" letter-spacing="3">{{LABEL}}</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="4" data-pptx-bounds="220 255 460 200"><text data-pptx-carrier="true" x="220" y="305" fill="#FFFFFF" font-size="38" font-weight="bold">{{PAGE_TITLE}}</text></g>
+  <g id="main-copy" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="820 530 360 400"><text data-pptx-carrier="true" x="820" y="562" fill="#DCE2EA" font-size="20">{{CONTENT_AREA}}</text></g>
+  <g id="source" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="600 1420 540 160"><text data-pptx-carrier="true" x="600" y="1456" fill="#FFFFFF" font-size="22">{{SOURCE}}</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1640 100 50"><text data-pptx-carrier="true" x="1040" y="1665" fill="#DCE2EA" font-size="18">{{PAGE_NUM}}</text></g>
+</svg>

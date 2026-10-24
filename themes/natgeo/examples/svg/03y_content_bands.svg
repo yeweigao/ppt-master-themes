@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-bands" data-pptx-layout-name="Three full-width photographic bands">
+  <defs>
+    <linearGradient id="band-shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0"/><stop offset="0.52" stop-color="#0A0A0A" stop-opacity="0.35"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.88"/></linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8"/>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="100 100 1040 44"><text data-pptx-carrier="true" x="100" y="124" fill="#5C5C5C" font-size="18" letter-spacing="2" font-family="Arial Narrow, Arial">08 / THREE DISTANCES</text></g>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="2" data-pptx-bounds="100 189 660 216"><text letter-spacing="-1.5" data-pptx-carrier="true" x="100" y="267.6" fill="#111111" font-size="96" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Three ways<tspan x="100" dy="106.11">to look.</tspan></text></g>
+  <rect id="title-rule" data-pptx-role="decoration" x="800" y="222" width="340" height="6" fill="#FFE500"/>
+  <g id="band-1" data-pptx-placeholder="picture" data-pptx-idx="3" data-pptx-bounds="0 420 1240 380"><image data-pptx-carrier="true" x="0" y="420" width="1240" height="380" preserveAspectRatio="xMidYMid slice" href="../images/waterfall.jpg"/></g>
+  <rect id="band-1-shade" data-pptx-role="decoration" x="0" y="420" width="1240" height="380" fill="url(#band-shade)"/>
+  <g id="band-1-kicker" data-pptx-placeholder="body" data-pptx-idx="4" data-pptx-bounds="100 640 900 44"><text data-pptx-carrier="true" x="100" y="672" fill="#FFE500" font-size="18" letter-spacing="3" font-family="Arial Narrow, Arial">01 / WATER</text></g>
+  <g id="band-1-caption" data-pptx-placeholder="body" data-pptx-idx="5" data-pptx-bounds="100 692 900 90"><text data-pptx-carrier="true" x="100" y="742" fill="#FFFFFF" font-size="44" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Follow the current.</text></g>
+  <g id="band-2" data-pptx-placeholder="picture" data-pptx-idx="6" data-pptx-bounds="0 840 1240 380"><image data-pptx-carrier="true" x="0" y="840" width="1240" height="380" preserveAspectRatio="xMidYMid slice" href="../images/lake.jpg"/></g>
+  <rect id="band-2-shade" data-pptx-role="decoration" x="0" y="840" width="1240" height="380" fill="url(#band-shade)"/>
+  <g id="band-2-kicker" data-pptx-placeholder="body" data-pptx-idx="7" data-pptx-bounds="100 1060 900 44"><text data-pptx-carrier="true" x="100" y="1092" fill="#FFE500" font-size="18" letter-spacing="3" font-family="Arial Narrow, Arial">02 / STILLNESS</text></g>
+  <g id="band-2-caption" data-pptx-placeholder="body" data-pptx-idx="8" data-pptx-bounds="100 1112 900 90"><text data-pptx-carrier="true" x="100" y="1162" fill="#FFFFFF" font-size="44" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Let the surface settle.</text></g>
+  <g id="band-3" data-pptx-placeholder="picture" data-pptx-idx="9" data-pptx-bounds="0 1260 1240 380"><image data-pptx-carrier="true" x="0" y="1260" width="1240" height="380" preserveAspectRatio="xMidYMid slice" href="../images/autumn.jpg"/></g>
+  <rect id="band-3-shade" data-pptx-role="decoration" x="0" y="1260" width="1240" height="380" fill="url(#band-shade)"/>
+  <g id="band-3-kicker" data-pptx-placeholder="body" data-pptx-idx="10" data-pptx-bounds="100 1480 900 44"><text data-pptx-carrier="true" x="100" y="1512" fill="#FFE500" font-size="18" letter-spacing="3" font-family="Arial Narrow, Arial">03 / SEASON</text></g>
+  <g id="band-3-caption" data-pptx-placeholder="body" data-pptx-idx="11" data-pptx-bounds="100 1532 900 90"><text data-pptx-carrier="true" x="100" y="1582" fill="#FFFFFF" font-size="44" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">Wait for the turn.</text></g>
+  <g id="credit" data-pptx-placeholder="body" data-pptx-idx="12" data-pptx-bounds="100 1680 800 40"><text data-pptx-carrier="true" x="100" y="1702" fill="#5C5C5C" font-size="16" letter-spacing="1.6" font-family="Arial Narrow, Arial">PHOTOS: MARTIN EKLUND / BONNIE MORELAND / ARCHBOB — CC0 1.0</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="13" data-pptx-bounds="1040 1680 100 40"><text data-pptx-carrier="true" x="1040" y="1702" fill="#5C5C5C" font-size="18">27</text></g>
+</svg>

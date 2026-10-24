@@ -1,47 +1,47 @@
 [
   {
     "layout": "01_cover",
-    "slot": "hero",
+    "slot": "photo",
     "photo": "dunes"
   },
   {
     "layout": "02_chapter",
-    "slot": "hero",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03c_content_bottom",
-    "slot": "hero",
+    "slot": "photo",
     "photo": "autumn"
   },
   {
     "layout": "03d_content_side",
-    "slot": "hero",
+    "slot": "photo",
     "photo": "waterfall"
   },
   {
     "layout": "03e_content_spread_left",
-    "slot": "panorama",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03f_content_spread_right",
-    "slot": "panorama",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03i_content_gallery",
-    "slot": "photo-wide",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03i_content_gallery",
-    "slot": "photo-left",
+    "slot": "photo",
     "photo": "horizon"
   },
   {
     "layout": "03i_content_gallery",
-    "slot": "photo-right",
+    "slot": "photo",
     "photo": "waterfall"
   },
   {
@@ -51,102 +51,182 @@
   },
   {
     "layout": "03m_content_masonry",
-    "slot": "photo-1",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03m_content_masonry",
-    "slot": "photo-2",
+    "slot": "photo",
     "photo": "autumn"
   },
   {
     "layout": "03m_content_masonry",
-    "slot": "photo-3",
+    "slot": "photo",
     "photo": "waterfall"
   },
   {
     "layout": "03m_content_masonry",
-    "slot": "photo-4",
+    "slot": "photo",
     "photo": "horizon"
   },
   {
     "layout": "03m_content_masonry",
-    "slot": "photo-5",
+    "slot": "photo",
     "photo": "ocean"
   },
   {
     "layout": "03m_content_masonry",
-    "slot": "photo-6",
+    "slot": "photo",
     "photo": "dunes"
   },
   {
     "layout": "03n_content_stagger",
-    "slot": "photo-1",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03n_content_stagger",
-    "slot": "photo-2",
+    "slot": "photo",
     "photo": "waterfall"
   },
   {
     "layout": "03n_content_stagger",
-    "slot": "photo-3",
+    "slot": "photo",
     "photo": "horizon"
   },
   {
     "layout": "03o_content_contact",
-    "slot": "hero",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03o_content_contact",
-    "slot": "photo-1",
+    "slot": "photo",
     "photo": "dunes"
   },
   {
     "layout": "03o_content_contact",
-    "slot": "photo-2",
+    "slot": "photo",
     "photo": "waterfall"
   },
   {
     "layout": "03o_content_contact",
-    "slot": "photo-3",
+    "slot": "photo",
     "photo": "autumn"
   },
   {
     "layout": "03o_content_contact",
-    "slot": "photo-4",
+    "slot": "photo",
     "photo": "ocean"
   },
   {
     "layout": "03o_content_contact",
-    "slot": "photo-5",
+    "slot": "photo",
     "photo": "woodland"
   },
   {
     "layout": "03o_content_contact",
-    "slot": "photo-6",
+    "slot": "photo",
     "photo": "horizon"
   },
   {
     "layout": "03p_content_overlay",
-    "slot": "hero",
+    "slot": "photo",
     "photo": "lake"
   },
   {
     "layout": "03q_content_geometry",
-    "slot": "photo-main",
+    "slot": "photo",
     "photo": "waterfall"
   },
   {
     "layout": "03q_content_geometry",
-    "slot": "photo-detail",
+    "slot": "photo",
     "photo": "woodland"
   },
   {
-    "layout": "04_ending",
-    "slot": "hero",
+    "layout": "03v_content_matrix",
+    "slot": "photo",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03v_content_matrix",
+    "slot": "photo",
+    "photo": "dunes"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
+    "photo": "lake"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
+    "photo": "dunes"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
+    "photo": "waterfall"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
     "photo": "autumn"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
+    "photo": "ocean"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
+    "photo": "woodland"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
+    "photo": "horizon"
+  },
+  {
+    "layout": "03w_content_metrics_masonry",
+    "slot": "photo",
+    "photo": "lake"
+  },
+  {
+    "layout": "03x_content_deconstruct",
+    "slot": "photo",
+    "photo": "ocean"
+  },
+  {
+    "layout": "03y_content_atelier",
+    "slot": "photo",
+    "photo": "autumn"
+  },
+  {
+    "layout": "04_ending",
+    "slot": "photo",
+    "photo": "autumn"
+  },
+  {
+    "layout": "03aa_content_immersion_left",
+    "slot": "photo",
+    "photo": "ocean"
+  },
+  {
+    "layout": "03ab_content_immersion_right",
+    "slot": "photo",
+    "photo": "ocean"
+  },
+  {
+    "layout": "03ac_content_feature_folio",
+    "slot": "photo",
+    "photo": "horizon"
+  },
+  {
+    "layout": "03ad_content_feature_panel",
+    "slot": "photo",
+    "photo": "woodland"
   }
 ]

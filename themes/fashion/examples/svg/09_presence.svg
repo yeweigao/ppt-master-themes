@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" lang="en-GB" font-family="Archivo" data-pptx-page-role="content">
+<defs>
+<clipPath id="ring-a"><circle cx="470" cy="648" r="148"/></clipPath>
+<clipPath id="ring-b"><circle cx="786" cy="808" r="168"/></clipPath>
+<clipPath id="ring-c"><circle cx="606" cy="1000" r="118"/></clipPath>
+</defs>
+<rect id="bg-fill" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#0A0A0A"/>
+<g data-pptx-bounds="0 0 1240 1754" id="ghost-word" data-pptx-role="decoration">
+<text x="150" y="720" font-family="Bodoni Moda" font-size="300" fill="#FFFFFF" font-weight="bold" letter-spacing="-6" fill-opacity="0.07">CAST</text>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="cobalt-t" data-pptx-role="decoration">
+<rect id="t-vertical" data-pptx-role="decoration" x="492" y="120" width="240" height="520" fill="#1710CC" fill-opacity="0.55"/>
+<rect id="t-horizontal" data-pptx-role="decoration" x="350" y="400" width="540" height="200" fill="#1710CC" fill-opacity="0.4"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="ring" data-pptx-role="decoration">
+<circle cx="620" cy="780" r="306" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-opacity="0.75"/>
+<circle cx="620" cy="780" r="246" fill="none" stroke="#FFFFFF" stroke-width="0.8" stroke-opacity="0.35"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="ring-portrait-a" data-pptx-role="decoration">
+<image id="ring-img-a" data-pptx-role="decoration" clip-path="url(#ring-a)" href="../images/_cast_bw.jpg" x="322" y="500" width="296" height="296" preserveAspectRatio="xMidYMid slice"/>
+<circle cx="470" cy="648" r="148" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="ring-portrait-b" data-pptx-role="decoration">
+<image id="ring-img-b" data-pptx-role="decoration" clip-path="url(#ring-b)" href="../images/_cast_shirt.jpg" x="618" y="640" width="336" height="336" preserveAspectRatio="xMidYMid slice"/>
+<circle cx="786" cy="808" r="168" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+<circle cx="786" cy="808" r="168" fill="#1710CC" fill-opacity="0.22"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="ring-portrait-c" data-pptx-role="decoration">
+<image id="ring-img-c" data-pptx-role="decoration" clip-path="url(#ring-c)" href="../images/_cast_updo.jpg" x="488" y="882" width="236" height="236" preserveAspectRatio="xMidYMid slice"/>
+<circle cx="606" cy="1000" r="118" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+</g>
+<g id="masthead" data-pptx-role="decoration" data-pptx-bounds="88 40 1064 56"><line x1="88" y1="92" x2="1152" y2="92" stroke="#FFFFFF" stroke-width="1"/><text x="88" y="70" font-family="Archivo" font-size="16" fill="#FFFFFF" font-weight="bold" letter-spacing="2.8">MAISON 170</text><text x="1152" y="70" font-family="Archivo" font-size="15" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4" text-anchor="end">PRESENCE</text><text x="1152" y="84" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0" text-anchor="end">09 / 11</text></g>
+<text x="88" y="210" font-family="Bodoni Moda" font-size="60" fill="#FFFFFF" font-weight="bold" letter-spacing="-0.8">PRESENCE</text>
+<text x="88" y="238" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.2" fill-opacity="0.7">A STUDY IN LIGHT, RING AND OVERPRINT</text>
+<text x="88" y="1300" font-family="Bodoni Moda" font-size="18" fill="#FFFFFF">The camera does not</text>
+<text x="88" y="1326" font-family="Bodoni Moda" font-size="18" fill="#FFFFFF">invent presence.</text>
+<text x="88" y="1352" font-family="Bodoni Moda" font-size="18" fill="#FFFFFF">It waits for it.</text>
+<text x="960" y="1160" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.2">THREE PORTRAITS</text>
+<text x="960" y="1180" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0" fill-opacity="0.75">ONE RING</text>
+<text x="960" y="1200" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0" fill-opacity="0.75">ZERO HIERARCHY</text>
+<line x1="960" y1="1220" x2="1152" y2="1220" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.5"/>
+<text x="960" y="1250" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2" fill-opacity="0.8">A face is a field.</text>
+<text x="960" y="1268" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2" fill-opacity="0.8">A silhouette is a</text>
+<text x="960" y="1286" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2" fill-opacity="0.8">decision about</text>
+<text x="960" y="1304" font-family="Archivo" font-size="15" fill="#FFFFFF" letter-spacing="0.2" fill-opacity="0.8">where to stop.</text>
+<text x="88" y="1470" font-family="Six Caps" font-size="100" fill="#FFFFFF" letter-spacing="6.0">PRESENCE</text>
+<text x="88" y="1496" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="2.0" fill-opacity="0.6">SERIES 170 / STUDIO 04</text>
+<text x="1152" y="1470" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8" text-anchor="end" fill-opacity="0.6">ALPHA 55 / 40 / 22</text>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="88 1640 1064 50"><line x1="88" y1="1652" x2="1152" y2="1652" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.35"/><text x="88" y="1682" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.6">FASHION 170 — A GLOBAL CAST</text><text x="1152" y="1682" font-family="Archivo" font-size="14" fill="#FFFFFF" font-weight="bold" letter-spacing="2.4" text-anchor="end">09</text></g>
+</svg>

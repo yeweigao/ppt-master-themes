@@ -2,7 +2,7 @@
 
 This document maps the theme package to ppt-master's existing authority. It is not a second
 runtime. The installed `SKILL.md`, `workflows/routing.md`, selected runtime and triggered modules
-own execution. The integration was reviewed against local ppt-master 6.3.2; historical examples
+own execution. The integration was reviewed against local ppt-master 6.7.3; historical examples
 reference 6.7.2. No package version or smoke check proves a full generation run.
 
 `ST` is this package's absolute root, `TH` the theme directory, `PM` the host/user-provided
@@ -33,7 +33,7 @@ averaging styles or changing the confirmed communication contract.
 
 [A4 Editorial](../layouts/a4-editorial/README.md) is this package's separate structure workspace
 at `ST/layouts/a4-editorial/workspace`, not a ppt-master built-in or a Style prototype roster.
-It contributes one Master and twelve Layout prototypes; an independently selected Style supplies
+It contributes one Master and 33 Layout prototypes (`01_cover`, `02_chapter`, `03a`–`03ad`, and `04_ending`); an independently selected Style supplies
 method and a Brand supplies identity. Keep each contribution in its existing template kind.
 
 When the user explicitly selects this package's Layout, or Create Template hands off this exact
@@ -131,8 +131,14 @@ registration. An existing same-kind Style creates a selection conflict, not an a
    asset changes. No acquisition at page-authoring time and no broad user-asset re-registration.
 9. **Executor**: load required core and triggered modules, use the runtime's `text_measure.py`
    calibration, and decide page job → relationship/topology → carrier mix → composition before
-   coordinates. Theme recipes help unify lighting, hierarchy and photo rhythm; they do not
-   replace these decisions, exact roster, live preview, gate cadence or native-object contracts.
+   coordinates. **Before authoring each SVG page, inspect the matching filled reference SVG(s)
+   in `ST/website/artwork/templates/<id>.svg` (plus `TH/recipes.md` R16–R17)** to study the
+   calibrated scale contrast, `<tspan>` line-break rhythm, 3-tier interlocking opacity
+   (`1.0 / 0.58 / 0.34`), die-cut `<path>` notches and `<clipPath>` cropped numerals. Adapt the
+   construction and layer order to the confirmed canvas (whether A4 portrait `1240×1754` or
+   16:9 widescreen `1280×720`) while keeping all demo copy and CC0 landscape photos out of the
+   project. Theme recipes and artwork templates unify lighting, hierarchy and avant-garde rhythm;
+   they do not replace exact roster, live preview, gate cadence or native-object contracts.
 10. **Export**: finish all runtime-owned gates, image readiness, notes split, conditional chart /
     motion / audio work, and export with its effective flags. Read the compact postflight receipt.
     This package never forces `--no-notes`, drops `--native-charts-and-tables`, runs Default gates

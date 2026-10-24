@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" width="1240" height="1754" lang="en-GB" font-family="Archivo" data-pptx-page-role="content">
+<rect id="bg-fill" data-pptx-role="background" x="0" y="0" width="1240" height="1754" fill="#F6F4EF"/>
+<g id="masthead" data-pptx-role="decoration" data-pptx-bounds="88 40 1064 56">
+<line x1="88" y1="92" x2="1152" y2="92" stroke="#D9D5CB" stroke-width="1"/>
+<text x="88" y="70" font-family="Archivo" font-size="16" fill="#0A0A0A" font-weight="bold" letter-spacing="2.8">MAISON 170</text>
+<text x="1152" y="70" font-family="Archivo" font-size="15" fill="#0A0A0A" font-weight="bold" letter-spacing="2.4" text-anchor="end">CAMPAIGN</text>
+<text x="1152" y="84" font-family="Archivo" font-size="14" fill="#0A0A0A" letter-spacing="2.0" text-anchor="end">03 / 11</text>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="campaign-photo" data-pptx-role="decoration">
+<image id="campaign-image" data-pptx-role="decoration" href="../images/_profile.jpg" x="0" y="96" width="578" height="1504" preserveAspectRatio="xMidYMid slice"/>
+<rect x="0" y="96" width="578" height="1504" fill="#1710CC" fill-opacity="0.14"/>
+</g>
+<g data-pptx-bounds="0 0 1240 1754" id="campaign-block" data-pptx-role="decoration">
+<rect id="crop-block" data-pptx-role="decoration" x="578" y="96" width="182" height="1504" fill="#1710CC" fill-opacity="0.86"/>
+<rect x="578" y="96" width="182" height="40" fill="#1710CC" fill-opacity="0.32"/>
+</g>
+<text x="602" y="700" font-family="Archivo" font-size="16" fill="#FFFFFF" font-weight="bold" letter-spacing="2.2">THE</text>
+<text x="602" y="724" font-family="Archivo" font-size="16" fill="#FFFFFF" font-weight="bold" letter-spacing="2.2">IMAGE</text>
+<text x="602" y="748" font-family="Archivo" font-size="16" fill="#FFFFFF" font-weight="bold" letter-spacing="2.2">IS THE</text>
+<text x="602" y="772" font-family="Archivo" font-size="16" fill="#FFFFFF" font-weight="bold" letter-spacing="2.2">PAGE</text>
+<text x="602" y="1470" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8">170 / 01</text>
+<text x="602" y="1490" font-family="Archivo" font-size="14" fill="#FFFFFF" letter-spacing="1.8">CAMPAIGN</text>
+<text x="808" y="236" font-family="Archivo" font-size="15" fill="#1710CC" font-weight="bold" letter-spacing="2.6">THE CAMPAIGN / 02</text>
+<line x1="808" y1="264" x2="1152" y2="264" stroke="#0A0A0A" stroke-width="1"/>
+<text x="808" y="372" font-family="Bodoni Moda" font-size="52" fill="#0A0A0A" letter-spacing="-0.6">A word can</text>
+<text x="808" y="430" font-family="Bodoni Moda" font-size="52" fill="#0A0A0A" letter-spacing="-0.6">carry a whole</text>
+<text x="808" y="488" font-family="Bodoni Moda" font-size="52" fill="#1710CC" letter-spacing="-0.6">campaign.</text>
+<text x="808" y="566" font-family="Archivo" font-size="14" fill="#0A0A0A" letter-spacing="0.2">The letterform is the frame. The</text>
+<text x="808" y="590" font-family="Archivo" font-size="14" fill="#0A0A0A" letter-spacing="0.2">photograph is the ink. A single</text>
+<text x="808" y="614" font-family="Archivo" font-size="14" fill="#0A0A0A" letter-spacing="0.2">word can hold an entire season.</text>
+<text x="808" y="760" font-family="Bodoni Moda" font-size="168" fill="#1710CC" font-weight="bold" letter-spacing="-6">170</text>
+<text x="808" y="800" font-family="Archivo" font-size="14" fill="#0A0A0A" font-weight="bold" letter-spacing="2.2">WORDS / 01</text>
+<line x1="808" y1="828" x2="1152" y2="828" stroke="#D9D5CB" stroke-width="1"/>
+<text x="808" y="890" font-family="Bodoni Moda" font-size="22" fill="#0A0A0A">A word is a container.</text>
+<text x="808" y="922" font-family="Bodoni Moda" font-size="22" fill="#0A0A0A">The page decides its weight.</text>
+<text x="808" y="990" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="1.6">MASK GENERATED FROM A FREE PORTRAIT</text>
+<text x="808" y="1008" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.6">THEMES / FASHION / SCRIPTS</text>
+<line x1="808" y1="1060" x2="1152" y2="1060" stroke="#D9D5CB" stroke-width="1"/>
+<text x="808" y="1096" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.8">TYPE / BODONI MODA, SIX CAPS</text>
+<text x="808" y="1114" font-family="Archivo" font-size="14" fill="#77736B" letter-spacing="1.8">IMAGE / UNSPLASH, FREE EDITORIAL USE</text>
+<text x="808" y="1450" font-family="Six Caps" font-size="32" fill="#0A0A0A" letter-spacing="3.2">A WORD CAN CARRY</text>
+<text x="808" y="1484" font-family="Six Caps" font-size="32" fill="#1710CC" letter-spacing="3.2">A WHOLE CAMPAIGN</text>
+<text x="808" y="1530" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="1.8">ONE WORD, ONE IMAGE, ONE PAGE.</text>
+<g id="footer" data-pptx-role="footer" data-pptx-bounds="88 1640 1064 50"><line x1="88" y1="1652" x2="1152" y2="1652" stroke="#77736B" stroke-width="1" stroke-opacity="0.35"/><text x="88" y="1682" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="2.6">FASHION 170 — A GLOBAL CAST</text><text x="1152" y="1682" font-family="Archivo" font-size="14" fill="#77736B" font-weight="bold" letter-spacing="2.4" text-anchor="end">03</text></g>
+</svg>

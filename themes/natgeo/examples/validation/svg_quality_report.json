@@ -1,0 +1,2166 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "2546996fb3c718652b21b61f6d04d2797b308ee378e3d59c3a179e5ac172e9cd",
+    "file_count": 28,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "b88c0cd822f1c620a475015549d961aa3b1353f879f38026f4b7912c7e45e09b"
+      },
+      {
+        "file": "02_chapter.svg",
+        "sha256": "3b1df381a6707bfa7974715741b5436e1a01b940e44aac2f6931c9899b470d61"
+      },
+      {
+        "file": "03a_content_dual.svg",
+        "sha256": "ae808afe4264894f3466b78acda51806c7e4ece8971095f29c10fbe34383fc21"
+      },
+      {
+        "file": "03b_content_sidebar.svg",
+        "sha256": "7a21db660009d5b77646eb49026c70a8fcacc30d0bd3d25d652471c2d72249ad"
+      },
+      {
+        "file": "03c_content_bottom.svg",
+        "sha256": "32eca7be99a938c39805f560b21a0952e1675d2e433254f0577265151e014180"
+      },
+      {
+        "file": "03d_content_side.svg",
+        "sha256": "4d04dafb59921ed0bfc0578aec47ac8fadb0fa7a402ae3db67f2d44877e4dadc"
+      },
+      {
+        "file": "03e_content_spread_left.svg",
+        "sha256": "59aa032c1ff5cb30680c593666c272dd861ddf9f6e85c3e15cabdeacd1ee3620"
+      },
+      {
+        "file": "03f_content_spread_right.svg",
+        "sha256": "6cf56a2d12c1f4286f8aa7be0e9c373ee4f1ef54f9002745c8f319bb4cb12a5b"
+      },
+      {
+        "file": "03g_content_steps.svg",
+        "sha256": "dcddd95b9e830b9a5d3bc3b812068e87df979db05651b662b574a18c356b2d05"
+      },
+      {
+        "file": "03h_content_table.svg",
+        "sha256": "943a1ea1e39cb1083c96d564417fe3492e4a4c6290514ebecd4d8723c6436d1a"
+      },
+      {
+        "file": "03i_content_gallery.svg",
+        "sha256": "ebfa51ad3c63f808a97873a2c544c84ee66dc0484c2d53dbbc63b7acb9469a86"
+      },
+      {
+        "file": "03j_content_rhythm.svg",
+        "sha256": "d91db53cdc25270061a4520cac1c0382282cbf996849aa02e488ced46b281ecd"
+      },
+      {
+        "file": "03k_content_marginalia.svg",
+        "sha256": "55103c837cd49660b08c702856562daf0d175e82e15f67db9413b2045707c8ed"
+      },
+      {
+        "file": "03l_content_index.svg",
+        "sha256": "490fb210e595a1b78542c90ba656899ffcc173a11641720ee3c9a1f12fba4436"
+      },
+      {
+        "file": "03m_content_masonry.svg",
+        "sha256": "744ce34e125f2c3a8d2777e801fa7e91ed6e2263a49501746812ae0c9e14e3af"
+      },
+      {
+        "file": "03n_content_stagger.svg",
+        "sha256": "63169bdcf119f2dd8da2aa996ec8284e98db21136c7f97cdc60ebaa46d46d249"
+      },
+      {
+        "file": "03o_content_contact.svg",
+        "sha256": "46c2892fdbd5778cc1402ad2ee7c8c4374e972502d1fdeecd0ea365debc26dec"
+      },
+      {
+        "file": "03p_content_overlay.svg",
+        "sha256": "4083f4c8f0aa973ab0d248de8202dc8c2ee12d1899d32d5b2cea31c6ef6de1bd"
+      },
+      {
+        "file": "03q_content_geometry.svg",
+        "sha256": "d4d48963c7f7df4e73d5037509b22b60a31edbbc2aefb8a9c11ec174f35af2a5"
+      },
+      {
+        "file": "03r_content_evidence.svg",
+        "sha256": "51f273f0dd68b664c8a529f4322a73b7a9d53c2c0c7e6c1d5eaba5a40f63592a"
+      },
+      {
+        "file": "03s_content_comparison.svg",
+        "sha256": "d11492e6b453b6421d3e4c32a1d368633a416d3488548ae3a7174e38ba2a9183"
+      },
+      {
+        "file": "03t_content_chronology.svg",
+        "sha256": "b59deec8e6d63d34d76bd70dba1b0ed97b0bc33bc427c9133f9519d538638768"
+      },
+      {
+        "file": "03u_content_typographic.svg",
+        "sha256": "f32efd11d92f3198ba4ec0a4e05afcbc0da5ab9a993ac637f2ee5930786d725d"
+      },
+      {
+        "file": "03v_content_panorama.svg",
+        "sha256": "b5a5ae1d6bdf25e18a967960a53fc879125ef3958ca11d08035dc288aa30109b"
+      },
+      {
+        "file": "03w_content_metrics_masonry.svg",
+        "sha256": "94f5b7c2efbe004f7038b5878de0d7b21ecf8e2133933b526d518dafd69e30c9"
+      },
+      {
+        "file": "03x_content_fieldnote.svg",
+        "sha256": "a89312cdca339970fcaa1a71de8819fd4ee50e03c256be32287ba9fe26518245"
+      },
+      {
+        "file": "03y_content_bands.svg",
+        "sha256": "1eeb8910c5f1eac9e7c5a8d294e0c9374fc7113c0453c36d102e97ec99344941"
+      },
+      {
+        "file": "04_ending.svg",
+        "sha256": "d853504e9c7b9b42d9e0ef45d9c47c937e036809714a8cb1d99c34a02a95a2e6"
+      }
+    ]
+  },
+  "summary": {
+    "total": 28,
+    "passed": 1,
+    "warnings": 27,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 38,
+      "issues": [
+        {
+          "file": "01_cover.svg",
+          "message": "Quick roster declares no deck language: put lang=\"<BCP-47>\" (vi-VN, he-IL, ...) on the first page's root <svg>; export reads it for run proofing language, right-to-left defaults, theme script slots and docProps (advisory)"
+        },
+        {
+          "file": "01_cover.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "02_chapter.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+        },
+        {
+          "file": "03a_content_dual.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03b_content_sidebar.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03c_content_bottom.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03d_content_side.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03e_content_spread_left.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03g_content_steps.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03h_content_table.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03i_content_gallery.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+        },
+        {
+          "file": "03i_content_gallery.svg",
+          "message": "Image ../images/horizon.jpg is 2800x2100 and renders at 0.24x scale in a 600x500 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03j_content_rhythm.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03k_content_marginalia.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03l_content_index.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03m_content_masonry.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+        },
+        {
+          "file": "03m_content_masonry.svg",
+          "message": "Image ../images/horizon.jpg is 2800x2100 and renders at 0.22x scale in a 320x460 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03n_content_stagger.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03n_content_stagger.svg",
+          "message": "Image ../images/horizon.jpg is 2800x2100 and renders at 0.25x scale in a 600x520 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03o_content_contact.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+        },
+        {
+          "file": "03o_content_contact.svg",
+          "message": "Image ../images/waterfall.jpg is 2800x1808 and renders at 0.17x scale in a 320x300 slice frame; the source is 1.6 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03o_content_contact.svg",
+          "message": "Image ../images/autumn.jpg is 2376x1782 and renders at 0.18x scale in a 420x300 slice frame; the source is 1.2 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03o_content_contact.svg",
+          "message": "Image ../images/woodland.jpg is 2800x1867 and renders at 0.16x scale in a 320x300 slice frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03o_content_contact.svg",
+          "message": "Image ../images/horizon.jpg is 2800x2100 and renders at 0.15x scale in a 420x300 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03p_content_overlay.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03q_content_geometry.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03r_content_evidence.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03r_content_evidence.svg",
+          "message": "<text> (x=100, y=1502; text='Choose the form from…') exceeds <g id=\"takeaway\"> data-pptx-bounds on the horizontal axis: content (100.0, 1471.4)-(1141.2, 1568.6), container (100.0, 1460.0)-(1140.0, 1580.0), overflow horizontal 0.1%, vertical 0.0% (error above 5%); reflow the text, or map the page to a Layout whose slot is larger; slot bounds stay as the prototype declares them; ≈22.2 px per Latin char at 36px incl. headroom; ≈46 chars fit in 1040 px"
+        },
+        {
+          "file": "03s_content_comparison.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03t_content_chronology.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03u_content_typographic.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+        },
+        {
+          "file": "03v_content_panorama.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03w_content_metrics_masonry.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+        },
+        {
+          "file": "03w_content_metrics_masonry.svg",
+          "message": "<text> (x=100, y=1625; text='FOUR-COLUMN HERO MET…') exceeds <g id=\"source\"> data-pptx-bounds on the horizontal axis: content (100.0, 1609.7)-(985.5, 1631.3), container (100.0, 1595.0)-(980.0, 1675.0), overflow horizontal 0.6%, vertical 0.0% (error above 5%); reflow the text, or map the page to a Layout whose slot is larger; slot bounds stay as the prototype declares them; ≈14.3 px per mixed char at 18px incl. headroom; ≈61 chars fit in 880 px"
+        },
+        {
+          "file": "03w_content_metrics_masonry.svg",
+          "message": "Image ../images/dunes.jpg is 1504x2256 and renders at 0.23x scale in a 350x320 slice frame; the source is 1.2 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+        },
+        {
+          "file": "03x_content_fieldnote.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "03y_content_bands.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+        },
+        {
+          "file": "04_ending.svg",
+          "message": "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 28,
+    "totals": {
+      "text_elements": 204,
+      "image_placements": 43,
+      "icons": 0,
+      "svg_geometry_elements": 135,
+      "preset_shapes": 0,
+      "page_frame_elements": 53,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 9,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 18,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 6,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": null,
+    "geometry_elements": {
+      "circle": 5,
+      "ellipse": 0,
+      "line": 46,
+      "path": 0,
+      "polygon": 2,
+      "polyline": 0,
+      "rect": 82
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.1159,
+      1.0
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Quick roster declares no deck language: put lang=\"<BCP-47>\" (vi-VN, he-IL, ...) on the first page's root <svg>; export reads it for run proofing language, right-to-left defaults, theme script slots and docProps (advisory)",
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 4,
+          "images": {
+            "placements": 1,
+            "files": [
+              "dunes.jpg"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 4,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 4,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "b88c0cd822f1c620a475015549d961aa3b1353f879f38026f4b7912c7e45e09b"
+    },
+    {
+      "file": "02_chapter.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/02_chapter.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 1,
+            "files": [
+              "lake.jpg"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "3b1df381a6707bfa7974715741b5436e1a01b940e44aac2f6931c9899b470d61"
+    },
+    {
+      "file": "03a_content_dual.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03a_content_dual.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 31
+      },
+      "passed": true,
+      "source_sha256": "ae808afe4264894f3466b78acda51806c7e4ece8971095f29c10fbe34383fc21"
+    },
+    {
+      "file": "03b_content_sidebar.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03b_content_sidebar.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 23
+      },
+      "passed": true,
+      "source_sha256": "7a21db660009d5b77646eb49026c70a8fcacc30d0bd3d25d652471c2d72249ad"
+    },
+    {
+      "file": "03c_content_bottom.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03c_content_bottom.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "autumn.jpg"
+            ],
+            "max_frame_share": 0.4299
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 11
+      },
+      "passed": true,
+      "source_sha256": "32eca7be99a938c39805f560b21a0952e1675d2e433254f0577265151e014180"
+    },
+    {
+      "file": "03d_content_side.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03d_content_side.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 1,
+            "files": [
+              "waterfall.jpg"
+            ],
+            "max_frame_share": 0.4839
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 12
+      },
+      "passed": true,
+      "source_sha256": "4d04dafb59921ed0bfc0578aec47ac8fadb0fa7a402ae3db67f2d44877e4dadc"
+    },
+    {
+      "file": "03e_content_spread_left.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03e_content_spread_left.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 1,
+            "files": [
+              "lake.jpg"
+            ],
+            "max_frame_share": 0.707
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 1
+      },
+      "passed": true,
+      "source_sha256": "59aa032c1ff5cb30680c593666c272dd861ddf9f6e85c3e15cabdeacd1ee3620"
+    },
+    {
+      "file": "03f_content_spread_right.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03f_content_spread_right.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 1,
+            "files": [
+              "lake.jpg"
+            ],
+            "max_frame_share": 0.707
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Arial"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "6cf56a2d12c1f4286f8aa7be0e9c373ee4f1ef54f9002745c8f319bb4cb12a5b"
+    },
+    {
+      "file": "03g_content_steps.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03g_content_steps.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 16,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 5
+      },
+      "passed": true,
+      "source_sha256": "dcddd95b9e830b9a5d3bc3b812068e87df979db05651b662b574a18c356b2d05"
+    },
+    {
+      "file": "03h_content_table.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03h_content_table.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 21,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 6,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 21,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "943a1ea1e39cb1083c96d564417fe3492e4a4c6290514ebecd4d8723c6436d1a"
+    },
+    {
+      "file": "03i_content_gallery.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03i_content_gallery.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif",
+        "Image ../images/horizon.jpg is 2800x2100 and renders at 0.24x scale in a 600x500 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 4,
+          "images": {
+            "placements": 3,
+            "files": [
+              "horizon.jpg",
+              "lake.jpg",
+              "waterfall.jpg"
+            ],
+            "max_frame_share": 0.4219
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial"
+        ],
+        "text_elements": 4,
+        "tspan_elements": 1
+      },
+      "passed": true,
+      "source_sha256": "ebfa51ad3c63f808a97873a2c544c84ee66dc0484c2d53dbbc63b7acb9469a86"
+    },
+    {
+      "file": "03j_content_rhythm.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03j_content_rhythm.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 3,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 14
+      },
+      "passed": true,
+      "source_sha256": "d91db53cdc25270061a4520cac1c0382282cbf996849aa02e488ced46b281ecd"
+    },
+    {
+      "file": "03k_content_marginalia.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03k_content_marginalia.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 3,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 21
+      },
+      "passed": true,
+      "source_sha256": "55103c837cd49660b08c702856562daf0d175e82e15f67db9413b2045707c8ed"
+    },
+    {
+      "file": "03l_content_index.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03l_content_index.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 1,
+            "files": [
+              "waterfall.jpg"
+            ],
+            "max_frame_share": 0.1448
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "490fb210e595a1b78542c90ba656899ffcc173a11641720ee3c9a1f12fba4436"
+    },
+    {
+      "file": "03m_content_masonry.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03m_content_masonry.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif",
+        "Image ../images/horizon.jpg is 2800x2100 and renders at 0.22x scale in a 320x460 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 6,
+            "files": [
+              "autumn.jpg",
+              "dunes.jpg",
+              "horizon.jpg",
+              "lake.jpg",
+              "ocean.jpg",
+              "waterfall.jpg"
+            ],
+            "max_frame_share": 0.1622
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "744ce34e125f2c3a8d2777e801fa7e91ed6e2263a49501746812ae0c9e14e3af"
+    },
+    {
+      "file": "03n_content_stagger.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03n_content_stagger.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial",
+        "Image ../images/horizon.jpg is 2800x2100 and renders at 0.25x scale in a 600x520 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 3,
+            "files": [
+              "horizon.jpg",
+              "lake.jpg",
+              "waterfall.jpg"
+            ],
+            "max_frame_share": 0.1865
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 9
+      },
+      "passed": true,
+      "source_sha256": "63169bdcf119f2dd8da2aa996ec8284e98db21136c7f97cdc60ebaa46d46d249"
+    },
+    {
+      "file": "03o_content_contact.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03o_content_contact.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif",
+        "Image ../images/waterfall.jpg is 2800x1808 and renders at 0.17x scale in a 320x300 slice frame; the source is 1.6 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/autumn.jpg is 2376x1782 and renders at 0.18x scale in a 420x300 slice frame; the source is 1.2 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/woodland.jpg is 2800x1867 and renders at 0.16x scale in a 320x300 slice frame; the source is 2.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time",
+        "Image ../images/horizon.jpg is 2800x2100 and renders at 0.15x scale in a 420x300 slice frame; the source is 1.1 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 3,
+          "images": {
+            "placements": 7,
+            "files": [
+              "autumn.jpg",
+              "dunes.jpg",
+              "horizon.jpg",
+              "lake.jpg",
+              "ocean.jpg",
+              "waterfall.jpg",
+              "woodland.jpg"
+            ],
+            "max_frame_share": 0.3193
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial"
+        ],
+        "text_elements": 3,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "46c2892fdbd5778cc1402ad2ee7c8c4374e972502d1fdeecd0ea365debc26dec"
+    },
+    {
+      "file": "03p_content_overlay.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03p_content_overlay.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 1,
+            "files": [
+              "lake.jpg"
+            ],
+            "max_frame_share": 0.3796
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 5,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 11
+      },
+      "passed": true,
+      "source_sha256": "4083f4c8f0aa973ab0d248de8202dc8c2ee12d1899d32d5b2cea31c6ef6de1bd"
+    },
+    {
+      "file": "03q_content_geometry.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03q_content_geometry.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 2,
+            "files": [
+              "waterfall.jpg",
+              "woodland.jpg"
+            ],
+            "max_frame_share": 0.1938
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 1,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 9
+      },
+      "passed": true,
+      "source_sha256": "d4d48963c7f7df4e73d5037509b22b60a31edbbc2aefb8a9c11ec174f35af2a5"
+    },
+    {
+      "file": "03r_content_evidence.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03r_content_evidence.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial",
+        "<text> (x=100, y=1502; text='Choose the form from…') exceeds <g id=\"takeaway\"> data-pptx-bounds on the horizontal axis: content (100.0, 1471.4)-(1141.2, 1568.6), container (100.0, 1460.0)-(1140.0, 1580.0), overflow horizontal 0.1%, vertical 0.0% (error above 5%); reflow the text, or map the page to a Layout whose slot is larger; slot bounds stay as the prototype declares them; ≈22.2 px per Latin char at 36px incl. headroom; ≈46 chars fit in 1040 px"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 15,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 13
+      },
+      "passed": true,
+      "source_sha256": "51f273f0dd68b664c8a529f4322a73b7a9d53c2c0c7e6c1d5eaba5a40f63592a"
+    },
+    {
+      "file": "03s_content_comparison.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03s_content_comparison.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 12,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 12,
+        "tspan_elements": 13
+      },
+      "passed": true,
+      "source_sha256": "d11492e6b453b6421d3e4c32a1d368633a416d3488548ae3a7174e38ba2a9183"
+    },
+    {
+      "file": "03t_content_chronology.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03t_content_chronology.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 10
+      },
+      "passed": true,
+      "source_sha256": "b59deec8e6d63d34d76bd70dba1b0ed97b0bc33bc427c9133f9519d538638768"
+    },
+    {
+      "file": "03u_content_typographic.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03u_content_typographic.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 6,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 8,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial"
+        ],
+        "text_elements": 6,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "f32efd11d92f3198ba4ec0a4e05afcbc0da5ab9a993ac637f2ee5930786d725d"
+    },
+    {
+      "file": "03v_content_panorama.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03v_content_panorama.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 1,
+            "files": [
+              "ocean.jpg"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 2,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 6,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 5,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "b5a5ae1d6bdf25e18a967960a53fc879125ef3958ca11d08035dc288aa30109b"
+    },
+    {
+      "file": "03w_content_metrics_masonry.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03w_content_metrics_masonry.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif",
+        "<text> (x=100, y=1625; text='FOUR-COLUMN HERO MET…') exceeds <g id=\"source\"> data-pptx-bounds on the horizontal axis: content (100.0, 1609.7)-(985.5, 1631.3), container (100.0, 1595.0)-(980.0, 1675.0), overflow horizontal 0.6%, vertical 0.0% (error above 5%); reflow the text, or map the page to a Layout whose slot is larger; slot bounds stay as the prototype declares them; ≈14.3 px per mixed char at 18px incl. headroom; ≈61 chars fit in 880 px",
+        "Image ../images/dunes.jpg is 1504x2256 and renders at 0.23x scale in a 350x320 slice frame; the source is 1.2 MiB — file-size advisory only, not an aspect-ratio warning; consider a smaller source asset, or export with svg_to_pptx.py --image-sizing display to downsize at export time"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 8,
+            "files": [
+              "autumn.jpg",
+              "dunes.jpg",
+              "horizon.jpg",
+              "lake.jpg",
+              "ocean.jpg",
+              "waterfall.jpg",
+              "woodland.jpg"
+            ],
+            "max_frame_share": 0.1159
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 2,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 5,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "94f5b7c2efbe004f7038b5878de0d7b21ecf8e2133933b526d518dafd69e30c9"
+    },
+    {
+      "file": "03x_content_fieldnote.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03x_content_fieldnote.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 1,
+            "files": [
+              "woodland.jpg"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 4,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "a89312cdca339970fcaa1a71de8819fd4ee50e03c256be32287ba9fe26518245"
+    },
+    {
+      "file": "03y_content_bands.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/03y_content_bands.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Oswald): Oswald, 'Arial Narrow', Arial"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 3,
+            "files": [
+              "autumn.jpg",
+              "lake.jpg",
+              "waterfall.jpg"
+            ],
+            "max_frame_share": 0.2166
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 3,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 6,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 5,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial",
+          "Oswald, 'Arial Narrow', Arial"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 1
+      },
+      "passed": true,
+      "source_sha256": "1eeb8910c5f1eac9e7c5a8d294e0c9374fc7113c0453c36d102e97ec99344941"
+    },
+    {
+      "file": "04_ending.svg",
+      "path": "/Users/apple/Documents/GitHub/ppt-master-themes/themes/natgeo/examples/svg_output/04_ending.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Font stack exports non-PPT-safe typeface(s) to PPTX (latin=Playfair Display): 'Playfair Display', Georgia, serif"
+      ],
+      "info": {
+        "viewbox": "0 0 1240 1754",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 1,
+            "files": [
+              "autumn.jpg"
+            ],
+            "max_frame_share": 0.5131
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "'Playfair Display', Georgia, serif",
+          "Arial"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "d853504e9c7b9b42d9e0ef45d9c47c937e036809714a8cb1d99c34a02a95a2e6"
+    }
+  ]
+}

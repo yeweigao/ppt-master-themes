@@ -3,11 +3,11 @@
   const $ = (selector, scope = document) => scope.querySelector(selector);
   const $$ = (selector, scope = document) => [...scope.querySelectorAll(selector)];
   const state = { items: [], filter: 'all', mode: 'image', grid: false, activeId: null, opener: null };
-  const spreadItem = { id: '__spread__', title: '连续摄影跨页', name: 'The facing spread', family: 'photography', image: '/layouts/rendered/spread.jpg', structure: '/layouts/structure/spread.jpg', description: '一幅影像连接两个独立 A4 页面。版式编号 07—08 是目录中的编号；示例册按目录排序；正式装订时将这一对版式放在偶数左页、奇数右页。', grammar: '2480 × 1754 · 左右各 6 栏 · 一幅连续影像 · 主体避开书脊 · 偶数左页 + 奇数右页' };
+  const spreadItem = { id: '__spread__', title: '连续沉浸跨页', name: 'The immersive spread', family: 'photography', image: '/layouts/rendered/immersion-spread.jpg', structure: '/layouts/structure/immersion-spread.jpg', description: '一幅影像连接两个独立 A4 页面。左页以压图标题建立情绪，右页用白纸读栏承接慢读；版式编号 29—30 是目录中的编号，正式装订时放在偶数左页、奇数右页。', grammar: '2480 × 1754 · 左右各 6 栏 · 一幅连续影像 · 压图标题 + 白纸读栏 · 主体避开书脊' };
   const families = { photography: 'PHOTOGRAPHY / 摄影叙事', reading: 'READING / 阅读编排', information: 'INFORMATION / 信息表达' };
   const gallery = $('#gallery');
   const dialog = $('#lightbox');
-  const visibleItems = () => state.items.filter(item => state.filter === 'all' || (state.filter === 'new' ? item.edition === 2 : item.family === state.filter));
+  const visibleItems = () => state.items.filter(item => state.filter === 'all' || (state.filter === 'new' ? item.edition >= 2 : item.family === state.filter));
   const labelNumber = item => String(state.items.findIndex(candidate => candidate.id === item.id) + 1).padStart(2, '0');
   const text = (tag, className, content) => { const element = document.createElement(tag); if (className) element.className = className; element.textContent = content || ''; return element; };
   const source = item => item[state.mode] || item.image;
@@ -95,7 +95,7 @@
     page.append(gridOverlay());
     if (isSpread) { const rightGrid = gridOverlay(); rightGrid.classList.add('spread-grid-right'); page.append(rightGrid); }
     const image = $('#detail-image'); image.src = source(item); image.alt = `${item.title}，${state.mode === 'image' ? '实景' : '中性结构'}预览`;
-    $('#detail-number').textContent = isSpread ? '07—08' : labelNumber(item);
+    $('#detail-number').textContent = isSpread ? '29—30' : labelNumber(item);
     $('#detail-family').textContent = families[item.family] || 'EDITORIAL / 编辑版式';
     $('#detail-title').textContent = item.title;
     $('#detail-en').textContent = item.name;
@@ -104,7 +104,7 @@
     $('#detail-grammar').textContent = item.grammar || '基于六栏对齐系统，按内容长度重新分配文字与图像。';
     $('#detail-mode').textContent = state.mode === 'image' ? '查看结构' : '查看实景';
     const sequence = detailSequence(); const position = sequence.findIndex(candidate => candidate.id === state.activeId);
-    $('#detail-position').textContent = isSpread ? '版式 07—08 · 目录顺序演示 · 装订时偶数左 / 奇数右' : `${String(position + 1).padStart(2, '0')} / ${String(sequence.length).padStart(2, '0')}`;
+    $('#detail-position').textContent = isSpread ? '版式 29—30 · 目录顺序演示 · 装订时偶数左 / 奇数右' : `${String(position + 1).padStart(2, '0')} / ${String(sequence.length).padStart(2, '0')}`;
     $('.detail-bottom > span:first-child').textContent = isSpread ? '420 × 297 mm / FACING A4 PAGES' : '210 × 297 mm / PORTRAIT';
     $('.keyboard-tip').textContent = isSpread ? '双页同时预览 · ESC 关闭' : '← → 切换版式 · ESC 关闭';
     $('#prev-detail').disabled = sequence.length < 2; $('#next-detail').disabled = sequence.length < 2;
@@ -134,7 +134,11 @@
     if (event.key === 'ArrowLeft') { event.preventDefault(); stepDetail(-1); }
     if (event.key === 'ArrowRight') { event.preventDefault(); stepDetail(1); }
   });
-  dialog.addEventListener('close', () => { document.body.classList.remove('modal-open'); if (state.opener && state.opener.isConnected) state.opener.focus({ preventScroll: true }); });
+  dialog.addEventListener('close', () => {
+    document.body.classList.remove('modal-open');
+    if (new URLSearchParams(location.search).has('id')) history.replaceState(null, '', `${location.pathname}${location.hash}`);
+    if (state.opener && state.opener.isConnected) state.opener.focus({ preventScroll: true });
+  });
   imageEvents($('#detail-image'));
   $$('.hero-page img').forEach(imageEvents);
   $('#spread-image').addEventListener('error', () => { $('#open-spread').classList.add('load-error'); });
@@ -170,6 +174,8 @@
         if (item) { $('img', button).src = item.image; $('img', button).alt = `${item.title}实景示例`; button.addEventListener('click', () => openDetail(item.id, button)); }
       });
       renderGallery();
+      const requested = new URLSearchParams(location.search).get('id');
+      if (requested && state.items.some(item => item.id === requested)) openDetail(requested, null);
     } catch (error) {
       gallery.replaceChildren(text('p', 'empty-state', '版式目录尚未载入。请通过本地预览服务器打开此页面，稍后刷新即可。'));
       gallery.setAttribute('aria-busy', 'false');

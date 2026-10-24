@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" lang="en" viewBox="0 0 1240 1754" font-family="Arial" font-size="24" data-pptx-master="a4-editorial" data-pptx-master-name="A4 Editorial" data-pptx-layout="a4-autumn-feature" data-pptx-layout-name="Autumn Feature — full bleed">
+  <defs>
+    <linearGradient id="autumn-side" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0.9"/><stop offset="0.45" stop-color="#0A0A0A" stop-opacity="0.56"/><stop offset="0.78" stop-color="#0A0A0A" stop-opacity="0.18"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="autumn-bottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0A0A" stop-opacity="0"/><stop offset="1" stop-color="#0A0A0A" stop-opacity="0.78"/></linearGradient>
+  </defs>
+  <rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" width="1240" height="1754" fill="#F7F3E8"/>
+  <g id="hero" data-pptx-placeholder="picture" data-pptx-idx="1" data-pptx-bounds="0 0 1240 1754"><image data-pptx-carrier="true" width="1240" height="1754" preserveAspectRatio="xMidYMid slice" href="../images/autumn.jpg"/></g>
+  <rect id="photo-veil" data-pptx-role="decoration" x="0" y="0" width="1240" height="1754" fill="url(#autumn-side)"/>
+  <rect id="photo-shade-bottom" data-pptx-role="decoration" x="0" y="900" width="1240" height="854" fill="url(#autumn-bottom)"/>
+  <rect id="identity-bar" data-pptx-role="decoration" x="100" y="86" width="44" height="6" fill="#FFE500"/>
+  <g id="kicker" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="100 100 900 44"><text data-pptx-carrier="true" x="100" y="124" fill="#FFFFFF" font-size="18" letter-spacing="2.4" font-family="Arial Narrow, Arial">FEATURE 12  /  SEASONAL LIGHT</text></g>
+  <g id="folio-display" data-pptx-placeholder="body" data-pptx-idx="3" data-pptx-bounds="660 212 480 396"><text letter-spacing="-10" data-pptx-carrier="true" x="700" y="500" fill="#FFE500" font-size="300" font-weight="bold" font-family="Arial">12</text></g>
+  <rect id="title-rule" data-pptx-role="decoration" x="100" y="1140" width="120" height="6" fill="#FFE500"/>
+  <g id="title" data-pptx-placeholder="title" data-pptx-idx="4" data-pptx-bounds="100 1168 960 300"><text letter-spacing="-1.5" data-pptx-carrier="true" x="100" y="1282" fill="#FFFFFF" font-size="110" font-weight="bold" font-family="Georgia, 'Times New Roman', serif">The season<tspan x="100" dy="124">turns.</tspan></text></g>
+  <g id="subtitle" data-pptx-placeholder="subtitle" data-pptx-idx="5" data-pptx-bounds="100 1490 800 100"><text data-pptx-carrier="true" x="100" y="1524" fill="#FFFFFF" font-size="30">Colour is a temporary agreement<tspan x="100" dy="45">between light, water and time.</tspan></text></g>
+  <g id="credit" data-pptx-placeholder="body" data-pptx-idx="6" data-pptx-bounds="100 1630 1040 50"><text data-pptx-carrier="true" x="100" y="1655" fill="#FFFFFF" font-size="18" letter-spacing="2" font-family="Arial Narrow, Arial">PHOTO: ARCHBOB / CC0 1.0 / FULL-BLEED SEASONAL STUDY</text></g>
+  <g id="folio" data-pptx-placeholder="slide-number" data-pptx-idx="7" data-pptx-bounds="1040 1690 100 44"><text data-pptx-carrier="true" x="1080" y="1716" fill="#FFFFFF" font-size="18">32</text></g>
+</svg>

@@ -1,7 +1,7 @@
 ---
 style_id: natgeo-editorial
 kind: style
-summary: Editorial storytelling combining documentary photography, measured reading grids and evidence-led information graphics; clean white fields, trim-edge images and facing panoramas adapt to the content.
+summary: Editorial storytelling combining documentary photography, measured reading grids and evidence-led information graphics; warm rice-paper fields, trim-edge images and facing panoramas adapt to the content.
 keywords: [photo-editorial, information-design, editorial-grid, full-bleed, facing-spread]
 ---
 
@@ -35,24 +35,24 @@ keywords: [photo-editorial, information-design, editorial-grid, full-bleed, faci
 | Contents | Show the chapters | Titles and summaries appropriate to the approved narrative | Photo field with the list on the darkened lower band; large serif chapter numerals |
 | Chapter opener | Mark a new chapter | Chapter title and any useful orientation | Full-bleed photo, oversized gold serif numeral, white title over the bottom band |
 | Facing-page feature | Open a place or major story across two pages | One source/provenance and one continuous scene; keep critical subjects clear of the gutter | One panoramic image spans a declared even-left/odd-right pair; crop and scale remain continuous, with native text on deliberate contrast fields |
-| Bottom-photo feature | Read an argument before entering its setting | Complete native copy above and an accurately sourced scene below | Pure-white upper reading field; one lower photograph fills the width and bleeds to side and bottom trim; darkening only where a caption or folio needs it |
-| Reading page | Explain one topic | Accurate edited copy, or verbatim copy when required | Photo in the upper area fusing downward (or sideways) into the pure-white reading field; dark text on white |
-| Feature page | Show one highlight | Highlight name, purpose and programme as given | Photo dominant; copy on a white reading field band; programme as time + item rows |
+| Bottom-photo feature | Read an argument before entering its setting | Complete native copy above and an accurately sourced scene below | Warm rice-paper upper reading field; one lower photograph fills the width and bleeds to side and bottom trim; darkening only where a caption or folio needs it |
+| Reading page | Explain one topic | Accurate edited copy, or verbatim copy when required | Photo in the upper area fusing downward (or sideways) into the rice-paper reading field; dark text on paper |
+| Feature page | Show one highlight | Highlight name, purpose and programme as given | Photo dominant; copy on a rice-paper reading field band; programme as time + item rows |
 | Photo sequence | Relate several views | Captions identify source, subject and any intended order | Anchor-plus-detail, bounded masonry, staggered sequence or contact sheet; consistent gaps and caption roles |
 | Typographic pause | Emphasise a short thought or transition | Preserve the meaning and attribution of any quotation | Large short headline, quiet space and a smaller counter-voice; photography optional |
 | Annotated evidence | Explain a supported conclusion | Source, units, scope and limitations remain connected | Claim-led exhibit with direct labels and nearby notes; exact geometry comes from the selected Layout |
 | Facts page | Present numbers | Numbers exactly as given, with labels | Large serif numbers with tracked condensed labels; native charts or tables when their information model serves the page |
-| Visual explainer | Explain sequence, contrast, collaboration or a mechanism | The stated relationships and their qualifiers, without invented causality or quantities | An editable editorial diagram as the main visual on white, aligned to the grid; photography supports only when it adds context |
+| Visual explainer | Explain sequence, contrast, collaboration or a mechanism | The stated relationships and their qualifiers, without invented causality or quantities | An editable editorial diagram as the main visual on paper, aligned to the grid; photography supports only when it adds context |
 | Spatial / field guide | Locate places or connect observations with visible detail | Verified locations for geographic claims; distinguish schematic routes and illustrative scenes | A sourced map or photograph with editable route/observation overlays, numbered keys and concise captions |
-| Schedule / table | Present a programme or fee table | Complete relevant data, units and qualifiers; preserve all rows when fidelity requires it | White reading field with full-span native tables; horizontal hairlines as the default |
-| Letter / quote | Address a reader directly | Preserve directly quoted wording; edit surrounding prose according to the task | Italic serif lead on white, photo receding behind |
+| Schedule / table | Present a programme or fee table | Complete relevant data, units and qualifiers; preserve all rows when fidelity requires it | Rice-paper reading field with full-span native tables; horizontal hairlines as the default |
+| Letter / quote | Address a reader directly | Preserve directly quoted wording; edit surrounding prose according to the task | Italic serif lead on rice paper, photo receding behind |
 | Back cover | Invite action | Contact, registration route, logos, QR as given | Full-bleed photo, darkened lower band carrying the call to action |
 
 ## IV. Evidence & Data Expression
 
 - **Argument Trace**: Facts and material claims remain traceable to supplied or verified sources; editorial titles and narrative structure may be newly written. Identify illustrative scenarios rather than presenting them as sourced facts.
-- **Charts**: Let the information model decide: use native charts for comparisons, change or distributions, or a hero number for a single fact. Coordinate weight, labels and contrast with the white/photo system; do not sacrifice data semantics to a photographic recipe.
-- **Tables**: Default to open horizontal-rule tables on white: bold headers in the resolved primary color, clear top/header rules, lighter row rules, and column alignment/whitespace instead of vertical lines or an enclosing box. The project may adopt fills or additional boundaries when its information or identity calls for them. Preserve complete records and editable cells where supported; native cell borders must match the visible treatment.
+- **Charts**: Let the information model decide: use native charts for comparisons, change or distributions, or a hero number for a single fact. Coordinate weight, labels and contrast with the paper/photo system; do not sacrifice data semantics to a photographic recipe.
+- **Tables**: Default to open horizontal-rule tables on rice paper: bold headers in the resolved primary color, clear top/header rules, lighter row rules, and column alignment/whitespace instead of vertical lines or an enclosing box. The project may adopt fills or additional boundaries when its information or identity calls for them. Preserve complete records and editable cells where supported; native cell borders must match the visible treatment.
 - **Information Selection**: Choose the expression from the reader's question, before choosing decoration or page geometry. The following are starting options, not a fixed catalog or required page mix.
 - **Whole-document Opportunities**: In active solution planning or a requested whole-document revision, identify where a diagram would clarify the programme structure, stage-to-work relationship, evidence-to-output chain, participant convergence, journey or next action. Prioritise reader benefit and retain precise lookup tables, useful prose and photographic breathing space. A numbered modular layout alone may leave a relationship implicit; expose it when that improves understanding. There is no required diagram count or proportion.
 
@@ -66,7 +66,7 @@ keywords: [photo-editorial, information-design, editorial-grid, full-bleed, faci
 | Quantity and change | Supported native chart, small multiples or a labelled hero number | Values, units, timeframe, denominator, scale and source |
 | Field observation | Photo annotations, detail view and numbered legend | Visible evidence, annotation targets and the difference between observation and interpretation |
 
-- **Editorial Treatment**: Put the main relationship on a calm white field with direct labels, restrained rules and the same type/grid as the reading pages. Use the resolved identity colors consistently for emphasis or categories; do not change a color's meaning between adjacent graphics. Photo-led and information-led pages may alternate; image scale does not determine diagram scale.
+- **Editorial Treatment**: Put the main relationship on a calm rice-paper field with direct labels, restrained rules and the same type/grid as the reading pages. Use the resolved identity colors consistently for emphasis or categories; do not change a color's meaning between adjacent graphics. Photo-led and information-led pages may alternate; image scale does not determine diagram scale.
 - **Compound Explanations**: Components may join a shared programme/outcome; a stage path may align each stage with its stated work; peer inputs may converge into a shared working field; a journey may group dated stops by phase. Keep entry/action paths separate from administrative milestones when they answer different questions. Parallel support measures remain categories rather than an invented response flow. Choose each construction from source relationships rather than a fixed page template.
 - **Sources**: Record image provenance and include required credits; keep logos and QR codes accurate and usable.
 - **Native Editability**: Copy, diagram labels, relationships and data use appropriate editable objects supported by the active production workflow. Photographs stay replaceable pictures; washes, darkening and annotation overlays remain separate. Generated illustrations supply context or concepts, not a baked image of the final data chart, labels or diagram logic. A sourced map base may be an image, with its route and labels kept separate.
@@ -75,28 +75,28 @@ keywords: [photo-editorial, information-design, editorial-grid, full-bleed, faci
 
 - **Preferred Visual Style**: custom
 - **Visual Style References**: photo-editorial
-- **Visual Style Behavior**: Covers and chapter openers favor full-bleed photography; reading and data pages balance photo scale and white space with information density. Short text on photographs uses a verified quiet crop, a directional scrim or a deliberate reading plate; select its extent from the composition. Sustained reading uses a calm pure-white field. Full-width washes are one available construction; local overlap, geometric underlays and multi-image gaps may serve other page jobs.
+- **Visual Style Behavior**: Covers and chapter openers favor full-bleed photography; reading and data pages balance photo scale and paper space with information density. Short text on photographs uses a verified quiet crop, a directional scrim or a deliberate reading plate; select its extent from the composition. Sustained reading uses a calm warm rice-paper field. Full-width washes are one available construction; local overlap, geometric underlays and multi-image gaps may serve other page jobs.
 - **Composition**: Wide outer margins (about 7% of the page width), a shared editorial grid and aligned text edges, headlines set high or low on the page to leave the photograph's subject clear. Poster pages leave at least half the page to the photograph. For handbooks and magazines, consider one shared panoramic scene across a true facing pair; if the brief requests a spread, declare the pair in the project plan and verify its joined render. In a cover-first book, even pages are left and the following odd pages are right. Never simulate a spread with two independently chosen crops.
-- **Reading Measure and Grid**: Resolve actual output size, language, font and sustained-reading measure before choosing columns. For print, 10–12 pt body and 120–145% baseline spacing are useful starting references; tune for audience and face. English prose often benefits from 45–75 characters including spaces, rather than filling the page width. A six-column grid is a useful A4 handbook foundation: span 3+3 for two prose columns, 4+2 for main text/sidebar, 2+2+2 for short parallel modules, and all six for titles, photographs and tables. Grid tracks are alignment units, not six narrow prose columns. Preserve natural paragraphs, clear reading order and open space; a modular layout need not become a field of boxed cards. Short leads and feature statements can remain wide. Record project-specific dimensions and typography in the project plan; use different grids when format, language or reading distance warrants them.
-- **Density**: Poster pages very sparse; reading pages comfortable, generous leading; schedule and fee pages may be dense but keep the white reading field calm.
-- **Decoration**: Photography, open white fields, strong type hierarchy and restrained hairlines establish the default character. Native diagrams, data objects, icons or contours may support a page job without competing with the main photograph.
+- **Reading Measure and Grid**: Resolve actual output size, language, font and sustained-reading measure before choosing columns. On the 1240 × 1754 A4 canvas (1 SVG unit ≈ 0.48 pt at 210 × 297 mm print), follow the calibrated Swiss/editorial ladder so reading flow matches information importance: hero/display 84–180 px Bold, page titles 64–80 px Bold, leads 30–36 px Regular, sustained body 24–26 px Regular (11.5–12.5 pt print, 1.45–1.55 leading), kickers/captions 18–22 px, and a strict physical floor of 14–16 px; tune for audience and face. English prose often benefits from 45–75 characters including spaces, rather than filling the page width. A six-column grid is a useful A4 handbook foundation: span 3+3 for two prose columns, 4+2 for main text/sidebar, 2+2+2 for short parallel modules, and all six for titles, photographs and tables. Grid tracks are alignment units, not six narrow prose columns. Preserve natural paragraphs, clear reading order and open space; a modular layout need not become a field of boxed cards. Short leads and feature statements can remain wide. Record project-specific dimensions and typography in the project plan; use different grids when format, language or reading distance warrants them.
+- **Density**: Poster pages very sparse; reading pages comfortable, generous leading; schedule and fee pages may be dense but keep the rice-paper reading field calm.
+- **Decoration**: Photography, open paper fields, strong type hierarchy and restrained hairlines establish the default character. Native diagrams, data objects, icons or contours may support a page job without competing with the main photograph.
 - **Editorial Rhythm**: Keep recurring anchors while varying span, scale, density, vertical starts and image sequence to reflect the content. A six-track grid can support bounded photo masonry, staggered views, an anchor image with detail views, marginal notes, headline/photo overlap and geometric underlays as well as calm reading columns. Treat colour as reinforcement rather than the sole source of rhythm. Existing wash recipes describe particular constructions; they do not exclude a deliberate readable overlap or geometry treatment. The selected Layout owns exact frames and placeholder roles, Brand owns verified identity, and this Style supplies the editorial voice. Keep project photos and copy in the project, separate from reusable prototypes. See [Editorial rhythm](../../../../framework/EDITORIAL_RHYTHM.md) for the source-informed method and adaptable construction choices.
-- **Optional Atmosphere**: For a page that benefits from a quieter atmospheric layer, use localized soft color clouds dissolving into broad clean-white reading space. Sparse particles and faint geometry can support an inquiry/technical mood; fine irregular grain can support cultural or artistic editorial work. Choose from content and intended mood rather than applying an effect to every page. Preserve white gaps, readable contrast and restrained geometric traces. Local diffusion and a uniform whole-page tint are different compositions; review the exported result for radial-gradient drift. Pixel-dependent grain may be a separate replaceable background asset while type and information stay native.
-- **Color Behavior**: Navy and gold on photography and clean white. Navy carries titles, numerals and kickers on white; gold carries display words on photographs (large sizes only) and sparse emphasis; ochre is the white-field emphasis. White is the only text colour on photographs.
+- **Optional Atmosphere**: For a page that benefits from a quieter atmospheric layer, use localized soft color clouds dissolving into broad clean rice-paper space. Sparse particles and faint geometry can support an inquiry/technical mood; fine irregular grain can support cultural or artistic editorial work. Choose from content and intended mood rather than applying an effect to every page. Preserve paper gaps, readable contrast and restrained geometric traces. Local diffusion and a uniform whole-page tint are different compositions; review the exported result for radial-gradient drift. Pixel-dependent grain may be a separate replaceable background asset while type and information stay native.
+- **Color Behavior**: Black, rice paper and lemon yellow. Ink (`#111111`) carries titles, numerals and kickers on paper; lemon yellow (`#FFE500`) is the identity accent—cover frame and masthead bar, chapter numeral, section rules and oversized display forms over photography; deep lemon (`#6E6000`) is the only yellow used for small text on paper. White is the only text colour on photographs and always sits over a scrim of at least 0.45.
 - **Typography Character**: High-contrast bold serif display with tight tracking; small condensed capitals with wide tracking as kickers and running heads; a neutral sans for body copy; large serif numerals for numbered lists, dates and statistics.
 
 ### Fallback Color Scheme
 
 | Role | HEX | Purpose |
 |---|---|---|
-| Background | #FFFFFF | pure-white reading field on reading pages |
-| Secondary background | #151B2E | deep navy-black behind white type |
-| Primary | #22306E | navy titles, numerals, kickers on white |
-| Accent | #F2C14E | gold display words on photographs |
-| Secondary accent | #8A6A12 | ochre emphasis on white |
-| Body text | #151B2E | body copy on white |
-| Secondary text | #3E4458 | captions, notes, running heads on white |
-| Divider | #C9C3B6 | table hairlines |
+| Background | #F7F3E8 | warm rice-paper reading field on reading pages |
+| Secondary background | #111111 | ink-black field behind white type |
+| Primary | #111111 | ink titles, numerals, kickers on paper |
+| Accent | #FFE500 | lemon-yellow identity frame, bars, chapter numerals and large display forms over photography |
+| Secondary accent | #6E6000 | deep-lemon emphasis for small text on paper |
+| Body text | #111111 | body copy on paper |
+| Secondary text | #5C5C5C | captions, notes, running heads on paper |
+| Divider | #D9D9D9 | table hairlines |
 
 ### Fallback Typography
 
@@ -104,15 +104,15 @@ These are character references, subordinate to final identity and target availab
 
 | Role | Primary | Fallback Tail | Character |
 |---|---|---|---|
-| Title | Playfair Display | Georgia, serif | high-contrast display serif, bold |
+| Title | Georgia | Times New Roman, serif | high-contrast display serif, bold; ships with macOS and Windows so exports stay serif |
 | Body | Arial | Helvetica, sans-serif | neutral grotesque |
-| Kicker | Oswald | Arial Narrow, Arial, sans-serif | condensed capitals, wide tracking |
+| Kicker | Arial Narrow | Arial, sans-serif | condensed capitals, wide tracking; ships with Office |
 
 ## VI. Image & Icon Direction
 
 - **Preferred Image Rendering**: corporate-photo
 - **Image Usage**: Use suitable supplied images, verifiable web photos, or photographic AI illustrations according to the page need. Select focal point, framing, resolution and text space deliberately; replace or supplement weak assets instead of forcing them full bleed. Logos and QR codes appear where the task needs them.
-- **Image Treatment**: Full-bleed `slice` crops that keep the subject clear of the text zone; reading pages may fade the photograph into the white field with a smooth full-width gradient; text over photographs receives a contrast treatment matched to its actual crop. Photographs default to full-canvas or trim-edge bleed, with no white inset border; fill the declared image field with a subject-safe slice crop. Logos, QR codes and other functional marks stay complete and undistorted. A white reading region may cover part of the photo without turning it into a thumbnail.
+- **Image Treatment**: Full-bleed `slice` crops that keep the subject clear of the text zone; reading pages may fade the photograph into the rice-paper field with a smooth full-width gradient; text over photographs receives a contrast treatment matched to its actual crop. Photographs default to full-canvas or trim-edge bleed, with no paper inset border; fill the declared image field with a subject-safe slice crop. Logos, QR codes and other functional marks stay complete and undistorted. A rice-paper reading region may cover part of the photo without turning it into a thumbnail.
 - **Icon Treatment**: A sparse supporting role when useful; resolve the base identity in the project. Serif numerals and tracked condensed kickers can provide hierarchy without adding a generic icon to every item.
 
 ## VII. Review Focus

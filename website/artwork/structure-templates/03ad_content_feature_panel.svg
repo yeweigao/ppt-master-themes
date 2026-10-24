@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 1754" font-family="Arial" font-size="24">
+  <rect width="1240" height="1754" fill="#FFFFFF"/>
+  <rect width="760" height="1754" fill="#DCE1E3"/>
+  <rect x="720" width="520" height="1754" fill="#FFFFFF"/>
+  <rect x="714" width="6" height="1754" fill="#20262A"/>
+  <g font-size="17" letter-spacing="2" fill="#62696D"><text x="780" y="124">SECTION / KICKER</text></g>
+  <rect x="780" y="172" width="44" height="6" fill="#20262A"/>
+  <g font-size="68" font-weight="bold" fill="#20262A"><text x="780" y="284">Page title</text></g>
+  <g font-size="24" fill="#62696D"><text x="780" y="446">Subtitle / lead</text></g>
+  <g font-size="22" fill="#20262A"><text x="780" y="602">Content region</text></g>
+  <rect x="100" y="1330" width="60" height="4" fill="#FFFFFF"/>
+  <g font-size="52" font-style="italic" fill="#FFFFFF"><text x="100" y="1430">Key message</text></g>
+  <g font-size="30" font-style="italic" fill="#20262A"><text x="780" y="1258">Note / annotation</text></g>
+  <g font-size="16" letter-spacing="1.2" fill="#62696D"><text x="780" y="1590">Caption / source</text></g>
+  <g font-size="18" fill="#62696D"><text x="1080" y="1716">32</text></g>
+</svg>

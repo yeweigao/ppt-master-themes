@@ -1,0 +1,176 @@
+{
+  "schema": "ppt-master-themes/theme-v1",
+  "id": "fashion",
+  "name": "Fashion Editorial",
+  "name_zh": "时尚先锋编辑",
+  "summary": "Swiss International Typographic Style meets avant-garde fashion editorial: black-and-white image states, semi-transparent cobalt interruptions, giant Didone and ultra-condensed type, and type-as-image, all held by a measured 12-column grid.",
+  "tested_with_ppt_master": [
+    "6.7.3"
+  ],
+  "compatibility_reviewed_with": [
+    "6.7.3"
+  ],
+  "style_workspace": "workspace",
+  "style_spec": "workspace/templates/design_spec.style.fashion-editorial.md",
+  "recipes": "recipes.md",
+  "examples": "examples",
+  "stage2_seeds": {
+    "mode": "custom",
+    "mode_references": [
+      "showcase"
+    ],
+    "mode_behavior": "Showcase pacing for a read-close fashion document: image-led statements alternate with measured reading pages; each page carries one governing message; use the sequence that serves the argument unless source order is required.",
+    "visual_style": "custom",
+    "visual_style_references": [
+      "photo-editorial",
+      "swiss-minimal",
+      "zine"
+    ],
+    "visual_style_behavior": "Black-and-white photography in four interchangeable states (full bleed, framed inset, colour-tinted, type-mask); cobalt appears as a partially transparent interruption rather than a flat background; oversized Didone words, ultra-condensed capitals and hairline rules sit on a strict 12-column Swiss grid. Let type, image and transparency overlap deliberately, but keep reading text on a calm field and fully legible.",
+    "image_rendering": "editorial"
+  },
+  "colors": {
+    "background": "#F6F4EF",
+    "secondary_bg": "#0A0A0A",
+    "primary": "#1710CC",
+    "accent": "#0A0A0A",
+    "secondary_accent": "#77736B",
+    "body_text": "#0A0A0A",
+    "secondary_text": "#5E5A53",
+    "divider": "#D9D5CB"
+  },
+  "contextual_paint": {
+    "scrim": "#0A0A0A",
+    "paper": "#F6F4EF",
+    "on_photo_text": "#FFFFFF"
+  },
+  "typography": {
+    "font_family": "Archivo, Helvetica, Arial, sans-serif",
+    "title_family": "\"Bodoni Moda\", Didot, Georgia, serif",
+    "body_family": "Archivo, Helvetica, Arial, sans-serif",
+    "kicker_family": "Archivo, Helvetica, Arial, sans-serif",
+    "svg_stacks": {
+      "title": "'Bodoni Moda', Didot, Georgia, serif",
+      "kicker": "Archivo, Helvetica, Arial, sans-serif",
+      "body": "Archivo, Helvetica, Arial, sans-serif",
+      "condensed": "Six Caps, 'Arial Narrow', Arial, sans-serif"
+    },
+    "ladders": {
+      "a4": {
+        "annotation": 14,
+        "caption": 16,
+        "body": 23,
+        "lead": 28,
+        "subtitle": 32,
+        "heading_sm": 38,
+        "title": 58,
+        "display": 92,
+        "hero": 160
+      },
+      "ppt169": {
+        "annotation": 12,
+        "caption": 14,
+        "body": 18,
+        "lead": 22,
+        "subtitle": 26,
+        "heading_sm": 30,
+        "title": 46,
+        "display": 72,
+        "hero": 124
+      }
+    },
+    "tracking_em": {
+      "kicker": 0.22,
+      "running_header": 0.24,
+      "display": 0.008
+    },
+    "leading": {
+      "body": 1.52,
+      "lead": 1.42,
+      "display": 1.02
+    },
+    "ladder_note": "Calibrated for physical A4 print (210 x 297 mm = 595.28 x 841.89 pt on the 1240 x 1754 authoring canvas, where 1 SVG unit = 0.48 pt). At A4 print: annotation/microtext floor 14 = 6.7 pt (never drop below 14 on A4), caption/kicker 16 = 7.7 pt, body 23 = 11.0 pt, lead 28 = 13.4 pt, statement 58 = 27.8 pt, display 92 = 44.2 pt, hero 160 = 76.8 pt, oversized poster numerals 204-300 = 98-144 pt."
+  },
+  "fonts": [
+    {
+      "family": "Bodoni Moda",
+      "role": "title",
+      "license": "OFL-1.1",
+      "license_file": "fonts/OFL-BodoniModa.txt",
+      "url": "https://fonts.google.com/specimen/Bodoni+Moda",
+      "embed": {
+        "regular": {
+          "source": "fonts/BodoniModa-Regular.ttf"
+        },
+        "bold": {
+          "source": "fonts/BodoniModa-Bold.ttf"
+        },
+        "italic": {
+          "source": "fonts/BodoniModa-Italic.ttf"
+        }
+      },
+      "fallback": "Didot",
+      "pitch_family": 24
+    },
+    {
+      "family": "Archivo",
+      "role": "body",
+      "license": "OFL-1.1",
+      "license_file": "fonts/OFL-Archivo.txt",
+      "url": "https://fonts.google.com/specimen/Archivo",
+      "embed": {
+        "regular": {
+          "source": "fonts/Archivo-Regular.ttf"
+        },
+        "bold": {
+          "source": "fonts/Archivo-Bold.ttf"
+        }
+      },
+      "fallback": "Helvetica",
+      "pitch_family": 22
+    },
+    {
+      "family": "Six Caps",
+      "role": "display",
+      "license": "OFL-1.1",
+      "license_file": "fonts/OFL-SixCaps.txt",
+      "url": "https://fonts.google.com/specimen/Six+Caps",
+      "embed": {
+        "regular": {
+          "source": "fonts/SixCaps-Regular.ttf"
+        }
+      },
+      "fallback": "Arial Narrow",
+      "pitch_family": 40
+    }
+  ],
+  "postexport": {
+    "embed_fonts": false,
+    "render_check": "on request or when validating an optional font variant"
+  },
+  "mirror": {
+    "html_font_map": {
+      "BD": "title",
+      "Bodoni Moda": "title",
+      "AR": "body",
+      "Archivo": "body",
+      "SC": "condensed",
+      "Six Caps": "condensed",
+      "Noto Serif CJK SC": "title",
+      "Noto Sans CJK SC": "body",
+      "Didot": "title",
+      "Helvetica": "body"
+    },
+    "html_css_overrides": "@font-face{font-family:\"Noto Sans CJK SC\";src:local(\"PingFang SC\");font-weight:400 900}@font-face{font-family:\"Noto Serif CJK SC\";src:local(\"Songti SC\");font-weight:400 900}"
+  },
+  "design_defaults": [
+    "用“影像状态”而不是固定版式组织页面：全出血、内嵌画框、钴蓝染色、字即图四种状态循环出现；每种状态都必须服务当前页面的信息任务。",
+    "基于 A4 物理印刷换算（1240×1754 画布上 1 单位 ≈ 0.48 pt）与瑞士国际主义尺度极差规划：微字与图注不低于 14–16px（6.7–7.7 pt，绝不使用 8–11px 不可读微缩字），正文 22–24px Regular，导语 28px，宣言 54–64px，巨型陈列字 158–300px。",
+    "钴蓝是打断与节奏，不是底色。色块使用 0.14–0.92 的透明度阶梯，让照片和巨型字在叠透中仍然可见；纯色块只用于需要绝对重量的短句。",
+    "以十二栏瑞士网格、发丝线、页眉页码和严格基线建立秩序，再用不对称的大字、越界字和图像切口制造先锋感；秩序与破坏必须同时可读，阅读动线严格匹配信息重要顺序。",
+    "字体层级固定为：Bodoni Moda 巨型 Didone 标题与数字、Six Caps 超窄大写、Archivo 中性无衬线正文与微文字；不混入第四种展示字体。",
+    "字即图（type-as-image）：把真实人像裁进超窄字母内部，生成透明 PNG；所有需要阅读、编辑的文字仍保持原生文本。",
+    "黑白人像承担情绪，钴蓝承担结构，纸色承担呼吸；避免彩色照片、渐变彩虹和高光滤镜破坏编辑感。",
+    "所有图片使用可商用图库并记录来源；不使用时尚杂志扫描图、品牌广告图或可识别品牌标志，不把生成图说成实拍。"
+  ]
+}

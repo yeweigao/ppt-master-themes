@@ -45,29 +45,38 @@
     },
     "ladders": {
       "a4": {
-        "annotation": 16,
-        "body": 21,
-        "lead": 25,
-        "subtitle": 28,
-        "heading_sm": 33,
-        "title": 50,
-        "display": 64,
-        "hero": 133
+        "annotation": 15,
+        "caption": 17,
+        "body": 23,
+        "lead": 28,
+        "subtitle": 32,
+        "heading_sm": 38,
+        "title": 58,
+        "display": 84,
+        "hero": 148
       },
       "ppt169": {
-        "annotation": 13,
+        "annotation": 12,
+        "caption": 14,
         "body": 18,
         "lead": 22,
-        "subtitle": 24,
-        "heading_sm": 28,
-        "title": 40,
-        "display": 56,
-        "hero": 110
+        "subtitle": 25,
+        "heading_sm": 30,
+        "title": 44,
+        "display": 64,
+        "hero": 112
       }
     },
     "tracking_em": {
-      "kicker": 0.2
-    }
+      "kicker": 0.2,
+      "running_header": 0.18
+    },
+    "leading": {
+      "body": 1.5,
+      "lead": 1.4,
+      "display": 1.12
+    },
+    "ladder_note": "Calibrated for physical A4 print (210 x 297 mm = 595.28 x 841.89 pt on the 1240 x 1754 authoring canvas, where 1 SVG unit = 0.48 pt). Never drop annotation/ticks below 14 units (6.7 pt) on A4; keep lead (28) clearly larger than body (22-24) so reading flow matches information importance."
   },
   "fonts": [
     {
